@@ -464,17 +464,17 @@
                οὐθὲν τἆλλʹ ἐστὶν ἁπλῶς πρὸς Λέσβιον οἶνον. / ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ
                παρʹ αὐτοῖς.</p>
          </div>
-         <pb n="4" facs="data/images/single/archestratus_ms_a_fr_4_fake_test_no_file.png"
-            xml:id="archestratus_ms_a_fr_4_fake_test_no_file"/>
-         <div n="4" type="fragment">
-            <p>Fragment 4 (Ath. 2. 56c) ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</p>
-         </div>
-         <pb n="5" facs="data/images/single/archestratus_ms_a_fr_5.png"
-            xml:id="archestratus_ms_a_fr_5"/>
-         <div n="5" type="fragment">
-            <p>Fragment 5 (Ath. 2. 64a) βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι / τ’ ταῖς παροψίσι
-               πάσῃσι.</p>
-         </div>
+          <div n="4" type="fragment">
+               <head>Fragment 4 (Ath. 2. 56c)</head>
+               <l n="1">ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l><note>habent
+                  CE</note></div>
+            <pb n="5" facs="data/images/single/archestratus_ms_a_fr_5_fake_test_no_file.png"
+            xml:id="archestratus_ms_a_fr_5_fake_test_no_file"/>
+            <div n="5" type="fragment">
+               <head>Fragment 5 (Ath. 2. 64a)</head> 
+               <l n="1">βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι</l> 
+               <l n="2">τ’ ταῖς <app><lem wit="#C">ἄλλαις παροψίσι πάσηισι</lem><rdg wit="#E">ἄλλαισι παροψίσι πάσαις</rdg>
+               </app>.</l><note>habent CE</note></div>
          <pb n="6" facs="data/images/single/archestratus_ms_a_fr_6.png"
             xml:id="archestratus_ms_a_fr_6"/>
          <div n="6" type="fragment">
