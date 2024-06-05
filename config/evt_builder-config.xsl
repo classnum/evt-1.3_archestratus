@@ -31,7 +31,7 @@
 	<xsl:param name="dataPrefix" select="'../..'"/>
 	<!-- page -->
 
-	<xsl:param name="imageExt">png</xsl:param>
+	<xsl:param name="imageExt">jpg</xsl:param>
 	<!-- images extension -->
 
 	<!-- EN: Main web site for digital edition -->
@@ -42,7 +42,7 @@
 	<!-- EN: Index title -->
 	<!-- IT: Titolo edizione -->
 	<!-- default: 'Codex Viewer' -->
-	<xsl:param name="index_title" select="'Archestratus'"/>
+	<xsl:param name="index_title" select="'Édition de démonstration'"/>
 
 	<!-- EN: Welcome Message -->
 	<!-- IT: Messaggio di benvenuto -->
