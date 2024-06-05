@@ -543,7 +543,7 @@
 
             <div type="paratext" subtype="intro">
 
-               <head><hi rend="italic">Introduction</hi>
+               <head><hi rend="italic">Introduction</hi></head>
 <p>Seuls subsistent aujourd’hui soixante-deux fragments<note n="1">Je remercie vivement Aurélien Berra pour les
                   pages de sa thèse qui m’ont aidée à enrichir mon introduction. </note>, soit environ 334 vers<note n="2">Soit
                   environ 28% du poème si l’on considère qu’un poème écrit sur un papyrus pouvait
@@ -2620,23 +2620,3 @@
         </div>
     </div>
 </back></text></TEI>
-                          
-
-
-         
-         
-         
-            
-            
-            
-            
-            
-               </div>
-            </div>
-         </div>
-
-      </back>
-
-   </text>
-
-</TEI>
