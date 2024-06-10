@@ -1085,12 +1085,7 @@
                </app></l>
             <note>habent ACE></note>
          </div>
-
-         <!--<pb>image monnaie eresos
-            </pb>-->
-
-
-         <pb n="11" facs="data/images/single/archestratus_ms_a_fr_6.png"
+ <pb n="11" facs="data/images/single/archestratus_ms_a_fr_6.png"
             xml:id="archestratus_ms_a_fr_6"/>
          <div n="11" type="fragment">
             <head>Fragment 11 (Ath. 3. 112b-c)</head>
@@ -1149,12 +1144,6 @@
             <l n="8">τὸν σοφὸν ἐγκρατέως μετʹ ἐκείνου πυθαγορίζειν.</l>
             <note>habet A</note>
          </div>
-
-         <!--<pb>cratère d'Ischia
-               </pb>-->
-
-
-
          <pb n="14" facs="data/images/single/archestratus_ms_a_fr_36.png"
             xml:id="archestratus_ms_a_fr_36"/>
          <div n="14" type="fragment">
