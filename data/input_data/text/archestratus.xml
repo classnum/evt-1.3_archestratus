@@ -795,10 +795,6 @@
             <l n="4">μισθοφόρων ἁρπαξιβίων σκηνὴ στρατιωτῶν.</l>
             <note>habent CE</note>
          </div>
-
-         <!--<pb>fresque paestum
-               </pb>-->
-
          <pb n="3" facs="data/images/single/archestratus_ms_a_fr_3_fake_test_no_file.png"
             xml:id="archestratus_ms_a_fr_3_fake_test_no_file"/>
          <div n="3" type="fragment">
@@ -912,11 +908,6 @@
             <l n="9">Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται.</l>
             <note>habent ACE</note>
          </div>
-
-         <!--<pb>image monnaie silphium
-               </pb>-->
-
-
          <pb n="7" facs="data/images/single/archestratus_ms_a_fr_60.png"
             xml:id="archestratus_ms_a_fr_60"/>
          <div n="7" type="fragment">
