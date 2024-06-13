@@ -1552,11 +1552,11 @@
                   <rdg wit="#C">χείρεσιν</rdg>
                   <rdg wit="#E">χείρεσσι</rdg>
                </app> ἔχοντες</l>
-            <l n="8">εἰώθασι δονεῖν ψήφους <app>
-                  <lem wit="#A  #C">ἄρθρων μηλείων</lem>
-                  <rdg wit="#E">ἄρθρον μηλείων</rdg>
-               </app></l>
-            <l n="9">κἄρθρων μηλείων ἐπὶ γῆν δωρήματα <app>
+            <l n="8">εἰώθασι δονεῖν ψήφους 
+                  αἴθωνι λογισμῶι
+                  </l>
+            <l n="9"><app><lem wit="#A #C">ἄρθρων μηλείων<rdg wit="#E">ἄρθρον μηλείων</rdg>
+               </app> ἐπὶ γῆν δωρήματα <app>
                   <lem wit="#A">βάλλων</lem>
                   <rdg wit="#C #E">βάλλειν</rdg>
                </app>.</l>
@@ -1609,7 +1609,7 @@
             <l n="4">ἄλλο δʹ ἐκεῖσε, φίλη κεφαλή, <app>
                   <lem wit="#A #E">μηδὲν</lem>
                   <rdg wit="#C"><lacunaStart/></rdg>
-               </app>μηδὲν προσενέγκωις,</l>
+               </app> προσενέγκωις,</l>
             <l n="5">εἰ μὴ γλαυκὸν ἔλαιον. ἐπειδὰν δʹ ὀπτὰ γένηται,</l>
             <l n="6">ἤδη τριμμάτιόν δέ φέρειν καὶ ἐκεῖνα μετʹ αὐτοῦ.<app>
                   <rdg wit="#C #E"><lacunaStart/></rdg>
@@ -1758,8 +1758,8 @@
          <div n="44" type="fragment">
             <head>Fragment 44 (Ath. 7. 318f)</head>
             <l n="1">πώλυποι ἔν τε <app>
-                  <lem wit="#A #E">θάσωι</lem>
-                  <rdg wit="#C">θάσσῳ</rdg>
+                  <lem wit="#A #E">Θάσωι</lem>
+                  <rdg wit="#C">Θάσσῳ</rdg>
                </app> καὶ Καρίαι εἰσὶν ἄριστοι.</l>
             <l n="2">καὶ Κέρκορα τρέφει πολλοὺς μεγάλους τε <app>
                   <lem wit="#A">τὸ πλῆθος</lem>
@@ -1898,7 +1898,7 @@
             xml:id="archestratus_ms_a_fr_42_fake_test_no_file"/>
          <div n="53" type="fragment">
             <head>Fragment 53 (Ath. 7. 325d-e)</head>
-            <l n="1">κἀν Θάσζωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι</l>
+            <l n="1">κἀν Θάσωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι</l>
             <l n="2">ταύτης· <app>
                   <lem wit="#A">ἐν δὲ <app>
                         <lem wit="#A">τῶι</lem>
@@ -3038,7 +3038,7 @@
                <div n="34" type="fragment">
                   <l n="1">Achète un mulet d’<placeName ref="#Egi">Égine</placeName> baigné de tous
                      côtés,</l>
-                  <l n="2">tu compteras parmi les hommes intelligents<note n="18">Durant
+                  <l n="2">et tu compteras parmi les hommes intelligents<note n="18">Durant
                         l'Antiquité, il existait un stéréotype selon lequel ceux qui vivaient dans
                         les villes étaient sophistiqués et intelligents alors que ceux des campagnes
                         étaient rustres et stupides. Cela était bien ancré dans l’esprit populaire
@@ -3161,7 +3161,7 @@
                <div>
                   <div n="p45" type="page" corresp="#archestratus_ms_a_fr_47">
                      <div n="45" type="fragment">
-                        <l n="1">Quant aux poissons cartilagineux, assurément, l’illustre <placeName ref="#Mil"
+                        <l n="1">Et quant aux poissons cartilagineux, assurément, l’illustre <placeName ref="#Mil"
                               >Milet</placeName> nourrit</l>
                         <l n="2">les meilleurs. Mais faut-il donc faire un discours sur la lime</l>
                         <l n="3">et la raie à dos large alors que je pourrais manger</l>
@@ -3213,7 +3213,7 @@
                            chevelure,</l>
                         <l n="3">prends alors un sargue grillé, saupoudré de fromage,</l>
                         <l n="4">d’une bonne taille et chaud, arrosé de vinaigre acide ;</l>
-                        <l n="5">il est de nature sèche. Rappelle-toi</l>
+                        <l n="5">car il est de nature sèche. Rappelle-toi</l>
                         <l n="6">de préparer tout poisson à chair ferme de cette manière.</l>
                         <l n="7">Mais le bon poisson, tendre par nature et à chair
                            grasse,</l>
