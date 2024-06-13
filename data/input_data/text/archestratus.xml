@@ -774,7 +774,7 @@
       </front>
 
       <body>
-         <pb n="1" facs="data/images/single/archestratus_ms_a_fr_1_debut.png"
+         <pb n="1" facs="data/images/single/archestratus_ms_e_fr_1_debut.png"
             xml:id="archestratus_ms_a_fr_1"/>
          <div n="1" type="fragment">
             <head>Fragment 1 (Ath. 1. 4d-e)</head>
@@ -782,7 +782,7 @@
             <p>φησί.</p>
             <note>habent CE</note>
          </div>
-         <pb n="2" facs="data/images/single/archestratus_ms_a_fr_4.png"
+         <pb n="2" facs="data/images/single/archestratus_ms_e_fr_4.png"
             xml:id="archestratus_ms_a_fr_4"/>
          <div n="2" type="fragment">
             <head>Fragment 2 (Ath. 1. 4d-e)</head>
@@ -795,7 +795,7 @@
             <l n="4">μισθοφόρων ἁρπαξιβίων σκηνὴ στρατιωτῶν.</l>
             <note>habent CE</note>
          </div>
-         <pb n="3" facs="data/images/single/archestratus_ms_a_fr_59_debut.png"
+         <pb n="3" facs="data/images/single/archestratus_ms_e_fr_59_debut.png"
             xml:id="archestratus_ms_a_fr_59_debut"/>
          <div n="3" type="fragment">
             <head>Fragment 3 (Ath. 1. 29a-d) )</head>
@@ -842,14 +842,14 @@
             <l n="20">ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ' αὑτοῖς.</l>
             <note>habent CE</note>
          </div>
-         <pb n="4" facs="data/images/single/archestratus_ms_a_fr_8.png"
+         <pb n="4" facs="data/images/single/archestratus_ms_e_fr_8.png"
             xml:id="archestratus_ms_a_fr_8"/>
          <div n="4" type="fragment">
             <head>Fragment 4 (Ath. 2. 56c)</head>
             <l n="1">ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l>
             <note>habent CE</note>
          </div>
-         <pb n="5" facs="data/images/single/archestratus_ms_a_fr_9.png"
+         <pb n="5" facs="data/images/single/archestratus_ms_e_fr_9.png"
             xml:id="archestratus_ms_a_fr_9"/>
          <div n="5" type="fragment">
             <head>Fragment 5 (Ath. 2. 64a)</head>
