@@ -710,8 +710,9 @@
                   quels moments du texte <persName ref="#Arc">Archestrate de Géla</persName> est
                   cité.</p>
 
-               <!--<pb>image graphique Monica Berti 
-               </pb>-->
+              
+                <pb n="3" facs="data/images/single/monicaberti.png"
+               <xml:id="monicaberti"/>
 
                <p><hi rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note n="4"
                         >Les informations de cette partie sont issues d'Olson et Sens (2000)</note>
