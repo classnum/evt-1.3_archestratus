@@ -543,7 +543,7 @@
 
             <div type="paratext" subtype="intro">
 
-               <head><hi rend="italic">Introduction</hi></head>
+               <head><hi rend="bold">Introduction</hi></head>
                <p>Seuls subsistent aujourd’hui soixante-deux fragments<note n="1">Je remercie
                      vivement Aurélien Berra pour les pages de sa thèse qui m’ont aidée à enrichir
                      mon introduction. </note>, soit environ 334 vers<note n="2">Soit environ 28% du
@@ -768,7 +768,7 @@
             </div>
             
                <div type="paratext" subtype="sigla">
-               <head rend="italic">SIGLA</head>
+               <head rend="bold">SIGLA</head>
                <p>A Venetus Marcianus 447</p>
                <p>C Parisinus suppl. gr. 841</p>
                <p>E Laurentianus Plutei LX. 2</p>
