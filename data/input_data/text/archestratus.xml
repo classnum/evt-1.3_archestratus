@@ -775,6 +775,498 @@
                <p>E Laurentianus Plutei LX. 2</p>
             </div>
 
+<div type="paratext" subtype="commentaire">
+            <head>Commentaire des passages introduisant les fragments</head>
+            <p>Si les fragments d’<persName ref="#Arc">Archestrate de Géla</persName> sont cités
+               dans l’œuvre d’<persName ref="#Ath">Athénée</persName>, c’est qu’ils étaient encore
+               connus au tournant du IIe et IIIe siècle de notre ère, soit plus de six siècles après
+               leur écriture. On peut se demander quel regard <persName ref="#Ath"
+                  >Athénée</persName> porte sur ce poète du IVe avant notre ère et on appréciera les
+               relations complexes et changeantes qu’entretient ce dernier avec <persName ref="#Arc"
+                  >Archestrate</persName>. On verra tout d’abord qu’<persName ref="#Ath"
+                  >Athénée</persName> donne des renseignements sur le poète et son œuvre sur un ton
+               relativement neutre. Puis, on montrera qu’<persName ref="#Ath">Athénée</persName>,
+               par le choix de ses formules, peut se montrer très élogieux et faire d’<persName
+                  ref="#Arc">Archestrate</persName> une référence. Enfin, <persName ref="#Ath"
+                  >Athénée</persName> peut faire preuve d’ambivalence à son égard et même se révéler
+               hostile.</p>
+            <div type="section" n="1">
+               <head>Quelques renseignements sur le poète et son œuvre</head>
+
+               <div type="sous-section" n="1">
+                  <head>Une origine sicilienne</head>
+                  <p>Peu de choses nous sont parvenues aujourd’hui sur la vie d’<persName ref="#Arc"
+                        >Archestrate</persName> et déjà au temps d’<persName ref="#Ath">Athénée de
+                        Naucratis</persName>, les indications biographiques étaient peu nombreuses.
+                     L’un des rares renseignements que nous donne <persName ref="#Ath"
+                        >Athénée</persName> est la ville de naissance d’<persName ref="#Arc"
+                        >Archestrate</persName> : ce dernier serait de <placeName ref="#Gé"
+                        >Géla</placeName> ou de <placeName ref="#Syr">Syracuse</placeName>, deux
+                     villes se trouvant en <placeName ref="#Sic">Sicile</placeName>, la première au
+                     sud de l’île, la seconde à l’est : </p>
+                  <p><l>Ἀρχέστρατος ὁ Συρακούσιος ἢ Γελῷος (ap. Ath. I. 4d-e) </l>
+                     <l><persName ref="#Arc"><hi rend="italic">Archestrate</hi></persName><hi
+                           rend="italic"> de </hi><placeName ref="#Syr"><hi rend="italic"
+                              >Syracuse</hi></placeName><hi rend="italic"> ou de </hi><placeName
+                           ref="#Gé"><hi rend="italic">Géla</hi></placeName>.</l></p>
+
+                  <p>Si<persName ref="#Arc">Archestrate</persName> fait mention à plusieurs reprises
+                     de la ville de <placeName ref="#Syr">Syracuse</placeName> dans ses fragments,
+                     jamais il n’est question de <placeName ref="#Gé">Géla</placeName>. Peut-être
+                     que le nom de <placeName ref="#Gé">Géla</placeName> apparaissait ailleurs dans
+                     son poème et que ce nom s’est perdu en même temps que certains fragments ou
+                     bien qu’<persName ref="#Arc">Archestrate</persName> n’en fait réellement jamais
+                     mention. Cela peut s’expliquer par le fait que dans la première moitié du IVe
+                     siècle avant notre ère, <placeName ref="#Gé">Géla</placeName> est une ville
+                     dangereuse. <persName ref="#Arc">Archestrate</persName> et sa famille ont
+                     possiblement fui <placeName ref="#Gé">Géla</placeName> pour se réfugier à
+                        <placeName ref="#Syr">Syracuse</placeName>. <persName ref="#Arc"
+                        >Archestrate</persName> a peut-être préféré oublier ce pénible souvenir.
+                     Quoi qu’il en soit, l’origine sicilienne d’<persName ref="#Arc"
+                        >Archestrate</persName> ne semble pas faire débat. Par ailleurs, la
+                        <placeName ref="#Sic">Sicile</placeName>, colonisée par les Grecs entre les
+                     VIIIe et VIIe siècles avant notre ère, est alors renommée à travers la
+                        <placeName ref="#Gra">Grande Grèce</placeName> pour ses plaines fertiles et
+                     sa gastronomie qui sont chantées par plusieurs poètes siciliens. <persName
+                        ref="#Arc">Archestrate</persName> s’inscrit dans cette tradition sicilienne
+                     où la cuisine est célébrée : <persName ref="#Mith">Mithécos de
+                        Syracuse</persName> est sans doute le premier cuisinier ayant écrit un livre
+                     de cuisine à la fin du Vème siècle av. J.-C et <persName ref="#Héra">Héraclide
+                        de Syracuse</persName> a écrit un <hi rend="italic">Art culinaire</hi> au
+                     IVème siècle avant notre ère.</p>
+               </div>
+
+               <div type="sous-section" n="2">
+                  <head>Un voyageur</head>
+                  <p>Outre son origine, <persName ref="#Ath">Athénée</persName> nous renseigne sur
+                     le fait qu’<persName ref="#Arc">Archestrate</persName> a beaucoup voyagé. Cela
+                     nous est dit dans les passages suivants :</p>
+                  <p><lb/>Γῆν πᾶσαν θάλασσαν περιῆλθεν ἀκριβῶς (ap. Ath. 7. 278d-e) <lb/><hi
+                        rend="italic">Il [Archestrate] a parcouru rigoureusement toute la terre et
+                        toute la mer.</hi></p>
+                  <p><l>Ἀρχέστρατος μὲν ὀ περιπλεύσας τὴν οἰκουμένην ( ap. Ath. 3. 116f-17b)</l>
+                     <l><hi rend="italic">Archestrate qui a navigué tout autour du monde
+                           habité.</hi></l></p>
+                  <p><l>Ἀρχέστρατος δ´ ὀ πᾶσαν γῆν καὶ θάλασσαν [...] περιελθών (ap. Ath. 7. 326d)
+                           <lb/><hi rend="italic">Archestrate qui a parcouru toute la terre et toute
+                           la mer.</hi></l></p>
+
+                  <p><persName ref="#Arc">Archestrate de Géla</persName> a ainsi parcouru l’<hi
+                        rend="italic">oikouménè</hi> c’est-à-dire l’ensemble des terres connues et
+                     habitées de son époque. Cela nous est confirmé par les soixante-deux fragments
+                     que nous avons traduits. Nous avons pu en effet dénombrer plus d’une
+                     cinquantaine de cités toutes situées en <placeName ref="#Gr">Grèce</placeName>
+                     et en <placeName ref="#Gra">Grande-Grèce</placeName>. <persName ref="#Arc"
+                        >Archestrate de Géla</persName> semble avoir des connaissances précises et
+                     bien délimitées de la géographie du monde grec de son temps. C’est un espace
+                     structuré : à l’ouest par la <placeName ref="#Sic">Sicile</placeName>, à l’est
+                     par des cités comme <placeName ref="#Mil">Milet</placeName>, au nord par
+                        l’<placeName ref="#Hel">Hellespont</placeName>, au sud par la<placeName
+                        ref="#Crè">Crète</placeName>. Si<persName ref="#Arc">Archestrate de
+                        Géla</persName> semble être un voyageur infatigable, il n’en reste pas moins
+                     qu’il ne s’est pas vraiment aventuré dans l’<hi rend="italic">érème</hi>
+                     c’est-à-dire dans des terres non explorées, dans le monde des barbares. En
+                     effet, ces derniers n’y ont presque aucune place à l’exception de deux
+                     références à la <placeName ref="#Phé">Phénicie</placeName> et à la <placeName
+                        ref="#Lyd">Lydie</placeName>. Cela s’explique par le fait que le but
+                        d’<persName ref="#Arc">Archestrate</persName> n’était pas de découvrir dans
+                     de nouvelles contrées de nouveaux mets mais de rechercher les meilleurs
+                     produits connus de ses contemporains.</p>
+               </div>
+
+               <div type="sous-section" n="3">
+                  <head>Une œuvre qui a parcouru le monde</head>
+                  <p>Quoi qu’il en soit, si<persName ref="#Arc">Archestrate</persName> n’a peut-être
+                     pas visité le monde qu’il décrit, son œuvre a sans aucun doute beaucoup voyagé.
+                     Elle porte en effet plusieurs titres, preuve qu’elle a circulé et qu’elle a été
+                     connue pendant l’Antiquité. L’œuvre d’<persName ref="#Arc"
+                        >Archestrate</persName> est tout d’abord citée par quatre auteurs :</p>
+                  <p><l>ἐν τῇ ὡς Χρύσιππος ἐπιγράφει Γαστρονομίᾳ, ὡς δὲ Λυγκεὺς καὶ Καλλίμαχος
+                        Ἡδυπαθείᾳ, ὡς δὲ Κλέαρχος Δειπνολογία, ὡς δ᾽ ἄλλοι Ὀψοποιία. (ap. Ath. I.
+                        4d)</l><l>Dans l’ouvrage intitulé, selon <persName ref="#Chrys"
+                              >Chrysippe<note>Chrysippe de Soles, philosophe stoïcien (280-206 av.
+                              J.-C.).</note></persName> la <hi rend="italic">Gastronomie</hi>, selon
+                           <persName ref="#Lyn">Lyncée<note>Lyncée de Samos, poète comique et
+                              grammairien du IVème siècle av. J.-C. Il est aussi l’auteur de livres
+                              de cuisine et d’un ouvrage sur la manière d’acheter le poisson.
+                           </note></persName>et<persName ref="#Call">Callimaque<note>Callimaque de
+                              Cyrène, poète (305-240 av. J.-C.).</note></persName>la<hi
+                           rend="italic">Vie de plaisirs</hi>, selon <persName ref="#Clé"
+                              >Cléarque<note>Cléarque de Soles, philosophe péripatéticien du IVème
+                              siècle av. J.-C.</note></persName>, <hi rend="italic">La science du
+                           repas</hi>, selon d’autres la <hi rend="italic">Cuisine</hi>.</l></p>
+
+                  <p>En 4. 162b et 7. 278a-d.,<persName ref="#Ath">Athénée</persName>cite<persName
+                        ref="#Lyc">Lycophron de Chalcis<note>Lycophron de Chalcis, poète grec du
+                           IVème siècle av. J.-C.</note></persName>qui appelle l’œuvre d’<persName
+                        ref="#Arc">Archestrate</persName>Γαστρολογία (<hi rend="italic"
+                        >Gastrologia</hi>). <persName ref="#Ath">Athénée</persName> qualifie enfin
+                     le poème d’<persName ref="#Arc">Archestrate</persName> des façons suivantes :
+                     ἐν ταῖς Ὑποθήκαις (dans ses <hi rend="italic">Conseils</hi>) (ap. Ath. 7. 328b,
+                     7. 310a, 7. 284e), ἱστορία (<hi rend="italic">Informations</hi>) (ap. Ath. 7.
+                     298e, 7. 326b, 9. 383b), et de ἐν ταῖς Γνώμαις (dans ses <hi rend="italic"
+                        >Maximes</hi>) (ap. Ath. 7.286d). </p>
+
+                  <p>Ainsi le poème d’<persName ref="#Arc">Archestrate</persName> est-il désigné de
+                     huit façons différentes et parmi ses huit titres, il est impossible de savoir
+                     lequel <persName ref="#Arc">Archestrate</persName> avait choisi, si toutefois
+                     celui-ci figure bien parmi ces huit propositions. Nous n’en avons en effet
+                     aucune mention dans aucun manuscrit.</p>
+
+                  <p>Nous constatons tout d’abord que deux titres - <hi rend="italic"
+                        >Gastrologia</hi> et <hi rend="italic">Gastronomia</hi> - sont formés sur le
+                     radical <hi rend="italic">gastros</hi>. Dans le premier cas, ce radical est
+                     suivi du suffixe -logos : la Gastrologia signifie littéralement <hi
+                        rend="italic">le discours du ventre</hi>. Le terme <hi rend="italic"
+                        >Gastronomia</hi>, quant à lui, est formé à partir du suffixe <hi
+                        rend="italic">-nomos</hi>, suffixe qui entre dans la composition de mots
+                     savants pour désigner une discipline : la <hi rend="italic">Gastronomia</hi>
+                     serait littéralement <hi rend="italic">la science du ventre</hi>. Ces deux
+                     titres annoncent, non sans une certaine dérision, un ouvrage
+                     pseudo-scientifique. Il en de même pour la <hi rend="italic">Deipnologia</hi>
+                     ou <hi rend="italic">le Discours des repas</hi>. Il semble ainsi que <persName
+                        ref="#Lyc">Lycophron</persName>, <persName ref="#Chry">Chrysippe</persName>
+                     et <persName ref="#Clé">Cléarque</persName> aient un avis négatif sur l'œuvre
+                        d’<persName ref="#Arc">Archestrate</persName> et cherchent à la dénigrer :
+                     le manque de maîtrise des appétits va à l’encontre du mode de vie philosophique
+                     pour les Stoïciens et la gastronomie relèverait de la vie de plaisirs
+                     disqualifiée par la tradition aristotélicienne au profit de la vie politique et
+                     théorétique. <persName ref="#Lyn">Lyncée</persName> et <persName ref="#Call"
+                        >Callimaque</persName>, quant à eux, emploient un autre terme, celui d’
+                     Ἡδυπαθείας (cité quatre fois par Athénée<note>Cf. les phrases introductives aux
+                        fragments 14, 32, 39, 40.</note>) et que le Bailly définit comme la vie de
+                        <hi rend="italic">jouissance ou de mollesse</hi>. Si nous éliminons les noms
+                        <hi rend="italic">Hypothekai</hi>, <hi rend="italic">Gnomai</hi>, et <hi
+                        rend="italic">Historiai</hi> - beaucoup trop généralistes et n’ayant par
+                     conséquent que peu d’intérêt pour désigner l'œuvre d’<persName ref="#Arc"
+                        >Archestrate</persName> -, Ἡδυπαθείας est considéré, selon <persName
+                        ref="#Ols">S. Douglas Olson</persName> et <persName ref="#Sen">Alexander
+                        Sens</persName>, comme le titre le meilleur qui puisse être attribué au
+                     poème d’<persName ref="#Arc">Archestrate</persName>. Ce titre annonce de façon
+                     explicite qu’il y est question des plaisirs de la vie sans qu’il n’y ait la
+                     moindre critique sous-jacente de la part de <persName ref="#Lyn"
+                        >Lyncée</persName> et de <persName ref="#Call">Callimaque</persName>. C’est
+                     d’ailleurs celui-ci que les deux chercheurs ont adopté pour désigner l'œuvre
+                        d’<persName ref="#Arc">Archestrate</persName>. Il en va de même pour
+                        <persName ref="#Wil">John Wilkins</persName> et <persName ref="#Hil">Shaun
+                        Hill</persName>. Parmi tous ces titres, <persName ref="#Ath">Athénée de
+                        Naucratis</persName> ne semble pas prendre position. Au contraire. Il
+                     rappelle tout ce qu’il a entendu afin de conserver la mémoire d’<persName
+                        ref="#Arc">Archestrate</persName>. À une époque où la culture romaine prend
+                     le pas sur la culture grecque et où cette dernière est en déclin, <persName
+                        ref="#Ath">Athénée</persName> se pose en garant et défenseur de la
+                     littérature hellénistique. N’est-ce pas là, d’ailleurs, tout l’enjeu des <hi
+                        rend="italic">Deipnosophistes</hi> ?</p>
+               </div>
+            </div>
+            <div type="section" n="2">
+               <head>Du gastronome au glouton : le regard duel d’<persName ref="#Ath"
+                     >Athénée</persName> sur <persName ref="#Arc">Archestrate</persName></head>
+
+               <p><persName ref="#Ath">Athénée de Naucratis</persName> nous donne ainsi des
+                  renseignements sur le poète et son œuvre de façon objective lorsqu’il introduit
+                  certains fragments d’<persName ref="#Arc">Archestrate de Géla</persName>. Mais, à
+                  d’autres moments, il nous livre son jugement qui peut être, dans certains cas,
+                  laudatif et, dans d’autres, très négatif.</p>
+
+               <div type="sous-section" n="1">
+                  <head>Expressions laudatives</head>
+                  <p>Nous constatons tout d’abord qu’<persName ref="#Arc">Archestrate</persName> est
+                     caractérisé de façon positive par <persName ref="#Ath">Athénée</persName>. En
+                     effet, les adjectifs σοφός (ap. Ath. 7. 321c-d et 7. 311a-c) et καλός (ap. Ath.
+                     7. 307d) présentent <persName ref="#Arc">Archestrate</persName> comme un homme
+                        <hi rend="italic">sage</hi> et <hi rend="italic">beau</hi>. Les Grecs
+                     pensaient que la beauté externe (καλός) était associée à une beauté interne
+                     (σοφός) et qu’un beau visage était l’expression d’une belle âme. <persName
+                        ref="#Arc">Archestrate</persName> incarne l’idéal grec selon <persName
+                        ref="#Ath">Athénée</persName>.</p>
+                  <p>L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 :</p>
+
+                  <p><l>Περὶ τῶν κατ´ Ἰταλίαν τόπων διεξιών [...] ὁ καλὸς οὗτος περιηγητής (ap. Ath.
+                        7. 294a) </l><l><hi rend="italic">Ce noble explorateur poursuivant sur les
+                           régions d’Italie.</hi></l></p>
+
+                  <p><persName ref="#Arc">Archestrate</persName> est désigné comme <hi rend="italic"
+                        >le guide sage</hi> qui a parcouru le monde méditerranéen, mettant ainsi en
+                     valeur le choix sûr de ses destinations et sur sa façon de voyager. <persName
+                        ref="#Ath">Athénée de Naucratis</persName> semble assez admiratif de ce
+                     voyageur qui, six siècles plus tôt, a passé une partie de sa vie à parcourir
+                     terres et mers, peut-être même au péril de sa vie dans la mesure où les voyages
+                     en bateau étaient considérés comme dangereux.</p>
+                  <p>D’autres expressions sont aussi appliquées à <persName ref="#Arc"
+                        >Archestrate</persName> : ὀ ὀψαρτυτὴς Ἀρχέστρατος (ap. Ath. 7. 320f-1a) -
+                     expression que l’on pourrait traduire par le <hi rend="italic">chef
+                        Archestrate</hi>, <hi rend="italic">celui qui apprête les mets</hi> - et
+                     Ἀρχέστρατος τοῦ δειπνολόγου (ap. Ath. 1. 29a-d) - <hi rend="italic">l’expert
+                        des banquets</hi>. <persName ref="#Arc">Archestrate</persName> semble être
+                     quelqu’un qui détient une certaine autorité dans les domaines de la gastronomie
+                     et des voyages, à qui l’on peut faire confiance et dont la parole n’est pas à
+                     remettre en question. Archestrate est ainsi une référence.</p>
+               </div>
+
+               <div type="sous-section" n="2">
+                  <head>Expressions négatives</head>
+                  <p>Mais on constate très vite que ces expressions positives sont peu nombreuses et
+                        qu’<persName ref="#Ath">Athénée</persName> recourt aussi à plusieurs figures
+                     de style pour disqualifier <persName ref="#Arc">Archestrate</persName>.
+                        <persName ref="#Ath">Athénée</persName> semble ainsi être amateur de bons
+                     mots pour frapper les esprits et se moquer des conseils culinaires d’un poète
+                     qui, à six siècles de distance, semblent dépassés et vieillis.</p>
+
+                  <div type="sous-sous-section" n="1">
+                     <head>Usage du superlatif</head>
+                     <p><persName ref="#Ath">Athénée</persName> se moque volontiers d’<persName
+                           ref="#Arc">Archestrate</persName>. À cinq reprises, Athénée fait en effet
+                        un usage du superlatif pour le désigner :</p>
+
+                     <p><l>ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) :</l><l><hi rend="italic">le
+                              très instruit </hi><persName ref="#Arc"><hi rend="italic"
+                                 >Archestrate</hi></persName></l></p>
+
+                     <p><l>ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d) </l><l><hi
+                              rend="italic">le très sage </hi><persName ref="#Arc"><hi rend="italic"
+                                 >Archestrate</hi></persName></l></p>
+
+
+                     <p><l>ὁ δὲ πολυμαθέστατος Ἀρχέστρατος (ap. Ath. 7. 324b et 9. 384b)</l><l><hi
+                              rend="italic">le Très-Érudit</hi><persName ref="#Arc"><hi
+                                 rend="italic">Archestrate</hi></persName></l></p>
+
+                     <p>Le superlatif absolu indique qu’<persName ref="#Arc">Archestrate</persName>
+                        l’emporte sur tous ses contemporains en sagesse et en connaissance, ce qui
+                        pourrait apparaître dans un premier temps très laudatif. Mais les Grecs
+                        n’étaient-ils pas sensibles à la σωφροσύνη (<hi rend="italic"
+                           >sophrosuné</hi>) c’est-à-dire à la <hi rend="italic">tempérance</hi> ?
+                        Dès lors que l’on a recours à un superlatif, ne dépasse-t-on pas cette
+                        modération dont l’emploi zéro de l’adjectif serait le garant ? <persName
+                           ref="#Ath">Athénée</persName> introduit ici une pointe d’ironie à l’égard
+                           d’<persName ref="#Arc">Archestrate</persName> qui, n’hésitant pas à faire
+                        montre de son savoir, peut agacer son public par son érudition. D’ailleurs,
+                        l’adjectif κίμβιξ est employé pour introduire le fragment 29. Le Bailly
+                        donne deux sens à cet adjectif. Il désigne tout d’abord celui qui est <hi
+                           rend="italic">pingre</hi>, <hi rend="italic">avare</hi>. Mais cela ne
+                        fait pas sens ici. Le deuxième sens indique un homme <hi rend="italic"
+                           >pointilleux</hi>, <hi rend="italic">vétilleux</hi> : <persName
+                           ref="#Ath">Athénée</persName> critique ici <persName ref="#Arc"
+                           >Archestrate</persName> en pointant son goût excessif pour le détail. Par
+                        exemple, dans le fragment 29, il faut trouver une queue de grande thonne
+                        provenant de <placeName ref="#Byz">Byzance</placeName>. <persName ref="#Arc"
+                           >Archestrate</persName> ne fait-il pas là preuve d’un peu trop d’excès ?
+                        Cela se retourne contre lui et il se ridiculise aux yeux d’<persName
+                           ref="#Ath">Athénée</persName> et des convives de <persName ref="#P.Liv"
+                           >Larensis</persName>, qui se moquent d’une époque et de coutumes
+                        lointaines et révolues. Plus de six siècles séparent en effet les deux
+                        auteurs.</p>
+                  </div>
+
+                  <div type="sous-sous-section" n="2">
+                     <head>Expressions oxymoriques</head>
+                     <p><persName ref="#Ath">Athénée</persName> utilise, par ailleurs, d’autres
+                        expressions tournant en dérision <persName ref="#Arc"
+                        >Archestrate</persName>. Par deux fois, <persName ref="#Ath"
+                           >Athénée</persName> a recours à des expressions oxymoriques. <persName
+                           ref="#Arc">Archestrate</persName> est désigné comme un
+                           ὀψοδαίδαλος<note>Cf. phrases introduisant les fragments 11, 23, 26, 36,
+                           57 et 60.</note> (<hi rend="italic">opsodaidalos</hi>) - <hi
+                           rend="italic">le Dédale des plats savoureux</hi>. Expression uniquement
+                        attestée dans <hi rend="italic">Les Deipnosophistes</hi>, <persName
+                           ref="#Ath">Athénée</persName> met en relation l’ingéniosité technique et
+                        scientifique de <persName ref="#Déd">Dédale</persName>, auteur du célèbre
+                        Labyrinthe et inventeur des ailes d’<persName ref="#Ica">Icare</persName>,
+                        et un mets de luxe c’est-à-dire ici les poissons. L’opposition entre les
+                        constructions de <persName ref="#Déd">Dédale</persName> - un véritable
+                        savoir scientifique - et l’apprêt du poisson - un savoir-faire - introduit
+                        un décalage comique dans la désignation d’<persName ref="#Arc"
+                           >Archestrate</persName>. Mais <persName ref="#Ath">Athénée</persName> va
+                        plus loin dans sa critique : <persName ref="#Arc">Archestrate</persName>
+                        nous perd dans le choix des mets et dans les conseils qu’il donne pour les
+                        apprêter : nous nous retrouvons ainsi perdus comme dans un labyrinthe.</p>
+                     <p>L’expression ὁ ἡδονικὸς φιλόσοφος<note>Ap. Ath. 7. 312f.</note> (<hi
+                           rend="italic">edonikos filosofos</hi>) que l’on pourrait traduire par le
+                           <hi rend="italic">philosophe du plaisir</hi> est un autre oxymore qui
+                        qualifie - ou disqualifie - <persName ref="#Arc">Archestrate</persName>.
+                        Comment peut-on mêler philosophie et plaisir ? <persName ref="#Pla"
+                           >Platon</persName> dénigre les plaisirs gustatifs car ils vont à
+                        l’encontre de la maîtrise de soi à laquelle le philosophe doit rester
+                        fidèle. C’est le sophiste qui fait l’éloge du plaisir et non le philosophe.
+                           <persName ref="#Epi">Épicure</persName>, quant à lui, met en valeur le
+                        plaisir dans sa philosophie mais il ne s’agit pas de n’importe quel plaisir
+                        : il faut savoir rester, même en ce domaine, dans la modération en se
+                        limitant à ce qui est nécessaire et naturel.</p>
+                  </div>
+
+                  <div type="sous-sous-section" n="3">
+                     <head>Métaphore militaire</head>
+                     <p><persName ref="#Ath">Athénée</persName> emploie aussi une métaphore
+                        militaire pour caractériser <persName ref="#Arc">Archestrate</persName> : ὁ
+                        τῶν δείπνων λοχαγός (ap. Ath. 7. 301c) - <hi rend="italic">le capitaine des
+                           banquets</hi>. Il s’agit d’une image commune dans les textes portant sur
+                        la nourriture, mais rare chez <persName ref="#Arc"
+                           >Archestrate</persName><note>Nous retrouvons cette ambiance militaire
+                           dans un seul fragment d’Archestrate : le numéro 8.</note>. <persName
+                           ref="#Mat">Matron de Pitane</persName> - un poète du IVème siècle avant
+                        notre ère - qui a écrit le Δει̑πνον Ἀττικόν (<hi rend="italic">Deípnon
+                           Attikón</hi> : <hi rend="italic">le Banquet attique</hi>), emploie en le
+                        parodiant le vocabulaire militaire d’<persName ref="#Hom">Homère</persName>
+                        de façon importante<note>WILKINS et HILL 2011.</note>. Par cette métaphore
+                        comique qui allie commandement militaire et art du banquet, <persName
+                           ref="#Ath">Athénée</persName> indique de façon astucieuse ses
+                        connaissances en gastronomie littéraire. Faut-il y voir une critique dressée
+                        contre <persName ref="#Arc">Archestrate</persName> qui ne fait pas comme les
+                        autres poètes en n’ayant jamais recours au vocabulaire militaire ou bien,
+                           <persName ref="#Ath">Athénée</persName> indique-t-il le renouveau de
+                        cette tradition en montrant qu’<persName ref="#Arc">Archestrate</persName>
+                        en fait abstraction ?</p>
+                  </div>
+
+                  <div type="sous-sous-section" n="4">
+                     <head>Périphrases</head>
+                     <p>Par ailleurs, <persName ref="#Ath">Athénée</persName> caractérise <persName
+                           ref="#Arc">Archestrate</persName> par plusieurs périphrases : Ἀρχέστρατος
+                        ὅν ἀντι τοῦ Ὁμήρου προσκυνεῖς<note>ap. Ath. 4. 162b.</note> -<hi
+                           rend="italic"><persName ref="#Arc">Archestrate</persName> que l’on vénère
+                           comme un autre Homère</hi>-, Ἀρχέστρατος τῶν ὀψοφάγων Ἡσίοδος ἢ
+                           Θέογνις<note> ap. Ath. 7. 310a.</note> - <hi rend="italic"><persName
+                              ref="#Arc">Archestrate</persName>, l’<persName ref="#Hés"
+                              >Hésiode</persName> ou le <persName ref="#Thé">Théognis</persName> des
+                           mangeurs de poissons</hi> -, et ὁ Πυθαγορικὸς δὲ δι’ ἐγκράτειαν
+                           Ἀρχέστρατος<note> ap. Ath. 7. 288a.</note>- <hi rend="italic"
+                           >Archestrate, dont la tempérance a fait un disciple de <persName
+                              ref="#Pyt">Pythagore</persName></hi>.</p>
+                     <p>La poésie d’<persName ref="#Arc">Archestrate</persName> peut être comparée à
+                        celle de plusieurs grands noms de la littérature grecque pour ce qui
+                        concerne la forme puisque l'emploi de l’hexamètre dactylique leur est
+                        commun. Par contre, pour ce qui est du fond, <persName ref="#Ath"
+                           >Athénée</persName> met en relation des poètes qui traitent de sujets
+                        forts différents et qui, de surcroît, n’ont aucun lien avec la nourriture,
+                        en général, et avec les poissons, en particulier. Le voyage méditerranéen
+                        fait par <persName ref="#Arc">Archestrate</persName> peut faire penser à une
+                        parodie du retour d’Ulysse à Ithaque. La trivialité du sujet d’<persName
+                           ref="#Arc">Archestrate</persName> s’oppose à l’épopée d’<persName
+                           ref="#Hom">Homère</persName> qui célèbre les hauts faits des héros et des
+                        dieux, le combat d’un mortel contre les immortels. <persName ref="#Arc"
+                           >Archestrate</persName>, quant à lui, célèbre le bon goût contre le
+                        mauvais. Mais, mis à part cela, <persName ref="#Arc">Archestrate</persName>
+                        et <persName ref="#Hom">Homère</persName> n’ont rien en commun d’autant plus
+                           qu’<persName ref="#Hom">Homère</persName> ne parle jamais de poissons
+                        lorsqu’il mentionne la nourriture de ses personnages. Il est seulement
+                        question dans l’<hi rend="italic">Iliade</hi> de la préparation de la
+                        viande. Peut-être le poème d’<persName ref="#Arc">Archestrate</persName>
+                        donnait-il une place plus importante à la viande. Mais comme il ne nous est
+                        parvenu que de façon fragmentaire, il est difficile de dire si <persName
+                           ref="#Arc">Archestrate</persName> n’avait que peu d’intérêt pour le
+                           viande<note>cf. fragments 57 et 58 qui portent le lièvre et l’oie.</note>
+                        ou si, au contraire, le poème portait davantage dessus et, dans ce cas,
+                           <persName ref="#Ath">Athénée</persName> aurait fait un tri dans ce qui
+                        l’intéressait pour son catalogue du Livre VII placé sous le signe des
+                        poissons. Notre regard pourrait donc être biaisé.</p>
+                     <p>En comparant <persName ref="#Arc">Archestrate</persName> à <persName
+                           ref="#Hés">Hésiode</persName> ou à <persName ref="#Thé">Théognis de
+                           Mégare</persName>, <persName ref="#Ath">Athénée</persName> laisse
+                        entendre son rire sarcastique et cherche à faire rire son public. En effet,
+                           <persName ref="#Arc">Archestrate</persName> représente l’exact opposé de
+                        ces auteurs. <persName ref="#Hés">Hésiode</persName> qui vécut à la fin du
+                        VIIIème siècle ou au début du VIIème siècle av. J.-C. est l’auteur du poème
+                        intitulé <hi rend="italic">Les Travaux et les jours</hi> qui décrit les
+                        travaux agraires en <placeName ref="#Béo">Béotie</placeName> et donne le
+                        calendrier précis de l’année agricole. Cet ouvrage a été composé pendant une
+                        grave crise agraire et lors de la colonisation grecque - les Grecs
+                        cherchaient alors de nouvelles terres à travailler. Les rudes tâches
+                        agricoles présentées sur fond de pauvreté et de frugalité contrastent avec
+                        le luxe et la profusion des plats présentés par <persName ref="#Arc"
+                           >Archestrate</persName>. Quant à <persName ref="#Thé">Théognis de
+                           Mégare</persName>, poète élégiaque du VIème siècle avant notre ère, il
+                        dénonce notamment la décadence et l’effondrement des valeurs aristocratiques
+                        : deux thèmes très éloignés des préoccupations d’ <persName ref="#Arc"
+                           >Archestrate</persName>.</p>
+                     <p><persName ref="#Arc">Archestrate</persName> est aussi désigné comme un <hi
+                           rend="italic">disciple de <persName ref="#Pyt">Pythagore</persName></hi>,
+                        ce qui est paradoxal puisque le régime dit de <persName ref="#Pyt"
+                           >Pythagore</persName> (né vers 580 av. J.-C.) repose sur la frugalité et
+                        proscrit la chair animale : on pouvait selon lui vivre sans faire souffrir
+                        et sans ôter la vie. En faisant l’éloge de la gastronomie halieutique et en
+                        étant par conséquent tout le contraire d’un disciple de <persName ref="#Pyt"
+                           >Pythagore</persName>, <persName ref="#Arc">Archestrate</persName> est à
+                        nouveau l’objet d’une ironie mordante de la part d’<persName ref="#Ath"
+                           >Athénée</persName>. Par ailleurs, dans le fragment 24 où il est question
+                        de <persName ref="#Pyt">Pythagore</persName>, <persName ref="#Arc"
+                           >Archestrate</persName> se défend de cette accusation et fait à son tour
+                        une vive critique de la philosophie de <persName ref="#Pyt"
+                           >Pythagore</persName> et de ses disciples. Selon lui, le végétarisme de
+                           <persName ref="#Pyt">Pythagore</persName> est absurde. Tout l’art
+                           d’<persName ref="#Ath">Athénée</persName> est de faire revivre par le
+                        biais du discours, le temps d’un banquet, des auteurs morts depuis
+                        longtemps. En s’affranchissant de toute temporalité, <persName ref="#Ath"
+                           >Athénée</persName> leur redonne la parole : <persName ref="#Arc"
+                           >Archestrate</persName> et <persName ref="#Pyt">Pythagore</persName> se
+                        répondent ainsi en écho au début du IIIème siècle de notre ère. Bien que <hi
+                           rend="italic">Les Deipnosophistes</hi> donnent l’impression d’être une
+                        discussion à bâtons rompus entre les différents convives sans plan
+                        préétabli, il n’en reste pas moins qu’il y a dans sa structure interne une
+                        composition bien présente. Enfin, <persName ref="#Ath">Athénée</persName> a
+                        beau se moquer d’<persName ref="#Arc">Archestrate</persName>, il n’apparaît
+                        pas lui non plus comme un disciple de <persName ref="#Pyt"
+                           >Pythagore</persName>. Son catalogue des poissons, notamment, au Livre
+                        VII ne condamne pas le fait de le préparer ni d’en manger. </p>
+                  </div>
+
+                  <div type="sous-sous-section" n="4">
+                     <head>Le paroxysme de la critique</head>
+                     <p>Enfin, <persName ref="#Arc">Archestrate</persName> est désigné comme un
+                        glouton : τένθης Ἀρχέστρατος - <hi rend="italic">Archestrate le glouton</hi>
+                        (ap. Ath. 3. 112b et 7. 285e). L’introduction au fragment 55 y fait aussi
+                        référence :</p>
+                     <p><l>Ἀρχέστρατος δ´ ὁ πᾶσαν γῆν καὶ θάλασσαν διὰ γαστριμαργίαν περιελθών.</l>
+                        <l><hi rend="italic">Archestrate qui explora au nom de la gloutonnerie
+                              l’ensemble des terres et des mers.</hi></l></p>
+
+                     <p>La seule motivation d’<persName ref="#Arc">Archestrate</persName>, selon
+                           <persName ref="#Ath">Athénée</persName>, est la satisfaction de son
+                        ventre. Le glouton est celui qui engloutit la nourriture avec voracité : il
+                        désigne celui qui est incapable de se restreindre, de faire preuve de
+                        tempérance. En somme, il est un débauché qui ne se préoccupe pas de la
+                        qualité de ce qu’il mange contrairement à ce que recherche <persName
+                           ref="#Arc">Archestrate</persName>. Ce dernier est d’ailleurs comparé à
+                           <persName ref="#Sar">Sardanapale</persName> (ap. Ath. 294f), empereur
+                           d’<placeName ref="Ass">Assyrie</placeName> et symbole de la vie dissolue
+                        et des plaisirs assouvis. Cela est d’ailleurs explicitement dit au moment
+                        d’introduire le fragment 12 où nourriture et sexe sont associés :</p>
+
+                     <p><l>τῆς γαστρὸς ἕνεκα καὶ τῶν ὑπὸ τὴν γαστέρα</l>
+                        <l><hi rend="italic">pour son ventre et les parties de son anatomie
+                              en-dessous de son ventre.</hi></l></p>
+
+                     <p>L’insulte est poussée ici à son paroxysme. Le manque de mesure caractérise
+                        ainsi <persName ref="#Arc">Archestrate</persName>, l’éloignant de l’homme
+                        sage et bon que l’on a pu apercevoir à quelques reprises.</p>
+
+                     <p>Mais comment expliquer le passage du gastronome au glouton ? Il semblerait
+                        que ce soit la façon intrinsèque d’écrire d’<persName ref="#Ath"
+                           >Athénée</persName> qui n’a de cesse de passer de la louange à la
+                        critique la plus sévère puis de revenir à l’éloge. Il détourne les citations
+                        à son profit, s’amuse avec les auteurs et les malmène afin d’animer la
+                        discussion lors du banquet au moment où l’ivresse domine. Endroit propice où
+                        les mots peuvent avoir un double sens, où ils peuvent entrer en
+                        contradiction au sein d’une même expression et où l’on peut faire état d’une
+                        observation et dire ensuite le contraire. Le banquet où la recherche du mot
+                        d’esprit prévaut renouvelle ainsi les possibilités du langage.</p>
+                     <p>Par ailleurs, la façon changeante d’<persName ref="#Ath">Athénée</persName>
+                        de nous présenter Archestrate influence aussi grandement notre façon de lire
+                        les vers qui sont cités par la suite. Notre regard sur Archestrate et la
+                        lecture que nous en faisons ne peuvent qu’en ressortir biaisés.</p>
+                     <p>Finalement, on oublie ce que pense <persName ref="#Ath">Athénée</persName>
+                           d’<persName ref="#Arc">Archestrate</persName>. Cela est de plus redoublé
+                        par le fait qu’<persName ref="#Ath">Athénée</persName> ne cite pas toujours
+                        directement le poète : il cite souvent un auteur (comme par exemple
+                           <persName ref="#Daph">Daphnis l’Éphésien</persName> ou <persName
+                           ref="#Ulp">Ulpien</persName>) qui cite <persName ref="#Arc"
+                           >Archestrate</persName>. Dans cet enchâssement de paroles, les voix
+                        finissent par se confondre comme dans le brouhaha du σύμποσιον.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+
          </div>
 
       </front>
@@ -2063,497 +2555,7 @@
             <note>habent ACE</note>
          </div>
 
-         <div type="text" subtype="commentaire">
-            <head>Commentaire des passages introduisant les fragments</head>
-            <p>Si les fragments d’<persName ref="#Arc">Archestrate de Géla</persName> sont cités
-               dans l’œuvre d’<persName ref="#Ath">Athénée</persName>, c’est qu’ils étaient encore
-               connus au tournant du IIe et IIIe siècle de notre ère, soit plus de six siècles après
-               leur écriture. On peut se demander quel regard <persName ref="#Ath"
-                  >Athénée</persName> porte sur ce poète du IVe avant notre ère et on appréciera les
-               relations complexes et changeantes qu’entretient ce dernier avec <persName ref="#Arc"
-                  >Archestrate</persName>. On verra tout d’abord qu’<persName ref="#Ath"
-                  >Athénée</persName> donne des renseignements sur le poète et son œuvre sur un ton
-               relativement neutre. Puis, on montrera qu’<persName ref="#Ath">Athénée</persName>,
-               par le choix de ses formules, peut se montrer très élogieux et faire d’<persName
-                  ref="#Arc">Archestrate</persName> une référence. Enfin, <persName ref="#Ath"
-                  >Athénée</persName> peut faire preuve d’ambivalence à son égard et même se révéler
-               hostile.</p>
-            <div type="section" n="1">
-               <head>Quelques renseignements sur le poète et son œuvre</head>
-
-               <div type="sous-section" n="1">
-                  <head>Une origine sicilienne</head>
-                  <p>Peu de choses nous sont parvenues aujourd’hui sur la vie d’<persName ref="#Arc"
-                        >Archestrate</persName> et déjà au temps d’<persName ref="#Ath">Athénée de
-                        Naucratis</persName>, les indications biographiques étaient peu nombreuses.
-                     L’un des rares renseignements que nous donne <persName ref="#Ath"
-                        >Athénée</persName> est la ville de naissance d’<persName ref="#Arc"
-                        >Archestrate</persName> : ce dernier serait de <placeName ref="#Gé"
-                        >Géla</placeName> ou de <placeName ref="#Syr">Syracuse</placeName>, deux
-                     villes se trouvant en <placeName ref="#Sic">Sicile</placeName>, la première au
-                     sud de l’île, la seconde à l’est : </p>
-                  <p><l>Ἀρχέστρατος ὁ Συρακούσιος ἢ Γελῷος (ap. Ath. I. 4d-e) </l>
-                     <l><persName ref="#Arc"><hi rend="italic">Archestrate</hi></persName><hi
-                           rend="italic"> de </hi><placeName ref="#Syr"><hi rend="italic"
-                              >Syracuse</hi></placeName><hi rend="italic"> ou de </hi><placeName
-                           ref="#Gé"><hi rend="italic">Géla</hi></placeName>.</l></p>
-
-                  <p>Si<persName ref="#Arc">Archestrate</persName> fait mention à plusieurs reprises
-                     de la ville de <placeName ref="#Syr">Syracuse</placeName> dans ses fragments,
-                     jamais il n’est question de <placeName ref="#Gé">Géla</placeName>. Peut-être
-                     que le nom de <placeName ref="#Gé">Géla</placeName> apparaissait ailleurs dans
-                     son poème et que ce nom s’est perdu en même temps que certains fragments ou
-                     bien qu’<persName ref="#Arc">Archestrate</persName> n’en fait réellement jamais
-                     mention. Cela peut s’expliquer par le fait que dans la première moitié du IVe
-                     siècle avant notre ère, <placeName ref="#Gé">Géla</placeName> est une ville
-                     dangereuse. <persName ref="#Arc">Archestrate</persName> et sa famille ont
-                     possiblement fui <placeName ref="#Gé">Géla</placeName> pour se réfugier à
-                        <placeName ref="#Syr">Syracuse</placeName>. <persName ref="#Arc"
-                        >Archestrate</persName> a peut-être préféré oublier ce pénible souvenir.
-                     Quoi qu’il en soit, l’origine sicilienne d’<persName ref="#Arc"
-                        >Archestrate</persName> ne semble pas faire débat. Par ailleurs, la
-                        <placeName ref="#Sic">Sicile</placeName>, colonisée par les Grecs entre les
-                     VIIIe et VIIe siècles avant notre ère, est alors renommée à travers la
-                        <placeName ref="#Gra">Grande Grèce</placeName> pour ses plaines fertiles et
-                     sa gastronomie qui sont chantées par plusieurs poètes siciliens. <persName
-                        ref="#Arc">Archestrate</persName> s’inscrit dans cette tradition sicilienne
-                     où la cuisine est célébrée : <persName ref="#Mith">Mithécos de
-                        Syracuse</persName> est sans doute le premier cuisinier ayant écrit un livre
-                     de cuisine à la fin du Vème siècle av. J.-C et <persName ref="#Héra">Héraclide
-                        de Syracuse</persName> a écrit un <hi rend="italic">Art culinaire</hi> au
-                     IVème siècle avant notre ère.</p>
-               </div>
-
-               <div type="sous-section" n="2">
-                  <head>Un voyageur</head>
-                  <p>Outre son origine, <persName ref="#Ath">Athénée</persName> nous renseigne sur
-                     le fait qu’<persName ref="#Arc">Archestrate</persName> a beaucoup voyagé. Cela
-                     nous est dit dans les passages suivants :</p>
-                  <p><lb/>Γῆν πᾶσαν θάλασσαν περιῆλθεν ἀκριβῶς (ap. Ath. 7. 278d-e) <lb/><hi
-                        rend="italic">Il [Archestrate] a parcouru rigoureusement toute la terre et
-                        toute la mer.</hi></p>
-                  <p><l>Ἀρχέστρατος μὲν ὀ περιπλεύσας τὴν οἰκουμένην ( ap. Ath. 3. 116f-17b)</l>
-                     <l><hi rend="italic">Archestrate qui a navigué tout autour du monde
-                           habité.</hi></l></p>
-                  <p><l>Ἀρχέστρατος δ´ ὀ πᾶσαν γῆν καὶ θάλασσαν [...] περιελθών (ap. Ath. 7. 326d)
-                           <lb/><hi rend="italic">Archestrate qui a parcouru toute la terre et toute
-                           la mer.</hi></l></p>
-
-                  <p><persName ref="#Arc">Archestrate de Géla</persName> a ainsi parcouru l’<hi
-                        rend="italic">oikouménè</hi> c’est-à-dire l’ensemble des terres connues et
-                     habitées de son époque. Cela nous est confirmé par les soixante-deux fragments
-                     que nous avons traduits. Nous avons pu en effet dénombrer plus d’une
-                     cinquantaine de cités toutes situées en <placeName ref="#Gr">Grèce</placeName>
-                     et en <placeName ref="#Gra">Grande-Grèce</placeName>. <persName ref="#Arc"
-                        >Archestrate de Géla</persName> semble avoir des connaissances précises et
-                     bien délimitées de la géographie du monde grec de son temps. C’est un espace
-                     structuré : à l’ouest par la <placeName ref="#Sic">Sicile</placeName>, à l’est
-                     par des cités comme <placeName ref="#Mil">Milet</placeName>, au nord par
-                        l’<placeName ref="#Hel">Hellespont</placeName>, au sud par la<placeName
-                        ref="#Crè">Crète</placeName>. Si<persName ref="#Arc">Archestrate de
-                        Géla</persName> semble être un voyageur infatigable, il n’en reste pas moins
-                     qu’il ne s’est pas vraiment aventuré dans l’<hi rend="italic">érème</hi>
-                     c’est-à-dire dans des terres non explorées, dans le monde des barbares. En
-                     effet, ces derniers n’y ont presque aucune place à l’exception de deux
-                     références à la <placeName ref="#Phé">Phénicie</placeName> et à la <placeName
-                        ref="#Lyd">Lydie</placeName>. Cela s’explique par le fait que le but
-                        d’<persName ref="#Arc">Archestrate</persName> n’était pas de découvrir dans
-                     de nouvelles contrées de nouveaux mets mais de rechercher les meilleurs
-                     produits connus de ses contemporains.</p>
-               </div>
-
-               <div type="sous-section" n="3">
-                  <head>Une œuvre qui a parcouru le monde</head>
-                  <p>Quoi qu’il en soit, si<persName ref="#Arc">Archestrate</persName> n’a peut-être
-                     pas visité le monde qu’il décrit, son œuvre a sans aucun doute beaucoup voyagé.
-                     Elle porte en effet plusieurs titres, preuve qu’elle a circulé et qu’elle a été
-                     connue pendant l’Antiquité. L’œuvre d’<persName ref="#Arc"
-                        >Archestrate</persName> est tout d’abord citée par quatre auteurs :</p>
-                  <p><l>ἐν τῇ ὡς Χρύσιππος ἐπιγράφει Γαστρονομίᾳ, ὡς δὲ Λυγκεὺς καὶ Καλλίμαχος
-                        Ἡδυπαθείᾳ, ὡς δὲ Κλέαρχος Δειπνολογία, ὡς δ᾽ ἄλλοι Ὀψοποιία. (ap. Ath. I.
-                        4d)</l><l>Dans l’ouvrage intitulé, selon <persName ref="#Chrys"
-                              >Chrysippe<note>Chrysippe de Soles, philosophe stoïcien (280-206 av.
-                              J.-C.).</note></persName> la <hi rend="italic">Gastronomie</hi>, selon
-                           <persName ref="#Lyn">Lyncée<note>Lyncée de Samos, poète comique et
-                              grammairien du IVème siècle av. J.-C. Il est aussi l’auteur de livres
-                              de cuisine et d’un ouvrage sur la manière d’acheter le poisson.
-                           </note></persName>et<persName ref="#Call">Callimaque<note>Callimaque de
-                              Cyrène, poète (305-240 av. J.-C.).</note></persName>la<hi
-                           rend="italic">Vie de plaisirs</hi>, selon <persName ref="#Clé"
-                              >Cléarque<note>Cléarque de Soles, philosophe péripatéticien du IVème
-                              siècle av. J.-C.</note></persName>, <hi rend="italic">La science du
-                           repas</hi>, selon d’autres la <hi rend="italic">Cuisine</hi>.</l></p>
-
-                  <p>En 4. 162b et 7. 278a-d.,<persName ref="#Ath">Athénée</persName>cite<persName
-                        ref="#Lyc">Lycophron de Chalcis<note>Lycophron de Chalcis, poète grec du
-                           IVème siècle av. J.-C.</note></persName>qui appelle l’œuvre d’<persName
-                        ref="#Arc">Archestrate</persName>Γαστρολογία (<hi rend="italic"
-                        >Gastrologia</hi>). <persName ref="#Ath">Athénée</persName> qualifie enfin
-                     le poème d’<persName ref="#Arc">Archestrate</persName> des façons suivantes :
-                     ἐν ταῖς Ὑποθήκαις (dans ses <hi rend="italic">Conseils</hi>) (ap. Ath. 7. 328b,
-                     7. 310a, 7. 284e), ἱστορία (<hi rend="italic">Informations</hi>) (ap. Ath. 7.
-                     298e, 7. 326b, 9. 383b), et de ἐν ταῖς Γνώμαις (dans ses <hi rend="italic"
-                        >Maximes</hi>) (ap. Ath. 7.286d). </p>
-
-                  <p>Ainsi le poème d’<persName ref="#Arc">Archestrate</persName> est-il désigné de
-                     huit façons différentes et parmi ses huit titres, il est impossible de savoir
-                     lequel <persName ref="#Arc">Archestrate</persName> avait choisi, si toutefois
-                     celui-ci figure bien parmi ces huit propositions. Nous n’en avons en effet
-                     aucune mention dans aucun manuscrit.</p>
-
-                  <p>Nous constatons tout d’abord que deux titres - <hi rend="italic"
-                        >Gastrologia</hi> et <hi rend="italic">Gastronomia</hi> - sont formés sur le
-                     radical <hi rend="italic">gastros</hi>. Dans le premier cas, ce radical est
-                     suivi du suffixe -logos : la Gastrologia signifie littéralement <hi
-                        rend="italic">le discours du ventre</hi>. Le terme <hi rend="italic"
-                        >Gastronomia</hi>, quant à lui, est formé à partir du suffixe <hi
-                        rend="italic">-nomos</hi>, suffixe qui entre dans la composition de mots
-                     savants pour désigner une discipline : la <hi rend="italic">Gastronomia</hi>
-                     serait littéralement <hi rend="italic">la science du ventre</hi>. Ces deux
-                     titres annoncent, non sans une certaine dérision, un ouvrage
-                     pseudo-scientifique. Il en de même pour la <hi rend="italic">Deipnologia</hi>
-                     ou <hi rend="italic">le Discours des repas</hi>. Il semble ainsi que <persName
-                        ref="#Lyc">Lycophron</persName>, <persName ref="#Chry">Chrysippe</persName>
-                     et <persName ref="#Clé">Cléarque</persName> aient un avis négatif sur l'œuvre
-                        d’<persName ref="#Arc">Archestrate</persName> et cherchent à la dénigrer :
-                     le manque de maîtrise des appétits va à l’encontre du mode de vie philosophique
-                     pour les Stoïciens et la gastronomie relèverait de la vie de plaisirs
-                     disqualifiée par la tradition aristotélicienne au profit de la vie politique et
-                     théorétique. <persName ref="#Lyn">Lyncée</persName> et <persName ref="#Call"
-                        >Callimaque</persName>, quant à eux, emploient un autre terme, celui d’
-                     Ἡδυπαθείας (cité quatre fois par Athénée<note>Cf. les phrases introductives aux
-                        fragments 14, 32, 39, 40.</note>) et que le Bailly définit comme la vie de
-                        <hi rend="italic">jouissance ou de mollesse</hi>. Si nous éliminons les noms
-                        <hi rend="italic">Hypothekai</hi>, <hi rend="italic">Gnomai</hi>, et <hi
-                        rend="italic">Historiai</hi> - beaucoup trop généralistes et n’ayant par
-                     conséquent que peu d’intérêt pour désigner l'œuvre d’<persName ref="#Arc"
-                        >Archestrate</persName> -, Ἡδυπαθείας est considéré, selon <persName
-                        ref="#Ols">S. Douglas Olson</persName> et <persName ref="#Sen">Alexander
-                        Sens</persName>, comme le titre le meilleur qui puisse être attribué au
-                     poème d’<persName ref="#Arc">Archestrate</persName>. Ce titre annonce de façon
-                     explicite qu’il y est question des plaisirs de la vie sans qu’il n’y ait la
-                     moindre critique sous-jacente de la part de <persName ref="#Lyn"
-                        >Lyncée</persName> et de <persName ref="#Call">Callimaque</persName>. C’est
-                     d’ailleurs celui-ci que les deux chercheurs ont adopté pour désigner l'œuvre
-                        d’<persName ref="#Arc">Archestrate</persName>. Il en va de même pour
-                        <persName ref="#Wil">John Wilkins</persName> et <persName ref="#Hil">Shaun
-                        Hill</persName>. Parmi tous ces titres, <persName ref="#Ath">Athénée de
-                        Naucratis</persName> ne semble pas prendre position. Au contraire. Il
-                     rappelle tout ce qu’il a entendu afin de conserver la mémoire d’<persName
-                        ref="#Arc">Archestrate</persName>. À une époque où la culture romaine prend
-                     le pas sur la culture grecque et où cette dernière est en déclin, <persName
-                        ref="#Ath">Athénée</persName> se pose en garant et défenseur de la
-                     littérature hellénistique. N’est-ce pas là, d’ailleurs, tout l’enjeu des <hi
-                        rend="italic">Deipnosophistes</hi> ?</p>
-               </div>
-            </div>
-            <div type="section" n="2">
-               <head>Du gastronome au glouton : le regard duel d’<persName ref="#Ath"
-                     >Athénée</persName> sur <persName ref="#Arc">Archestrate</persName></head>
-
-               <p><persName ref="#Ath">Athénée de Naucratis</persName> nous donne ainsi des
-                  renseignements sur le poète et son œuvre de façon objective lorsqu’il introduit
-                  certains fragments d’<persName ref="#Arc">Archestrate de Géla</persName>. Mais, à
-                  d’autres moments, il nous livre son jugement qui peut être, dans certains cas,
-                  laudatif et, dans d’autres, très négatif.</p>
-
-               <div type="sous-section" n="1">
-                  <head>Expressions laudatives</head>
-                  <p>Nous constatons tout d’abord qu’<persName ref="#Arc">Archestrate</persName> est
-                     caractérisé de façon positive par <persName ref="#Ath">Athénée</persName>. En
-                     effet, les adjectifs σοφός (ap. Ath. 7. 321c-d et 7. 311a-c) et καλός (ap. Ath.
-                     7. 307d) présentent <persName ref="#Arc">Archestrate</persName> comme un homme
-                        <hi rend="italic">sage</hi> et <hi rend="italic">beau</hi>. Les Grecs
-                     pensaient que la beauté externe (καλός) était associée à une beauté interne
-                     (σοφός) et qu’un beau visage était l’expression d’une belle âme. <persName
-                        ref="#Arc">Archestrate</persName> incarne l’idéal grec selon <persName
-                        ref="#Ath">Athénée</persName>.</p>
-                  <p>L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 :</p>
-
-                  <p><l>Περὶ τῶν κατ´ Ἰταλίαν τόπων διεξιών [...] ὁ καλὸς οὗτος περιηγητής (ap. Ath.
-                        7. 294a) </l><l><hi rend="italic">Ce noble explorateur poursuivant sur les
-                           régions d’Italie.</hi></l></p>
-
-                  <p><persName ref="#Arc">Archestrate</persName> est désigné comme <hi rend="italic"
-                        >le guide sage</hi> qui a parcouru le monde méditerranéen, mettant ainsi en
-                     valeur le choix sûr de ses destinations et sur sa façon de voyager. <persName
-                        ref="#Ath">Athénée de Naucratis</persName> semble assez admiratif de ce
-                     voyageur qui, six siècles plus tôt, a passé une partie de sa vie à parcourir
-                     terres et mers, peut-être même au péril de sa vie dans la mesure où les voyages
-                     en bateau étaient considérés comme dangereux.</p>
-                  <p>D’autres expressions sont aussi appliquées à <persName ref="#Arc"
-                        >Archestrate</persName> : ὀ ὀψαρτυτὴς Ἀρχέστρατος (ap. Ath. 7. 320f-1a) -
-                     expression que l’on pourrait traduire par le <hi rend="italic">chef
-                        Archestrate</hi>, <hi rend="italic">celui qui apprête les mets</hi> - et
-                     Ἀρχέστρατος τοῦ δειπνολόγου (ap. Ath. 1. 29a-d) - <hi rend="italic">l’expert
-                        des banquets</hi>. <persName ref="#Arc">Archestrate</persName> semble être
-                     quelqu’un qui détient une certaine autorité dans les domaines de la gastronomie
-                     et des voyages, à qui l’on peut faire confiance et dont la parole n’est pas à
-                     remettre en question. Archestrate est ainsi une référence.</p>
-               </div>
-
-               <div type="sous-section" n="2">
-                  <head>Expressions négatives</head>
-                  <p>Mais on constate très vite que ces expressions positives sont peu nombreuses et
-                        qu’<persName ref="#Ath">Athénée</persName> recourt aussi à plusieurs figures
-                     de style pour disqualifier <persName ref="#Arc">Archestrate</persName>.
-                        <persName ref="#Ath">Athénée</persName> semble ainsi être amateur de bons
-                     mots pour frapper les esprits et se moquer des conseils culinaires d’un poète
-                     qui, à six siècles de distance, semblent dépassés et vieillis.</p>
-
-                  <div type="sous-sous-section" n="1">
-                     <head>Usage du superlatif</head>
-                     <p><persName ref="#Ath">Athénée</persName> se moque volontiers d’<persName
-                           ref="#Arc">Archestrate</persName>. À cinq reprises, Athénée fait en effet
-                        un usage du superlatif pour le désigner :</p>
-
-                     <p><l>ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) :</l><l><hi rend="italic">le
-                              très instruit </hi><persName ref="#Arc"><hi rend="italic"
-                                 >Archestrate</hi></persName></l></p>
-
-                     <p><l>ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d) </l><l><hi
-                              rend="italic">le très sage </hi><persName ref="#Arc"><hi rend="italic"
-                                 >Archestrate</hi></persName></l></p>
-
-
-                     <p><l>ὁ δὲ πολυμαθέστατος Ἀρχέστρατος (ap. Ath. 7. 324b et 9. 384b)</l><l><hi
-                              rend="italic">le Très-Érudit</hi><persName ref="#Arc"><hi
-                                 rend="italic">Archestrate</hi></persName></l></p>
-
-                     <p>Le superlatif absolu indique qu’<persName ref="#Arc">Archestrate</persName>
-                        l’emporte sur tous ses contemporains en sagesse et en connaissance, ce qui
-                        pourrait apparaître dans un premier temps très laudatif. Mais les Grecs
-                        n’étaient-ils pas sensibles à la σωφροσύνη (<hi rend="italic"
-                           >sophrosuné</hi>) c’est-à-dire à la <hi rend="italic">tempérance</hi> ?
-                        Dès lors que l’on a recours à un superlatif, ne dépasse-t-on pas cette
-                        modération dont l’emploi zéro de l’adjectif serait le garant ? <persName
-                           ref="#Ath">Athénée</persName> introduit ici une pointe d’ironie à l’égard
-                           d’<persName ref="#Arc">Archestrate</persName> qui, n’hésitant pas à faire
-                        montre de son savoir, peut agacer son public par son érudition. D’ailleurs,
-                        l’adjectif κίμβιξ est employé pour introduire le fragment 29. Le Bailly
-                        donne deux sens à cet adjectif. Il désigne tout d’abord celui qui est <hi
-                           rend="italic">pingre</hi>, <hi rend="italic">avare</hi>. Mais cela ne
-                        fait pas sens ici. Le deuxième sens indique un homme <hi rend="italic"
-                           >pointilleux</hi>, <hi rend="italic">vétilleux</hi> : <persName
-                           ref="#Ath">Athénée</persName> critique ici <persName ref="#Arc"
-                           >Archestrate</persName> en pointant son goût excessif pour le détail. Par
-                        exemple, dans le fragment 29, il faut trouver une queue de grande thonne
-                        provenant de <placeName ref="#Byz">Byzance</placeName>. <persName ref="#Arc"
-                           >Archestrate</persName> ne fait-il pas là preuve d’un peu trop d’excès ?
-                        Cela se retourne contre lui et il se ridiculise aux yeux d’<persName
-                           ref="#Ath">Athénée</persName> et des convives de <persName ref="#P.Liv"
-                           >Larensis</persName>, qui se moquent d’une époque et de coutumes
-                        lointaines et révolues. Plus de six siècles séparent en effet les deux
-                        auteurs.</p>
-                  </div>
-
-                  <div type="sous-sous-section" n="2">
-                     <head>Expressions oxymoriques</head>
-                     <p><persName ref="#Ath">Athénée</persName> utilise, par ailleurs, d’autres
-                        expressions tournant en dérision <persName ref="#Arc"
-                        >Archestrate</persName>. Par deux fois, <persName ref="#Ath"
-                           >Athénée</persName> a recours à des expressions oxymoriques. <persName
-                           ref="#Arc">Archestrate</persName> est désigné comme un
-                           ὀψοδαίδαλος<note>Cf. phrases introduisant les fragments 11, 23, 26, 36,
-                           57 et 60.</note> (<hi rend="italic">opsodaidalos</hi>) - <hi
-                           rend="italic">le Dédale des plats savoureux</hi>. Expression uniquement
-                        attestée dans <hi rend="italic">Les Deipnosophistes</hi>, <persName
-                           ref="#Ath">Athénée</persName> met en relation l’ingéniosité technique et
-                        scientifique de <persName ref="#Déd">Dédale</persName>, auteur du célèbre
-                        Labyrinthe et inventeur des ailes d’<persName ref="#Ica">Icare</persName>,
-                        et un mets de luxe c’est-à-dire ici les poissons. L’opposition entre les
-                        constructions de <persName ref="#Déd">Dédale</persName> - un véritable
-                        savoir scientifique - et l’apprêt du poisson - un savoir-faire - introduit
-                        un décalage comique dans la désignation d’<persName ref="#Arc"
-                           >Archestrate</persName>. Mais <persName ref="#Ath">Athénée</persName> va
-                        plus loin dans sa critique : <persName ref="#Arc">Archestrate</persName>
-                        nous perd dans le choix des mets et dans les conseils qu’il donne pour les
-                        apprêter : nous nous retrouvons ainsi perdus comme dans un labyrinthe.</p>
-                     <p>L’expression ὁ ἡδονικὸς φιλόσοφος<note>Ap. Ath. 7. 312f.</note> (<hi
-                           rend="italic">edonikos filosofos</hi>) que l’on pourrait traduire par le
-                           <hi rend="italic">philosophe du plaisir</hi> est un autre oxymore qui
-                        qualifie - ou disqualifie - <persName ref="#Arc">Archestrate</persName>.
-                        Comment peut-on mêler philosophie et plaisir ? <persName ref="#Pla"
-                           >Platon</persName> dénigre les plaisirs gustatifs car ils vont à
-                        l’encontre de la maîtrise de soi à laquelle le philosophe doit rester
-                        fidèle. C’est le sophiste qui fait l’éloge du plaisir et non le philosophe.
-                           <persName ref="#Epi">Épicure</persName>, quant à lui, met en valeur le
-                        plaisir dans sa philosophie mais il ne s’agit pas de n’importe quel plaisir
-                        : il faut savoir rester, même en ce domaine, dans la modération en se
-                        limitant à ce qui est nécessaire et naturel.</p>
-                  </div>
-
-                  <div type="sous-sous-section" n="3">
-                     <head>Métaphore militaire</head>
-                     <p><persName ref="#Ath">Athénée</persName> emploie aussi une métaphore
-                        militaire pour caractériser <persName ref="#Arc">Archestrate</persName> : ὁ
-                        τῶν δείπνων λοχαγός (ap. Ath. 7. 301c) - <hi rend="italic">le capitaine des
-                           banquets</hi>. Il s’agit d’une image commune dans les textes portant sur
-                        la nourriture, mais rare chez <persName ref="#Arc"
-                           >Archestrate</persName><note>Nous retrouvons cette ambiance militaire
-                           dans un seul fragment d’Archestrate : le numéro 8.</note>. <persName
-                           ref="#Mat">Matron de Pitane</persName> - un poète du IVème siècle avant
-                        notre ère - qui a écrit le Δει̑πνον Ἀττικόν (<hi rend="italic">Deípnon
-                           Attikón</hi> : <hi rend="italic">le Banquet attique</hi>), emploie en le
-                        parodiant le vocabulaire militaire d’<persName ref="#Hom">Homère</persName>
-                        de façon importante<note>WILKINS et HILL 2011.</note>. Par cette métaphore
-                        comique qui allie commandement militaire et art du banquet, <persName
-                           ref="#Ath">Athénée</persName> indique de façon astucieuse ses
-                        connaissances en gastronomie littéraire. Faut-il y voir une critique dressée
-                        contre <persName ref="#Arc">Archestrate</persName> qui ne fait pas comme les
-                        autres poètes en n’ayant jamais recours au vocabulaire militaire ou bien,
-                           <persName ref="#Ath">Athénée</persName> indique-t-il le renouveau de
-                        cette tradition en montrant qu’<persName ref="#Arc">Archestrate</persName>
-                        en fait abstraction ?</p>
-                  </div>
-
-                  <div type="sous-sous-section" n="4">
-                     <head>Périphrases</head>
-                     <p>Par ailleurs, <persName ref="#Ath">Athénée</persName> caractérise <persName
-                           ref="#Arc">Archestrate</persName> par plusieurs périphrases : Ἀρχέστρατος
-                        ὅν ἀντι τοῦ Ὁμήρου προσκυνεῖς<note>ap. Ath. 4. 162b.</note> -<hi
-                           rend="italic"><persName ref="#Arc">Archestrate</persName> que l’on vénère
-                           comme un autre Homère</hi>-, Ἀρχέστρατος τῶν ὀψοφάγων Ἡσίοδος ἢ
-                           Θέογνις<note> ap. Ath. 7. 310a.</note> - <hi rend="italic"><persName
-                              ref="#Arc">Archestrate</persName>, l’<persName ref="#Hés"
-                              >Hésiode</persName> ou le <persName ref="#Thé">Théognis</persName> des
-                           mangeurs de poissons</hi> -, et ὁ Πυθαγορικὸς δὲ δι’ ἐγκράτειαν
-                           Ἀρχέστρατος<note> ap. Ath. 7. 288a.</note>- <hi rend="italic"
-                           >Archestrate, dont la tempérance a fait un disciple de <persName
-                              ref="#Pyt">Pythagore</persName></hi>.</p>
-                     <p>La poésie d’<persName ref="#Arc">Archestrate</persName> peut être comparée à
-                        celle de plusieurs grands noms de la littérature grecque pour ce qui
-                        concerne la forme puisque l'emploi de l’hexamètre dactylique leur est
-                        commun. Par contre, pour ce qui est du fond, <persName ref="#Ath"
-                           >Athénée</persName> met en relation des poètes qui traitent de sujets
-                        forts différents et qui, de surcroît, n’ont aucun lien avec la nourriture,
-                        en général, et avec les poissons, en particulier. Le voyage méditerranéen
-                        fait par <persName ref="#Arc">Archestrate</persName> peut faire penser à une
-                        parodie du retour d’Ulysse à Ithaque. La trivialité du sujet d’<persName
-                           ref="#Arc">Archestrate</persName> s’oppose à l’épopée d’<persName
-                           ref="#Hom">Homère</persName> qui célèbre les hauts faits des héros et des
-                        dieux, le combat d’un mortel contre les immortels. <persName ref="#Arc"
-                           >Archestrate</persName>, quant à lui, célèbre le bon goût contre le
-                        mauvais. Mais, mis à part cela, <persName ref="#Arc">Archestrate</persName>
-                        et <persName ref="#Hom">Homère</persName> n’ont rien en commun d’autant plus
-                           qu’<persName ref="#Hom">Homère</persName> ne parle jamais de poissons
-                        lorsqu’il mentionne la nourriture de ses personnages. Il est seulement
-                        question dans l’<hi rend="italic">Iliade</hi> de la préparation de la
-                        viande. Peut-être le poème d’<persName ref="#Arc">Archestrate</persName>
-                        donnait-il une place plus importante à la viande. Mais comme il ne nous est
-                        parvenu que de façon fragmentaire, il est difficile de dire si <persName
-                           ref="#Arc">Archestrate</persName> n’avait que peu d’intérêt pour le
-                           viande<note>cf. fragments 57 et 58 qui portent le lièvre et l’oie.</note>
-                        ou si, au contraire, le poème portait davantage dessus et, dans ce cas,
-                           <persName ref="#Ath">Athénée</persName> aurait fait un tri dans ce qui
-                        l’intéressait pour son catalogue du Livre VII placé sous le signe des
-                        poissons. Notre regard pourrait donc être biaisé.</p>
-                     <p>En comparant <persName ref="#Arc">Archestrate</persName> à <persName
-                           ref="#Hés">Hésiode</persName> ou à <persName ref="#Thé">Théognis de
-                           Mégare</persName>, <persName ref="#Ath">Athénée</persName> laisse
-                        entendre son rire sarcastique et cherche à faire rire son public. En effet,
-                           <persName ref="#Arc">Archestrate</persName> représente l’exact opposé de
-                        ces auteurs. <persName ref="#Hés">Hésiode</persName> qui vécut à la fin du
-                        VIIIème siècle ou au début du VIIème siècle av. J.-C. est l’auteur du poème
-                        intitulé <hi rend="italic">Les Travaux et les jours</hi> qui décrit les
-                        travaux agraires en <placeName ref="#Béo">Béotie</placeName> et donne le
-                        calendrier précis de l’année agricole. Cet ouvrage a été composé pendant une
-                        grave crise agraire et lors de la colonisation grecque - les Grecs
-                        cherchaient alors de nouvelles terres à travailler. Les rudes tâches
-                        agricoles présentées sur fond de pauvreté et de frugalité contrastent avec
-                        le luxe et la profusion des plats présentés par <persName ref="#Arc"
-                           >Archestrate</persName>. Quant à <persName ref="#Thé">Théognis de
-                           Mégare</persName>, poète élégiaque du VIème siècle avant notre ère, il
-                        dénonce notamment la décadence et l’effondrement des valeurs aristocratiques
-                        : deux thèmes très éloignés des préoccupations d’ <persName ref="#Arc"
-                           >Archestrate</persName>.</p>
-                     <p><persName ref="#Arc">Archestrate</persName> est aussi désigné comme un <hi
-                           rend="italic">disciple de <persName ref="#Pyt">Pythagore</persName></hi>,
-                        ce qui est paradoxal puisque le régime dit de <persName ref="#Pyt"
-                           >Pythagore</persName> (né vers 580 av. J.-C.) repose sur la frugalité et
-                        proscrit la chair animale : on pouvait selon lui vivre sans faire souffrir
-                        et sans ôter la vie. En faisant l’éloge de la gastronomie halieutique et en
-                        étant par conséquent tout le contraire d’un disciple de <persName ref="#Pyt"
-                           >Pythagore</persName>, <persName ref="#Arc">Archestrate</persName> est à
-                        nouveau l’objet d’une ironie mordante de la part d’<persName ref="#Ath"
-                           >Athénée</persName>. Par ailleurs, dans le fragment 24 où il est question
-                        de <persName ref="#Pyt">Pythagore</persName>, <persName ref="#Arc"
-                           >Archestrate</persName> se défend de cette accusation et fait à son tour
-                        une vive critique de la philosophie de <persName ref="#Pyt"
-                           >Pythagore</persName> et de ses disciples. Selon lui, le végétarisme de
-                           <persName ref="#Pyt">Pythagore</persName> est absurde. Tout l’art
-                           d’<persName ref="#Ath">Athénée</persName> est de faire revivre par le
-                        biais du discours, le temps d’un banquet, des auteurs morts depuis
-                        longtemps. En s’affranchissant de toute temporalité, <persName ref="#Ath"
-                           >Athénée</persName> leur redonne la parole : <persName ref="#Arc"
-                           >Archestrate</persName> et <persName ref="#Pyt">Pythagore</persName> se
-                        répondent ainsi en écho au début du IIIème siècle de notre ère. Bien que <hi
-                           rend="italic">Les Deipnosophistes</hi> donnent l’impression d’être une
-                        discussion à bâtons rompus entre les différents convives sans plan
-                        préétabli, il n’en reste pas moins qu’il y a dans sa structure interne une
-                        composition bien présente. Enfin, <persName ref="#Ath">Athénée</persName> a
-                        beau se moquer d’<persName ref="#Arc">Archestrate</persName>, il n’apparaît
-                        pas lui non plus comme un disciple de <persName ref="#Pyt"
-                           >Pythagore</persName>. Son catalogue des poissons, notamment, au Livre
-                        VII ne condamne pas le fait de le préparer ni d’en manger. </p>
-                  </div>
-
-                  <div type="sous-sous-section" n="4">
-                     <head>Le paroxysme de la critique</head>
-                     <p>Enfin, <persName ref="#Arc">Archestrate</persName> est désigné comme un
-                        glouton : τένθης Ἀρχέστρατος - <hi rend="italic">Archestrate le glouton</hi>
-                        (ap. Ath. 3. 112b et 7. 285e). L’introduction au fragment 55 y fait aussi
-                        référence :</p>
-                     <p><l>Ἀρχέστρατος δ´ ὁ πᾶσαν γῆν καὶ θάλασσαν διὰ γαστριμαργίαν περιελθών.</l>
-                        <l><hi rend="italic">Archestrate qui explora au nom de la gloutonnerie
-                              l’ensemble des terres et des mers.</hi></l></p>
-
-                     <p>La seule motivation d’<persName ref="#Arc">Archestrate</persName>, selon
-                           <persName ref="#Ath">Athénée</persName>, est la satisfaction de son
-                        ventre. Le glouton est celui qui engloutit la nourriture avec voracité : il
-                        désigne celui qui est incapable de se restreindre, de faire preuve de
-                        tempérance. En somme, il est un débauché qui ne se préoccupe pas de la
-                        qualité de ce qu’il mange contrairement à ce que recherche <persName
-                           ref="#Arc">Archestrate</persName>. Ce dernier est d’ailleurs comparé à
-                           <persName ref="#Sar">Sardanapale</persName> (ap. Ath. 294f), empereur
-                           d’<placeName ref="Ass">Assyrie</placeName> et symbole de la vie dissolue
-                        et des plaisirs assouvis. Cela est d’ailleurs explicitement dit au moment
-                        d’introduire le fragment 12 où nourriture et sexe sont associés :</p>
-
-                     <p><l>τῆς γαστρὸς ἕνεκα καὶ τῶν ὑπὸ τὴν γαστέρα</l>
-                        <l><hi rend="italic">pour son ventre et les parties de son anatomie
-                              en-dessous de son ventre.</hi></l></p>
-
-                     <p>L’insulte est poussée ici à son paroxysme. Le manque de mesure caractérise
-                        ainsi <persName ref="#Arc">Archestrate</persName>, l’éloignant de l’homme
-                        sage et bon que l’on a pu apercevoir à quelques reprises.</p>
-
-                     <p>Mais comment expliquer le passage du gastronome au glouton ? Il semblerait
-                        que ce soit la façon intrinsèque d’écrire d’<persName ref="#Ath"
-                           >Athénée</persName> qui n’a de cesse de passer de la louange à la
-                        critique la plus sévère puis de revenir à l’éloge. Il détourne les citations
-                        à son profit, s’amuse avec les auteurs et les malmène afin d’animer la
-                        discussion lors du banquet au moment où l’ivresse domine. Endroit propice où
-                        les mots peuvent avoir un double sens, où ils peuvent entrer en
-                        contradiction au sein d’une même expression et où l’on peut faire état d’une
-                        observation et dire ensuite le contraire. Le banquet où la recherche du mot
-                        d’esprit prévaut renouvelle ainsi les possibilités du langage.</p>
-                     <p>Par ailleurs, la façon changeante d’<persName ref="#Ath">Athénée</persName>
-                        de nous présenter Archestrate influence aussi grandement notre façon de lire
-                        les vers qui sont cités par la suite. Notre regard sur Archestrate et la
-                        lecture que nous en faisons ne peuvent qu’en ressortir biaisés.</p>
-                     <p>Finalement, on oublie ce que pense <persName ref="#Ath">Athénée</persName>
-                           d’<persName ref="#Arc">Archestrate</persName>. Cela est de plus redoublé
-                        par le fait qu’<persName ref="#Ath">Athénée</persName> ne cite pas toujours
-                        directement le poète : il cite souvent un auteur (comme par exemple
-                           <persName ref="#Daph">Daphnis l’Éphésien</persName> ou <persName
-                           ref="#Ulp">Ulpien</persName>) qui cite <persName ref="#Arc"
-                           >Archestrate</persName>. Dans cet enchâssement de paroles, les voix
-                        finissent par se confondre comme dans le brouhaha du σύμποσιον.</p>
-                  </div>
-               </div>
-            </div>
-         </div>
+         
 
       </body>
 
