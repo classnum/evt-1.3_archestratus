@@ -13,39 +13,39 @@
 										"line" : "no line info|no line info", 
 										"text" : "φησί.",
 										"tags" : "archestratus|Archestrate de Géla",
-										"loc" : "archestratus_ms_a_fr_1_fake_test_no_file|1",
+										"loc" : "archestratus_ms_e_fr_1_debut|1",
 										"inFront": "false"
 									},
 								 
 								{ 
-									"line" : "archestratus_ms_a_fr_2fake_test_no_file|par 2", 
+									"line" : "archestratus_ms_e_fr_4|par 2", 
 									"text" : "Fragment 2 (Ath. 1. 4d-e) 01 πρὸς δὲ μιᾶι πάντας δειπνεῖν ἁβρόδαιτι τραπέζηι. 02 έ̓στωσαν δʹ ἢ τρεῖς ἢ τέσσαρες ἕξ οἱ ξυνάπαντες 03 ἢ τῶν πέντε γε μὴ πλείους· ἤδη γὰρ ἂν εἴη 04 μισθοφόρων ἁρπαξιβίων σκηνὴ στρατιωτῶν. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_1_fake_test_no_file|1",
+									"loc" : "archestratus_ms_e_fr_1_debut|1",
 									"inFront": "false"
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_3_fake_test_no_file|par 3", 
+									"line" : "archestratus_ms_e_fr_59_debut|par 3", 
 									"text" : "Fragment 3 (Ath. 1. 29a-d) ) 01 εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε, 02 ἤδη χρὴ γεραόν, πολιὸν σφόδρα κρατοφοροῦτα 03 οἶνον, ὑγρὴν χαίτην λευκῷ πεπυκασμένον ἄνθει 04 πίνειν, ἐκ Λέσβου περικύμονος ἐκγεγαῶτα. 05 τὸν τʹ δ᾽ ἀπὸ Φοινίκης ἱερᾶς τὸν Βύβλιον αἰνῶ, 06 οὐ μέντοι κείνωι γε παρεξισῶ αὐτον. ἂν γὰρ 07 ἐξαίφνας αὐτοῦ γεύσηι μὴ πρόσθεν ἐθισθείς, 08 εὐώδης μέν σοι δόξει τοῦ Λεσβίου εἶναι 09 μᾶλλον, ἔχει γὰρ τοῦτο χρόνου διὰ μῆκος ἄπλατον· 10 πινόμενος δʹ ἥσσων πολλῶι. κεῖνος δὲ δοκήσει 11 οὐκ οἴνωι σοι ἔχειν ὅμοιον γέρας, ἀμβροσίαι δέ. 12 εἰ δέ τινες τι σκώπτουσιν ἀλαζονοχαυνοφλύαροι 13 ὡς ἅδιστος ἔφυ πάντων Φοινίκιος οἶνος, 14 οὐ προσέχω τὸν νοῦν αὐτοῖς. 15 ἔστι δὲ καὶ Θάσιος πίνειν γενναῖος,ἐὰν ἦι 16 πολλαῖς πρεσβεύων ἑτέρου οἴνου περικαλλέσιν περικαλέσιν ὥραις. 17 οἶδα δὲ κἀξ ἄλλων πόλεων πολλὴν βοτρυοσταγῆ ἔρνη 18 εἰπεῖν αἰνῆσαί τε καὶ οὔ με λέληθʹ ὀνομῆναι. 19 ἀλλ’ οὐθὲν τἆλλ' τἆλλος ἐστὶν ἁπλῶς πρὸς Λέσβιον οἶνον. 20 ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ' αὑτοῖς. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_2fake_test_no_file|2",
+									"loc" : "archestratus_ms_e_fr_4|2",
 									"inFront": "false"
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_4_fake_test_no_file|par 4", 
+									"line" : "archestratus_ms_e_fr_8|par 4", 
 									"text" : "Fragment 4 (Ath. 2. 56c) 01 ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_3_fake_test_no_file|3",
+									"loc" : "archestratus_ms_e_fr_59_debut|3",
 									"inFront": "false"
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_5_fake_test_no_file|par 5", 
+									"line" : "archestratus_ms_e_fr_9|par 5", 
 									"text" : "Fragment 5 (Ath. 2. 64a) 01 βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι 02 τ’ ταῖς ἄλλαις παροψίσι πάσηισι ἄλλαισι παροψίσι πάσαις . ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_4_fake_test_no_file|4",
+									"loc" : "archestratus_ms_e_fr_8|4",
 									"inFront": "false"
 								}, 
 							 
@@ -53,12 +53,12 @@
 									"line" : "archestratus_ms_a_fr_7|par 6", 
 									"text" : "Fragment 6 (Ath. 3. 92d-e) 01 τοὺς μῦς θʹ ἡ Αἶνος μῦς ἡ Αἶνος ἔχει μεγάλους, ὄστρεια δʹ Ἄβυδος, 02 τὰς ἄρκτους τοὺς ἄρκτους Πάριον, τοὺς δὲ κτένας ἡ Μιτυλίνη Μιτυλήνη , 03 πλείστους πλεῖστα δʹ Ἀμβρακία παρέχει καὶ ἄπλατα μετʹ αὐτῶν. 04 Μεσσήνηι δὲ πελωριαδαῖς πελωριάδες στενοπορθμίδαι κόγχας 05 κὰν ἐν Ἐφέσωι λήψει λήψη τὰς λείας οὔτι πονηράς. 06 τήθεα Καλχηδών , τοὺς κήρυκας δʹ ἐπιτρίψαι 07 ὁ Ζεὺς τούς τε θαλασσογενεῖς καὶ τοὺς ἀγοραίους, 08 πλὴν ἑνὸς ἀνθρώπου, κεῖνος δέ μοί ἐστιν ἐστι ἑταῖρος 09 Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_5_fake_test_no_file|5",
+									"loc" : "archestratus_ms_e_fr_9|5",
 									"inFront": "false"
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_60|par 7", 
+									"line" : "archestratus_ms_a_fr_60b|par 7", 
 									"text" : "Fragment 7 (Ath. 3. 101b-e) 01 ἀεὶ δὲ στεφάνοισι κάρα παρὰ δαῖτα πυκάζου 02 παντοδαποῖς, οἷς ἄν γαίας πέδον ὄλβιον ἀνθῆι, ἀνθᾶ 03 καὶ στακτοῖσι μύροις ἀγαθοῖς χαίτην χαίταν θεράπευε, 04 καὶ σμύρναν λίβανόν τε πυρὸς μαλακὴν ἐπὶ τέφραν 05 βάλλε πανημέριος, Συρίης Συρίοις εὐώδεα κάρπον, 06 ἐμπίνοντι ἐμπίπτοντα δὲ σοι φερέτω τοιόνδε τράγημα, 07 γαστέρα καὶ μήτραν ἑφθὴν ὑὸς ἔν τε κυμίνῳ μίνωι 08 ἔν τʹ ὄξει δριμεῖ καὶ σιλφίωι ἐμβεβαῶσαν 09 ὀρνίθων τε ὀπτῶν ἁπαλὸν γένος, ὡς ἂν ὑπάρχηι 10 ὥρη. τῶν δὲ Συρακοσίων τούτων ἀμέλησον, 11 οἳ πίνουσι μόνον βατράχων τρόπον,οὐδὲν ἔδοντες ἔθοντες . 12 ἀλλὰ συμπείθου σὺ μὴ πείθου κείνοις, ἃ δʹ ἐγὼ λέγω ἔσθε 13 βρωτά. τὰ δʹ ἄλλα γʹἐκεῖνα γε κεῖνα τραγήματα πάντα πέφυκε 14 πτωχείας παράδειγμα καλῆς, ἑφθῆς τʹ ἐρέβινθοι 15 καὶ κύαμοι καὶ μῆλα καὶ ἰσχάδες. ἀλλὰ πλακοῦντα 16 αἴνει Ἀθήνηισι γεγενημένον· εἰ δὲ ἄν που 17 αὐτον ἔχηις, ἑτέρωθι ἑτέρωθε μέλι ζήτησον ἀπελθὼν Ἀττικόν 18 Ἀττικόν, ἀπελθὼν ὡς τοῦτʹ ἔστιν ὃ ποιεῖ κεῖνον ὑβριστήν. 19 οὕτω τοι δεῖ ζῆν τὸν ἐλεύθερον ἢ κατὰ τῆς γῆς 20 καὶ κατὰ τοῦ βαράθρου καὶ Ταρτάρου ἐς εἰς τὸν ὄλεθρον ἥκειν καὶ κατορωρύχθαι σταδίους ἀναρίθμήτους. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_7|6",
@@ -69,7 +69,7 @@
 									"line" : "archestratus_ms_a_fr_25|par 8", 
 									"text" : "Fragment 8 (Ath. 3. 104f-5a) 01 ἀλλὰ παρεὶς λῆρον πολὺν άστακὸν ὠνοῦ 02 τὸν τὰς χεῖρας ἔχοντα μακρὰς ἄλλως τε βαρείας, 03 τοὺς δὲ πόδας μικρούς, βραδέως δʹἐπὶ γαῖαν ὀρούει. 04 εἰσὶ δὲ πλεῖστοι μὲν πάντων ἀρετῆι τε καὶ ἀρετῆ κράτιστοι 05 ἐν Λιπάραις. πολλοὺς δὲ καὶ Ἑλλήσποντοςἀθροίζει. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_60|7",
+									"loc" : "archestratus_ms_a_fr_60b|7",
 									"inFront": "false"
 								}, 
 							 
@@ -99,14 +99,14 @@
 							 
 								{ 
 									"line" : "archestratus_ms_a_fr_39|par 12", 
-									"text" : "(Ath. 3. 116f-17b) 01 καὶ Σικελοῦ θύννου θύνου τέμαχος τέμμαχος 02 τμηθὲν ὅτʹ ἐν βίκοισι κύβοισι ταριχεύσθαι ἔμελλεν. 03 σαπέρδηι δʹ ἐνέπω κλαίειν μακρά, Μοντικῶι ὄψωι, 04 καὶ τοῖς κεῖνον ἐπαινοῦσιν. παινοῦσι παῦροι γὰρ γὰρ τ' ἴσασιν 05 ἀνθρώπων, ὅ τι φαῦλον ἔφυ καὶ ἀκιδνὸν κενεόν τε ἔδεσμα . 06 ἀλλὰ τριταῖον ἔχειν σκόμβρον πρὶν ἐς ἁλμυρὸν ὕδωρ 07 ἐλθεῖν ἀμφορέως εντονεον ἡμιτάριχον. 08 ἂν δʹ ἀφίκηι κλεινοῦ Βυζαντίου εἰς πόλιν ἁγνήν, 09 ὡραίου φάγε μοι τέμαχος πάλιν· ἔστι γὰρ ἐσθλὸν 10 καὶ μαλακόν. τέμαχος. πάνυ γὰρ ἔστιν ἐσθλόν καὶ μαλακὸν. ", 
+									"text" : "Fragment 12 (Ath. 3. 116f-17b) 01 καὶ Σικελοῦ θύννου θύνου τέμαχος τέμμαχος 02 τμηθὲν ὅτʹ ἐν βίκοισι κύβοισι ταριχεύσθαι ἔμελλεν. 03 σαπέρδηι δʹ ἐνέπω κλαίειν μακρά, Μοντικῶι ὄψωι, 04 καὶ τοῖς κεῖνον ἐπαινοῦσιν. παινοῦσι παῦροι γὰρ γὰρ τ' ἴσασιν 05 ἀνθρώπων, ὅ τι φαῦλον ἔφυ καὶ ἀκιδνὸν κενεόν τε ἔδεσμα . 06 ἀλλὰ τριταῖον ἔχειν σκόμβρον πρὶν ἐς ἁλμυρὸν ὕδωρ 07 ἐλθεῖν ἀμφορέως εντονεον ἡμιτάριχον. 08 ἂν δʹ ἀφίκηι κλεινοῦ Βυζαντίου εἰς πόλιν ἁγνήν, 09 ὡραίου φάγε μοι τέμαχος πάλιν· ἔστι γὰρ ἐσθλὸν 10 καὶ μαλακόν. τέμαχος. πάνυ γὰρ ἔστιν ἐσθλόν καὶ μαλακὸν. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_6|11",
 									"inFront": "false"
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_24|par 13", 
+									"line" : "archestratus_ms_a_fr_24_a|par 13", 
 									"text" : "Fragment 13 (Ath. 4. 162b, 163c-e) 01 ἀλλʹ οὐ πολλοὶ ἴσασιν βροτῶν τόδε θεῖον ἔδεσμα, 02 οὐδʹ ἔσθειν ἐθέλουσ' ὅσοι κόυφην τε λεβώδη 03 ψυχὴν κέκτηνται θνητῶν εἰσὶν δʹ ἀπόπληκτοι, 04 ὡς ἀνθρωποφάγου τοῦ θηρίου ὄντος. ἅπας δὲ 05 ἰχθὺς σάρκα φιλέεῖ βροτεάν, ἄν περ περικύρσηι. 06 ὥστε πρέπει καθαρῶς ὁπόσοι τάδε μωρολογοῦσι 07 τοῖς λαχάνοις προσάγειν καὶ πρὸς Διόδωρον ἰόντας 08 τὸν σοφὸν ἐγκρατέως μετʹ ἐκείνου πυθαγορίζειν. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_39|12",
@@ -117,7 +117,7 @@
 									"line" : "archestratus_ms_a_fr_36|par 14", 
 									"text" : "Fragment 14 (Ath. 7. 278a-d et 7. 313e-14a) 01 τὴν δʹ ἀμίαν φθινοπώρου ὠνου ante φθινοπώρου , ὅταν Πλειὰς καταδύνηι, 02 πάντα τρόπον σκεύαζε. τί σοι τάδε μυθολογεύω ; 03 οὐ γὰρ μὴ σε διαφθείρηι γʹ , οὐδʹ ἄν ἐπιθυμῆις ἐπιθυμεις . 04 εἰ δʹ ἐθέλεις δὲ θέλεις καὶ τοῦτο δαήμεναι, ὦ φίλε Μόσχε, 05 ὅντινα χρή σε τρόπον #κείνην διαθεῖναι ἄριστα, 06 ἐν συκῆς φύλλοις καὶ ὀριγάνωι οὐ μάλα πολλῆι. 07 μὴ τυρόν, μὴ λῆρον· ἁπλῶς δʹ οὕτως θεραπεύσας 08 ἐν συκῆς φύλλοις σχοίνωι κατάδησον ἄνωθεν, 09 εἶθʹ ὑπὸ θερμὴν ὦσον ὦσων ἔσω σποδόν, ἐν φρεσὶ καιρὸν 10 γινώσκων ὁπότʹ ἐστʹὀπτή, καὶ μὴ κατακαύσηις. 11 ἔστω δʹ αὕτη σοι Βυζαντίου ἐξ ἐρατεινοῦ ἐρατίνου , 12 εἴπερ ἔχειν ἀγαθὴν ἐθέλεις· κἂν ἐγγὺς ἁλωι που 13 τοῦδε τόπου, κεδνὴν λήψει· τηλοῦ δὲ θαλάσσης 14 Ἑλλησποντιάδος χείρων, κἂν κεινὸν ἀμείψηις 15 Αἰγαίου πελάγους ἔναλον πόρον, οὐκέθʹ ὁμοία 16 γίνεται, ἀλλὰ καταισχύνει τὸν πρόσθεν ἔπαινον. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_24|13",
+									"loc" : "archestratus_ms_a_fr_24_a|13",
 									"inFront": "false"
 								}, 
 							 
@@ -146,7 +146,7 @@
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_22|par 18", 
+									"line" : "archestratus_ms_a_fr_22_debut|par 18", 
 									"text" : "Fragment 18 (Ath. ACE 7. 285e-286a et A 7. 294f-5a) 01 ἐν δὲ Ῥόδωι γαλεὸν τὸν ἀλώπεκα, κἂν ἀποθνήισκειν 02 μέλληις, ἂν μή σοι πωλεῖν ἐθέληι, ἅρπασον αὐτόν, 03 ὅν καλέουσι Συρακόσιοι Συρακούσιοι κύνα πίονα, κἆθʹ 04 ὕστερον ἤδη πάσχʹ ὅ τί σοι πεπρωμένον ἐστίν. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_11|17",
@@ -157,7 +157,7 @@
 									"line" : "archestratus_ms_a_fr_48|par 19", 
 									"text" : "Fragment 19 (Ath. 7. 286c) 01 Βάρταχον, δʹ ἔνθʹ ἄν ἴδηις ἴδοις , ὀψώνει 02 καὶ γαστρίον αὐτοῦ 03 σκεύασον. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_22|18",
+									"loc" : "archestratus_ms_a_fr_22_debut|18",
 									"inFront": "false"
 								}, 
 							 
@@ -251,7 +251,7 @@
 							 
 								{ 
 									"line" : "archestratus_ms_a_fr_16|par 31", 
-									"text" : "Fragment 31 (Ath. 7. 305e-f) 01 αὐτὰρ ἐς Ἀμβρακίαν ἐλθὼν εὐδαίμονα χώραν 02 τὸν καρπὸν καπρὸν , ἂν ἐσίδηις, ὠνοῦ καὶ κατάλειπε, 03 κἂν ἰσόχρυσος ἔηι, μή σοι νέμεσις καταπνεύσηι 04 δεινὴ ἀπʹ ἀθανάτων· τὸ γάρ ἐστιν ἐστι νέκταρος ἄνθος. 05 τούτου δὲ θέμις τοῦτ' οὐδὲ θέμις ἐστὶ φαγεῖν θνητοῖσιν ἅπασιν 06 οὐδʹ ἐσιδεῖν ὄσσοισιν, ὅσοις ὅσοι μὴ πλεκτὸν ὕφασμα 07 σχοίνου ἑλιοτρόφου κοίλου χείρεσσιν χείρεσιν χείρεσσι ἔχοντες 08 εἰώθασι δονεῖν ψήφους ἄρθρων μηλείων ἄρθρον μηλείων 09 κἄρθρων μηλείων ἐπὶ γῆν δωρήματα βάλλων βάλλειν . ", 
+									"text" : "Fragment 31 (Ath. 7. 305e-f) 01 αὐτὰρ ἐς Ἀμβρακίαν ἐλθὼν εὐδαίμονα χώραν 02 τὸν καρπὸν καπρὸν , ἂν ἐσίδηις, ὠνοῦ καὶ κατάλειπε, 03 κἂν ἰσόχρυσος ἔηι, μή σοι νέμεσις καταπνεύσηι 04 δεινὴ ἀπʹ ἀθανάτων· τὸ γάρ ἐστιν ἐστι νέκταρος ἄνθος. 05 τούτου δὲ θέμις τοῦτ' οὐδὲ θέμις ἐστὶ φαγεῖν θνητοῖσιν ἅπασιν 06 οὐδʹ ἐσιδεῖν ὄσσοισιν, ὅσοις ὅσοι μὴ πλεκτὸν ὕφασμα 07 σχοίνου ἑλιοτρόφου κοίλου χείρεσσιν χείρεσιν χείρεσσι ἔχοντες 08 εἰώθασι δονεῖν ψήφους αἴθωνι λογισμῶι 09 ἄρθρων μηλείων ἄρθρον μηλείων ἐπὶ γῆν δωρήματα βάλλων βάλλειν . ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_51|30",
 									"inFront": "false"
@@ -282,18 +282,18 @@
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_24_fake_test_no_file|par 35", 
-									"text" : "Fragment 35 (Ath. 7. 310a, b-e) 01 ἐν δὲ Τορωναίων ἄστει τοῦ καρχαρία χρὴ 02 τοῦ κυνὸς ὀψωνεῖν ὑπογάστρια κοῖλα κάτωθεν, 03 εἶτα κυμίνωι αὐτὰ πάσας ἁλὶ μὴ συχνῶι ὄπτα. 04 ἄλλο δʹ ἐκεῖσε, φίλη κεφαλή, μηδὲν μηδὲν προσενέγκωις, 05 εἰ μὴ γλαυκὸν ἔλαιον. ἐπειδὰν δʹ ὀπτὰ γένηται, 06 ἤδη τριμμάτιόν δέ φέρειν καὶ ἐκεῖνα μετʹ αὐτοῦ. 07 ὅσσα δʹ ἂν ἐν λοπάδος κοίλης πληρώμασιν ἕψηις, 08 μήθʹ ὕδατος πληγὴν πηγὴν μήτ́ οἴνινον ὄξος 09 συμμίξηις, ἀλλʹ αὐτὸ μόνον κατάχευον ἔλαιον 10 αὐχμηρόν αὐχηρόν τε κύμινον, ὁμοῦ δʹ εὐώδεα φύλλα. 11 ἕψε δʹ ἐπʹ ἀνθρακιῆς φλόγα τούτοις μὴ προσενεγκὼν 12 καὶ κίνει πυκινῶς, μὴ προσκαυθέντα λάθηι σε. 13 ἀλλʹ οὐ πολλοὶ ἴσασι βροτῶν τόδε θεῖον ἔδεσμα, 14 οὐδʹ ἔσθειν ἐθέλουσιν ὅσοι κόυφαν γε λεβώδη κόυφαν καὶ λεβώδη 15 ψυχὴν κέκτηνται θνητῶν τʹ εἰσὶν εἰσὶν ἀπόπληκτοι, 16 ὡς δʹ ἀνθρωποφάγου τοῦ θηρίου ὄντος. ἅπας δὲ 17 ἰχθὺς σάρκα φιλεῖ βροτεάν, ἄν που περικύρσηι. ", 
+									"line" : "archestratus_ms_a_fr_24|par 35", 
+									"text" : "Fragment 35 (Ath. 7. 310a, b-e) 01 ἐν δὲ Τορωναίων ἄστει τοῦ καρχαρία χρὴ 02 τοῦ κυνὸς ὀψωνεῖν ὑπογάστρια κοῖλα κάτωθεν, 03 εἶτα κυμίνωι αὐτὰ πάσας ἁλὶ μὴ συχνῶι ὄπτα. 04 ἄλλο δʹ ἐκεῖσε, φίλη κεφαλή, μηδὲν προσενέγκωις, 05 εἰ μὴ γλαυκὸν ἔλαιον. ἐπειδὰν δʹ ὀπτὰ γένηται, 06 ἤδη τριμμάτιόν δέ φέρειν καὶ ἐκεῖνα μετʹ αὐτοῦ. 07 ὅσσα δʹ ἂν ἐν λοπάδος κοίλης πληρώμασιν ἕψηις, 08 μήθʹ ὕδατος πληγὴν πηγὴν μήτ́ οἴνινον ὄξος 09 συμμίξηις, ἀλλʹ αὐτὸ μόνον κατάχευον ἔλαιον 10 αὐχμηρόν αὐχηρόν τε κύμινον, ὁμοῦ δʹ εὐώδεα φύλλα. 11 ἕψε δʹ ἐπʹ ἀνθρακιῆς φλόγα τούτοις μὴ προσενεγκὼν 12 καὶ κίνει πυκινῶς, μὴ προσκαυθέντα λάθηι σε. 13 ἀλλʹ οὐ πολλοὶ ἴσασι βροτῶν τόδε θεῖον ἔδεσμα, 14 οὐδʹ ἔσθειν ἐθέλουσιν ὅσοι κόυφαν γε λεβώδη κόυφαν καὶ λεβώδη 15 ψυχὴν κέκτηνται θνητῶν τʹ εἰσὶν εἰσὶν ἀπόπληκτοι, 16 ὡς δʹ ἀνθρωποφάγου τοῦ θηρίου ὄντος. ἅπας δὲ 17 ἰχθὺς σάρκα φιλεῖ βροτεάν, ἄν που περικύρσηι. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_43|34",
 									"inFront": "false"
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_46|par 36", 
+									"line" : "archestratus_ms_a_fr_46a|par 36", 
 									"text" : "Fragment 36 (Ath. 7. 311a-c) 01 λάμβανε δʹ ἐκ Γαίσωνος, ὅταν Μίλητον ἵκηαι, 02 κεστρέα τὸν κέφαλον καὶ τὸν θεόπαιδα λάβρακα· 03 εἰσὶ γὰρ ἐνθάδʹ ἄριστοι, ὁ γὰρ τόπος ἐστὶ τοιοῦτος. 04 πιότεροι δʹ ἕτεροι πολλοὶ Καλυδῶνί τε κλεινῆι 05 Ἀμβρακίαι τʹ ἐνι πλουτοφόρωι Βόλβηι τ' ἐνὶ λίμνηι, 06 ἀλλʹ οὐκ εὐώδη γαστρὸς κέκτηνται ἀλοιφὴν 07 οὐδʹ οὕτω δριμεῖαν. ἐκεῖνοι δʹ εἰσίν, ἑταῖρε, 08 τὴν ἀρετὴν θαυμαστοί. ὅλους δʹ αὐτοὺς ἀλεπίστους 09 ὀπτήσας μαλακοὺς χρηστῶς προσένεγκε διʹ ἅλμης. 10 μηδὲ προσέλθηι σοί πρὸς τοὖψον τοῦτο ποιοῦντι 11 μήτε Συρακόσιος μηθεὶς μήτε Ἰταλιώτης· 12 οὐ γὰρ ἐπίστανται χρηστοὺς σκευαζέμεν ἰχθῦς, 13 ἀλλὰ διαφθείρουσι κακῶς τυροῦντες ἅπαντα 14 ὄξει τε ῥαίνοντες ὑγρῶι καὶ σιλφίου ἄλμηι. 15 τῶν δὲ πετραίων ἰχθυδίων τῶν τρισκαταράτων 16 πάντων εἰσίν ἄριστοι ἐπισταμένως ἐπιστήμονες διαθεῖναι 17 καὶ πολλὰς ἰδέας κομψῶς παρὰ δαιτὶ δύνανται 18 ὀψαρίων τεύχειν γλίσχρων ἡδυσματολήρων ἡδυσμάτων λήρων . ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_24_fake_test_no_file|35",
+									"loc" : "archestratus_ms_a_fr_24|35",
 									"inFront": "false"
 								}, 
 							 
@@ -301,7 +301,7 @@
 									"line" : "archestratus_ms_a_fr_52|par 37", 
 									"text" : "Fragment 37 (Ath. 7. 311e-f) 01 τὸν δὲ λάτον τὸν κλεινὸν ἐν Ἰταληι πολυδένδρωι 02 ὁ Σκυλλαῖος κυλλαῖος ἔκει πορθμός, θαυμαστὸν ἔδεσμα. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_46|36",
+									"loc" : "archestratus_ms_a_fr_46a|36",
 									"inFront": "false"
 								}, 
 							 
@@ -314,7 +314,7 @@
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_53|par 39", 
+									"line" : "archestratus_ms_a_fr_53_debut|par 39", 
 									"text" : "Fragment 39 (Ath. 7. 313.e-14 a) μόρμυρος αἰγιαλεύς, κακὸς ἰχθὺς οὐδέ ποτʹ ἐσθλός. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_17|38",
@@ -325,7 +325,7 @@
 									"line" : "archestratus_ms_a_fr_45|par 40", 
 									"text" : "Fragment 40 (Ath. 7. 313e–14a) κεστρέα τὸν θαυμαστόν, ὃταν χειμὼν ἀφίκηται. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_53|39",
+									"loc" : "archestratus_ms_a_fr_53_debut|39",
 									"inFront": "false"
 								}, 
 							 
@@ -355,7 +355,7 @@
 							 
 								{ 
 									"line" : "archestratus_ms_a_fr_54|par 44", 
-									"text" : "Fragment 44 (Ath. 7. 318f) 01 πώλυποι ἔν τε θάσωι θάσσῳ καὶ Καρίαι εἰσὶν ἄριστοι. 02 καὶ Κέρκορα τρέφει πολλοὺς μεγάλους τε τὸ πλῆθος . ", 
+									"text" : "Fragment 44 (Ath. 7. 318f) 01 πώλυποι ἔν τε Θάσωι Θάσσῳ καὶ Καρίαι εἰσὶν ἄριστοι. 02 καὶ Κέρκορα τρέφει πολλοὺς μεγάλους τε τὸ πλῆθος . ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_15|43",
 									"inFront": "false"
@@ -370,7 +370,7 @@
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_42|par 46", 
+									"line" : "archestratus_ms_a_fr_42a|par 46", 
 									"text" : "Fragment 46 (Ath. 7. 320a, vv. 1-3) 01 σκάρον ἐξ Ἐφέσου ζήτει, χειμῶνι χειμῶνος δὲ τρίγλαν 02 ἔσθι' ἐνὶ ψαφαρῆι ληφθέντα Τειχιοέσσηι, 03 Μιλήτου κώμηι Καρῶν πέλας ἀγκυλοκώλων ἀγκυλοκώλων τόξ . ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_47|45",
@@ -381,7 +381,7 @@
 									"line" : "archestratus_ms_a_fr_14|par 47", 
 									"text" : "Fragment 47 (Ath. 7. 320a-b) 01 καὶ σκάρον ἐν παράλωι Καρχηδόνι Χαλχηδόνι (κ ρχ) τὸν μέγαν ὄπτα 02 πλύνας εὖ· χρηστὸν δὲ καὶ ἐν Βυζαντίωι ὄψει 03 καὶ μέγεθος, κυκλίας ἴσον ἀσπίδι νῶτα φοροῦντα. 04 τοῦτον ὅλον θεράπευε τρόπον τοιόνδε. λαβών νῦν, 05 ἡνίκʹ ἂν εὖ ἐν τυρῶι τε καὶ ἐλαίωι πάντα πυκασθῆι, 06 κρίβανον ἐς θερμὸν κρέμασον κἄπειτα κατόπτα· 07 πάσσειν δʹ ἁλσὶ κυμινοτρίβοις καὶ γλαυκῶι ἐλαίωι 08 ἐκ χειρὸς κατακρουνίζων θεοδέγμονα πηγήν. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_42|46",
+									"loc" : "archestratus_ms_a_fr_42a|46",
 									"inFront": "false"
 								}, 
 							 
@@ -426,8 +426,8 @@
 								}, 
 							 
 								{ 
-									"line" : "archestratus_ms_a_fr_42_fake_test_no_file|par 53", 
-									"text" : "Fragment 53 (Ath. 7. 325d-e) 01 κἀν Θάσζωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι 02 ταύτης· ἐν δὲ τῶι Τέῳ χείρω, κεδνὴ δὲ καὶ αὐτὴ . 03 ἐν δʹ ̓Ερυθραῖς ἀγαθὴ θηρεύεται αἰγιαλῖτις. ", 
+									"line" : "archestratus_ms_a_fr_42b|par 53", 
+									"text" : "Fragment 53 (Ath. 7. 325d-e) 01 κἀν Θάσωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι 02 ταύτης· ἐν δὲ τῶι Τέῳ χείρω, κεδνὴ δὲ καὶ αὐτὴ . 03 ἐν δʹ ̓Ερυθραῖς ἀγαθὴ θηρεύεται αἰγιαλῖτις. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
 									"loc" : "archestratus_ms_a_fr_56|52",
 									"inFront": "false"
@@ -437,7 +437,7 @@
 									"line" : "archestratus_ms_a_fr_34|par 54", 
 									"text" : "Fragment 54 (Ath. 7. 326b) 01 καὶ νεαροῦ μεγάλου ταὐλωπία ἐν θέρι θέρει ὠνοῦ 02 κρανίον, ὅταν Φαέτων πυμάτην ἁψῖδα διφρεύηι· 03 καὶ παράθες θερμὸν ταχέως καὶ τρῖμμα μετʹ αὐτοῦ· 04 ὄπτα δʹ ἀμφʹ ὀβελίσκον ἑλὼν ὑπογάστριον αὐτοῦ. ", 
 									"tags" : "archestratus|Archestrate de Géla", 
-									"loc" : "archestratus_ms_a_fr_42_fake_test_no_file|53",
+									"loc" : "archestratus_ms_a_fr_42b|53",
 									"inFront": "false"
 								}, 
 							 
@@ -496,14 +496,14 @@
 									"loc" : "archestratus_ms_a_fr_2|60",
 									"inFront": "false"
 								}, 
-							
-										{ 
-											"line" : "no line info|no line info",
-											"text" : "Fragment 62 (Ath. 9. 399d-e) 01 τοῦ δὲ λαγὼ πολλοί τε τρόποι πολλαί τε θέσεις 02 σκευασίας εἰσί. κεῖνος δʹ οὖν ἐστιν ἄριστος, 03 ἂν πεινῶσι μεταξὺ φέρηις κρέας ὀπτὸν ἑκάστωι, 04 θερμόν, ἁπλῶς ἁλίπαστον, ἀφαρπάζων ὀβελίσκου 05 μικρὸν ἐνωμότερον. μὴ λυπείτω δέ σʹ ὁρῶντα 06 ἰχῶρα στάζοντα κρεῶν, ἀλλʹ ἔσθε λάβρως. 07 αἱ δʹ ἄλλαι περίεργοι ἔμοιγʹ εἰσὶν ἔμοιγε εἰσὶ διὰ παντὸς 08 σκευασίαι, γλυῶν γλοιῶν καταχύσματα καὶ κατὰτυρα 09 καὶ κατέλαια λίαν, ὥσπερ γαλῆ ὀψοποιούντες γαλῆι ὀψοποιούντων .  Commentaire des passages introduisant les fragments Si les fragments d’Archestrate de Géla sont cités dans l’œuvre d’Athénée, c’est qu’ils étaient encore connus au tournant du IIe et IIIe siècle de notre ère, soit plus de six siècles après leur écriture. On peut se demander quel regard Athénée porte sur ce poète du IVe avant notre ère et on appréciera les relations complexes et changeantes qu’entretient ce dernier avec Archestrate. On verra tout d’abord qu’Athénée donne des renseignements sur le poète et son œuvre sur un ton relativement neutre. Puis, on montrera qu’Athénée, par le choix de ses formules, peut se montrer très élogieux et faire d’Archestrate une référence. Enfin, Athénée peut faire preuve d’ambivalence à son égard et même se révéler hostile. Quelques renseignements sur le poète et son œuvre Une origine sicilienne Peu de choses nous sont parvenues aujourd’hui sur la vie d’Archestrate et déjà au temps d’Athénée de Naucratis, les indications biographiques étaient peu nombreuses. L’un des rares renseignements que nous donne Athénée est la ville de naissance d’Archestrate : ce dernier serait de Géla ou de Syracuse, deux villes se trouvant en Sicile, la première au sud de l’île, la seconde à l’est :  Ἀρχέστρατος ὁ Συρακούσιος ἢ Γελῷος (ap. Ath. I. 4d-e) Archestrate de Syracuse ou de Géla.  SiArchestrate fait mention à plusieurs reprises de la ville de Syracuse dans ses fragments, jamais il n’est question de Géla. Peut-être que le nom de Géla apparaissait ailleurs dans son poème et que ce nom s’est perdu en même temps que certains fragments ou bien qu’Archestrate n’en fait réellement jamais mention. Cela peut s’expliquer par le fait que dans la première moitié du IVe siècle avant notre ère, Géla est une ville dangereuse. Archestrate et sa famille ont possiblement fui Géla pour se réfugier à Syracuse. Archestrate a peut-être préféré oublier ce pénible souvenir. Quoi qu’il en soit, l’origine sicilienne d’Archestrate ne semble pas faire débat. Par ailleurs, la Sicile, colonisée par les Grecs entre les VIIIe et VIIe siècles avant notre ère, est alors renommée à travers la Grande Grèce pour ses plaines fertiles et sa gastronomie qui sont chantées par plusieurs poètes siciliens. Archestrate s’inscrit dans cette tradition sicilienne où la cuisine est célébrée : Mithécos de Syracuse est sans doute le premier cuisinier ayant écrit un livre de cuisine à la fin du Vème siècle av. J.-C et Héraclide de Syracuse a écrit un Art culinaire au IVème siècle avant notre ère. Un voyageur Outre son origine, Athénée nous renseigne sur le fait qu’Archestrate a beaucoup voyagé. Cela nous est dit dans les passages suivants :  Γῆν πᾶσαν θάλασσαν περιῆλθεν ἀκριβῶς (ap. Ath. 7. 278d-e)  Il [Archestrate] a parcouru rigoureusement toute la terre et toute la mer. Ἀρχέστρατος μὲν ὀ περιπλεύσας τὴν οἰκουμένην ( ap. Ath. 3. 116f-17b) Archestrate qui a navigué tout autour du monde habité.  Ἀρχέστρατος δ´ ὀ πᾶσαν γῆν καὶ θάλασσαν [...] περιελθών (ap. Ath. 7. 326d)  Archestrate qui a parcouru toute la terre et toute la mer.  Archestrate de Géla a ainsi parcouru l’oikouménè c’est-à-dire l’ensemble des terres connues et habitées de son époque. Cela nous est confirmé par les soixante-deux fragments que nous avons traduits. Nous avons pu en effet dénombrer plus d’une cinquantaine de cités toutes situées en Grèce et en Grande-Grèce. Archestrate de Géla semble avoir des connaissances précises et bien délimitées de la géographie du monde grec de son temps. C’est un espace structuré : à l’ouest par la Sicile, à l’est par des cités comme Milet, au nord par l’Hellespont, au sud par laCrète. SiArchestrate de Géla semble être un voyageur infatigable, il n’en reste pas moins qu’il ne s’est pas vraiment aventuré dans l’érème c’est-à-dire dans des terres non explorées, dans le monde des barbares. En effet, ces derniers n’y ont presque aucune place à l’exception de deux références à la Phénicie et à la Lydie. Cela s’explique par le fait que le but d’Archestrate n’était pas de découvrir dans de nouvelles contrées de nouveaux mets mais de rechercher les meilleurs produits connus de ses contemporains. Une œuvre qui a parcouru le monde Quoi qu’il en soit, siArchestrate n’a peut-être pas visité le monde qu’il décrit, son œuvre a sans aucun doute beaucoup voyagé. Elle porte en effet plusieurs titres, preuve qu’elle a circulé et qu’elle a été connue pendant l’Antiquité. L’œuvre d’Archestrate est tout d’abord citée par quatre auteurs : ἐν τῇ ὡς Χρύσιππος ἐπιγράφει Γαστρονομίᾳ, ὡς δὲ Λυγκεὺς καὶ Καλλίμαχος Ἡδυπαθείᾳ, ὡς δὲ Κλέαρχος Δειπνολογία, ὡς δ᾽ ἄλλοι Ὀψοποιία. (ap. Ath. I. 4d) Dans l’ouvrage intitulé, selon Chrysippe la Gastronomie, selon LyncéeetCallimaquelaVie de plaisirs, selon Cléarque, La science du repas, selon d’autres la Cuisine.  En 4. 162b et 7. 278a-d.,AthénéeciteLycophron de Chalcisqui appelle l’œuvre d’ArchestrateΓαστρολογία (Gastrologia). Athénée qualifie enfin le poème d’Archestrate des façons suivantes : ἐν ταῖς Ὑποθήκαις (dans ses Conseils) (ap. Ath. 7. 328b, 7. 310a, 7. 284e), ἱστορία (Informations) (ap. Ath. 7. 298e, 7. 326b, 9. 383b), et de ἐν ταῖς Γνώμαις (dans ses Maximes) (ap. Ath. 7.286d).  Ainsi le poème d’Archestrate est-il désigné de huit façons différentes et parmi ses huit titres, il est impossible de savoir lequel Archestrate avait choisi, si toutefois celui-ci figure bien parmi ces huit propositions. Nous n’en avons en effet aucune mention dans aucun manuscrit. Nous constatons tout d’abord que deux titres - Gastrologia et Gastronomia - sont formés sur le radical gastros. Dans le premier cas, ce radical est suivi du suffixe -logos : la Gastrologia signifie littéralement le discours du ventre. Le terme Gastronomia, quant à lui, est formé à partir du suffixe -nomos, suffixe qui entre dans la composition de mots savants pour désigner une discipline : la Gastronomia serait littéralement la science du ventre. Ces deux titres annoncent, non sans une certaine dérision, un ouvrage pseudo-scientifique. Il en de même pour la Deipnologia ou le Discours des repas. Il semble ainsi que Lycophron, Chrysippe et Cléarque aient un avis négatif sur l'œuvre d’Archestrate et cherchent à la dénigrer : le manque de maîtrise des appétits va à l’encontre du mode de vie philosophique pour les Stoïciens et la gastronomie relèverait de la vie de plaisirs disqualifiée par la tradition aristotélicienne au profit de la vie politique et théorétique. Lyncée et Callimaque, quant à eux, emploient un autre terme, celui d’ Ἡδυπαθείας (cité quatre fois par Athénée) et que le Bailly définit comme la vie de jouissance ou de mollesse. Si nous éliminons les noms Hypothekai, Gnomai, et Historiai - beaucoup trop généralistes et n’ayant par conséquent que peu d’intérêt pour désigner l'œuvre d’Archestrate -, Ἡδυπαθείας est considéré, selon S. Douglas Olson et Alexander Sens, comme le titre le meilleur qui puisse être attribué au poème d’Archestrate. Ce titre annonce de façon explicite qu’il y est question des plaisirs de la vie sans qu’il n’y ait la moindre critique sous-jacente de la part de Lyncée et de Callimaque. C’est d’ailleurs celui-ci que les deux chercheurs ont adopté pour désigner l'œuvre d’Archestrate. Il en va de même pour John Wilkins et Shaun Hill. Parmi tous ces titres, Athénée de Naucratis ne semble pas prendre position. Au contraire. Il rappelle tout ce qu’il a entendu afin de conserver la mémoire d’Archestrate. À une époque où la culture romaine prend le pas sur la culture grecque et où cette dernière est en déclin, Athénée se pose en garant et défenseur de la littérature hellénistique. N’est-ce pas là, d’ailleurs, tout l’enjeu des Deipnosophistes ? Du gastronome au glouton : le regard duel d’Athénée sur Archestrate Athénée de Naucratis nous donne ainsi des renseignements sur le poète et son œuvre de façon objective lorsqu’il introduit certains fragments d’Archestrate de Géla. Mais, à d’autres moments, il nous livre son jugement qui peut être, dans certains cas, laudatif et, dans d’autres, très négatif. Expressions laudatives Nous constatons tout d’abord qu’Archestrate est caractérisé de façon positive par Athénée. En effet, les adjectifs σοφός (ap. Ath. 7. 321c-d et 7. 311a-c) et καλός (ap. Ath. 7. 307d) présentent Archestrate comme un homme sage et beau. Les Grecs pensaient que la beauté externe (καλός) était associée à une beauté interne (σοφός) et qu’un beau visage était l’expression d’une belle âme. Archestrate incarne l’idéal grec selon Athénée. L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 : Περὶ τῶν κατ´ Ἰταλίαν τόπων διεξιών [...] ὁ καλὸς οὗτος περιηγητής (ap. Ath. 7. 294a) Ce noble explorateur poursuivant sur les régions d’Italie.  Archestrate est désigné comme le guide sage qui a parcouru le monde méditerranéen, mettant ainsi en valeur le choix sûr de ses destinations et sur sa façon de voyager. Athénée de Naucratis semble assez admiratif de ce voyageur qui, six siècles plus tôt, a passé une partie de sa vie à parcourir terres et mers, peut-être même au péril de sa vie dans la mesure où les voyages en bateau étaient considérés comme dangereux. D’autres expressions sont aussi appliquées à Archestrate : ὀ ὀψαρτυτὴς Ἀρχέστρατος (ap. Ath. 7. 320f-1a) - expression que l’on pourrait traduire par le chef Archestrate, celui qui apprête les mets - et Ἀρχέστρατος τοῦ δειπνολόγου (ap. Ath. 1. 29a-d) - l’expert des banquets. Archestrate semble être quelqu’un qui détient une certaine autorité dans les domaines de la gastronomie et des voyages, à qui l’on peut faire confiance et dont la parole n’est pas à remettre en question. Archestrate est ainsi une référence. Expressions négatives Mais on constate très vite que ces expressions positives sont peu nombreuses et qu’Athénée recourt aussi à plusieurs figures de style pour disqualifier Archestrate. Athénée semble ainsi être amateur de bons mots pour frapper les esprits et se moquer des conseils culinaires d’un poète qui, à six siècles de distance, semblent dépassés et vieillis. Usage du superlatif Athénée se moque volontiers d’Archestrate. À cinq reprises, Athénée fait en effet un usage du superlatif pour le désigner : ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) : le très instruit Archestrate  ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d) le très sage Archestrate  ὁ δὲ πολυμαθέστατος Ἀρχέστρατος (ap. Ath. 7. 324b et 9. 384b) le Très-ÉruditArchestrate  Le superlatif absolu indique qu’Archestrate l’emporte sur tous ses contemporains en sagesse et en connaissance, ce qui pourrait apparaître dans un premier temps très laudatif. Mais les Grecs n’étaient-ils pas sensibles à la σωφροσύνη (sophrosuné) c’est-à-dire à la tempérance ? Dès lors que l’on a recours à un superlatif, ne dépasse-t-on pas cette modération dont l’emploi zéro de l’adjectif serait le garant ? Athénée introduit ici une pointe d’ironie à l’égard d’Archestrate qui, n’hésitant pas à faire montre de son savoir, peut agacer son public par son érudition. D’ailleurs, l’adjectif κίμβιξ est employé pour introduire le fragment 29. Le Bailly donne deux sens à cet adjectif. Il désigne tout d’abord celui qui est pingre, avare. Mais cela ne fait pas sens ici. Le deuxième sens indique un homme pointilleux, vétilleux : Athénée critique ici Archestrate en pointant son goût excessif pour le détail. Par exemple, dans le fragment 29, il faut trouver une queue de grande thonne provenant de Byzance. Archestrate ne fait-il pas là preuve d’un peu trop d’excès ? Cela se retourne contre lui et il se ridiculise aux yeux d’Athénée et des convives de Larensis, qui se moquent d’une époque et de coutumes lointaines et révolues. Plus de six siècles séparent en effet les deux auteurs. Expressions oxymoriques Athénée utilise, par ailleurs, d’autres expressions tournant en dérision Archestrate. Par deux fois, Athénée a recours à des expressions oxymoriques. Archestrate est désigné comme un ὀψοδαίδαλος (opsodaidalos) - le Dédale des plats savoureux. Expression uniquement attestée dans Les Deipnosophistes, Athénée met en relation l’ingéniosité technique et scientifique de Dédale, auteur du célèbre Labyrinthe et inventeur des ailes d’Icare, et un mets de luxe c’est-à-dire ici les poissons. L’opposition entre les constructions de Dédale - un véritable savoir scientifique - et l’apprêt du poisson - un savoir-faire - introduit un décalage comique dans la désignation d’Archestrate. Mais Athénée va plus loin dans sa critique : Archestrate nous perd dans le choix des mets et dans les conseils qu’il donne pour les apprêter : nous nous retrouvons ainsi perdus comme dans un labyrinthe. L’expression ὁ ἡδονικὸς φιλόσοφος (edonikos filosofos) que l’on pourrait traduire par le philosophe du plaisir est un autre oxymore qui qualifie - ou disqualifie - Archestrate. Comment peut-on mêler philosophie et plaisir ? Platon dénigre les plaisirs gustatifs car ils vont à l’encontre de la maîtrise de soi à laquelle le philosophe doit rester fidèle. C’est le sophiste qui fait l’éloge du plaisir et non le philosophe. Épicure, quant à lui, met en valeur le plaisir dans sa philosophie mais il ne s’agit pas de n’importe quel plaisir : il faut savoir rester, même en ce domaine, dans la modération en se limitant à ce qui est nécessaire et naturel. Métaphore militaire Athénée emploie aussi une métaphore militaire pour caractériser Archestrate : ὁ τῶν δείπνων λοχαγός (ap. Ath. 7. 301c) - le capitaine des banquets. Il s’agit d’une image commune dans les textes portant sur la nourriture, mais rare chez Archestrate. Matron de Pitane - un poète du IVème siècle avant notre ère - qui a écrit le Δει̑πνον Ἀττικόν (Deípnon Attikón : le Banquet attique), emploie en le parodiant le vocabulaire militaire d’Homère de façon importante. Par cette métaphore comique qui allie commandement militaire et art du banquet, Athénée indique de façon astucieuse ses connaissances en gastronomie littéraire. Faut-il y voir une critique dressée contre Archestrate qui ne fait pas comme les autres poètes en n’ayant jamais recours au vocabulaire militaire ou bien, Athénée indique-t-il le renouveau de cette tradition en montrant qu’Archestrate en fait abstraction ? Périphrases Par ailleurs, Athénée caractérise Archestrate par plusieurs périphrases : Ἀρχέστρατος ὅν ἀντι τοῦ Ὁμήρου προσκυνεῖς -Archestrate que l’on vénère comme un autre Homère-, Ἀρχέστρατος τῶν ὀψοφάγων Ἡσίοδος ἢ Θέογνις - Archestrate, l’Hésiode ou le Théognis des mangeurs de poissons -, et ὁ Πυθαγορικὸς δὲ δι’ ἐγκράτειαν Ἀρχέστρατος- Archestrate, dont la tempérance a fait un disciple de Pythagore. La poésie d’Archestrate peut être comparée à celle de plusieurs grands noms de la littérature grecque pour ce qui concerne la forme puisque l'emploi de l’hexamètre dactylique leur est commun. Par contre, pour ce qui est du fond, Athénée met en relation des poètes qui traitent de sujets forts différents et qui, de surcroît, n’ont aucun lien avec la nourriture, en général, et avec les poissons, en particulier. Le voyage méditerranéen fait par Archestrate peut faire penser à une parodie du retour d’Ulysse à Ithaque. La trivialité du sujet d’Archestrate s’oppose à l’épopée d’Homère qui célèbre les hauts faits des héros et des dieux, le combat d’un mortel contre les immortels. Archestrate, quant à lui, célèbre le bon goût contre le mauvais. Mais, mis à part cela, Archestrate et Homère n’ont rien en commun d’autant plus qu’Homère ne parle jamais de poissons lorsqu’il mentionne la nourriture de ses personnages. Il est seulement question dans l’Iliade de la préparation de la viande. Peut-être le poème d’Archestrate donnait-il une place plus importante à la viande. Mais comme il ne nous est parvenu que de façon fragmentaire, il est difficile de dire si Archestrate n’avait que peu d’intérêt pour le viande ou si, au contraire, le poème portait davantage dessus et, dans ce cas, Athénée aurait fait un tri dans ce qui l’intéressait pour son catalogue du Livre VII placé sous le signe des poissons. Notre regard pourrait donc être biaisé. En comparant Archestrate à Hésiode ou à Théognis de Mégare, Athénée laisse entendre son rire sarcastique et cherche à faire rire son public. En effet, Archestrate représente l’exact opposé de ces auteurs. Hésiode qui vécut à la fin du VIIIème siècle ou au début du VIIème siècle av. J.-C. est l’auteur du poème intitulé Les Travaux et les jours qui décrit les travaux agraires en Béotie et donne le calendrier précis de l’année agricole. Cet ouvrage a été composé pendant une grave crise agraire et lors de la colonisation grecque - les Grecs cherchaient alors de nouvelles terres à travailler. Les rudes tâches agricoles présentées sur fond de pauvreté et de frugalité contrastent avec le luxe et la profusion des plats présentés par Archestrate. Quant à Théognis de Mégare, poète élégiaque du VIème siècle avant notre ère, il dénonce notamment la décadence et l’effondrement des valeurs aristocratiques : deux thèmes très éloignés des préoccupations d’ Archestrate. Archestrate est aussi désigné comme un disciple de Pythagore, ce qui est paradoxal puisque le régime dit de Pythagore (né vers 580 av. J.-C.) repose sur la frugalité et proscrit la chair animale : on pouvait selon lui vivre sans faire souffrir et sans ôter la vie. En faisant l’éloge de la gastronomie halieutique et en étant par conséquent tout le contraire d’un disciple de Pythagore, Archestrate est à nouveau l’objet d’une ironie mordante de la part d’Athénée. Par ailleurs, dans le fragment 24 où il est question de Pythagore, Archestrate se défend de cette accusation et fait à son tour une vive critique de la philosophie de Pythagore et de ses disciples. Selon lui, le végétarisme de Pythagore est absurde. Tout l’art d’Athénée est de faire revivre par le biais du discours, le temps d’un banquet, des auteurs morts depuis longtemps. En s’affranchissant de toute temporalité, Athénée leur redonne la parole : Archestrate et Pythagore se répondent ainsi en écho au début du IIIème siècle de notre ère. Bien que Les Deipnosophistes donnent l’impression d’être une discussion à bâtons rompus entre les différents convives sans plan préétabli, il n’en reste pas moins qu’il y a dans sa structure interne une composition bien présente. Enfin, Athénée a beau se moquer d’Archestrate, il n’apparaît pas lui non plus comme un disciple de Pythagore. Son catalogue des poissons, notamment, au Livre VII ne condamne pas le fait de le préparer ni d’en manger.  Le paroxysme de la critique Enfin, Archestrate est désigné comme un glouton : τένθης Ἀρχέστρατος - Archestrate le glouton (ap. Ath. 3. 112b et 7. 285e). L’introduction au fragment 55 y fait aussi référence : Ἀρχέστρατος δ´ ὁ πᾶσαν γῆν καὶ θάλασσαν διὰ γαστριμαργίαν περιελθών. Archestrate qui explora au nom de la gloutonnerie l’ensemble des terres et des mers.  La seule motivation d’Archestrate, selon Athénée, est la satisfaction de son ventre. Le glouton est celui qui engloutit la nourriture avec voracité : il désigne celui qui est incapable de se restreindre, de faire preuve de tempérance. En somme, il est un débauché qui ne se préoccupe pas de la qualité de ce qu’il mange contrairement à ce que recherche Archestrate. Ce dernier est d’ailleurs comparé à Sardanapale (ap. Ath. 294f), empereur d’Assyrie et symbole de la vie dissolue et des plaisirs assouvis. Cela est d’ailleurs explicitement dit au moment d’introduire le fragment 12 où nourriture et sexe sont associés : τῆς γαστρὸς ἕνεκα καὶ τῶν ὑπὸ τὴν γαστέρα pour son ventre et les parties de son anatomie en-dessous de son ventre.  L’insulte est poussée ici à son paroxysme. Le manque de mesure caractérise ainsi Archestrate, l’éloignant de l’homme sage et bon que l’on a pu apercevoir à quelques reprises. Mais comment expliquer le passage du gastronome au glouton ? Il semblerait que ce soit la façon intrinsèque d’écrire d’Athénée qui n’a de cesse de passer de la louange à la critique la plus sévère puis de revenir à l’éloge. Il détourne les citations à son profit, s’amuse avec les auteurs et les malmène afin d’animer la discussion lors du banquet au moment où l’ivresse domine. Endroit propice où les mots peuvent avoir un double sens, où ils peuvent entrer en contradiction au sein d’une même expression et où l’on peut faire état d’une observation et dire ensuite le contraire. Le banquet où la recherche du mot d’esprit prévaut renouvelle ainsi les possibilités du langage. Par ailleurs, la façon changeante d’Athénée de nous présenter Archestrate influence aussi grandement notre façon de lire les vers qui sont cités par la suite. Notre regard sur Archestrate et la lecture que nous en faisons ne peuvent qu’en ressortir biaisés. Finalement, on oublie ce que pense Athénée d’Archestrate. Cela est de plus redoublé par le fait qu’Athénée ne cite pas toujours directement le poète : il cite souvent un auteur (comme par exemple Daphnis l’Éphésien ou Ulpien) qui cite Archestrate. Dans cet enchâssement de paroles, les voix finissent par se confondre comme dans le brouhaha du σύμποσιον.",
-											"tags" : "archestratus|Archestrate de Géla",
-											"loc" : "archestratus_ms_a_fr_57|62",
-											"inFront": "false"
-										},
-									 
+							 
+								{ 
+									"line" : "archestratus_ms_a_fr_57|par 62", 
+									"text" : "Fragment 62 (Ath. 9. 399d-e) 01 τοῦ δὲ λαγὼ πολλοί τε τρόποι πολλαί τε θέσεις 02 σκευασίας εἰσί. κεῖνος δʹ οὖν ἐστιν ἄριστος, 03 ἂν πεινῶσι μεταξὺ φέρηις κρέας ὀπτὸν ἑκάστωι, 04 θερμόν, ἁπλῶς ἁλίπαστον, ἀφαρπάζων ὀβελίσκου 05 μικρὸν ἐνωμότερον. μὴ λυπείτω δέ σʹ ὁρῶντα 06 ἰχῶρα στάζοντα κρεῶν, ἀλλʹ ἔσθε λάβρως. 07 αἱ δʹ ἄλλαι περίεργοι ἔμοιγʹ εἰσὶν ἔμοιγε εἰσὶ διὰ παντὸς 08 σκευασίαι, γλυῶν γλοιῶν καταχύσματα καὶ κατὰτυρα 09 καὶ κατέλαια λίαν, ὥσπερ γαλῆ ὀψοποιούντες γαλῆι ὀψοποιούντων . ", 
+									"tags" : "archestratus|Archestrate de Géla", 
+									"loc" : "archestratus_ms_a_fr_58|61",
+									"inFront": "false"
+								}, 
+							 
 				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
 			
