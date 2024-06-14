@@ -2591,7 +2591,7 @@
 
       <back>
          <div n="Archestrate de Géla" type="translation" xml:id="archestratus_fr" xml:lang="fr">
-            <div n="p1" type="page" corresp="#archestratus_ms_a_fr_1_fake_test_no_file">
+            <div n="p1" type="page" corresp="#archestratus_ms_e_fr_1_debut">
                <div n="1" type="fragment">
                   <l n="1">Faisant montre de mes recherches à la <placeName ref="#Gr"
                         >Grèce</placeName> entière<note n="5">En principe, un poème épique commence
@@ -2603,7 +2603,7 @@
                         abrégée, d'où l’incise φησί, &quot;dit-il&quot;.</note>.</p>
                </div>
             </div>
-            <div n="p2" type="page" corresp="#archestratus_ms_a_fr_2_fake_test_no_file">
+            <div n="p2" type="page" corresp="#archestratus_ms_e_fr_4">
                <div n="2" type="fragment">
                   <l n="1">Que tous dînent à une seule table<note n="7">Une seule table pour
                         plusieurs semble très rare au IVème siècle avant notre ère, tout comme
@@ -2614,7 +2614,7 @@
                   <l n="4">une tente de soldats mercenaires vivant de rapines.</l>
                </div>
             </div>
-            <div n="p3" type="page" corresp="#archestratus_ms_a_fr_3_fake_test_no_file">
+            <div n="p3" type="page" corresp="#archestratus_ms_e_fr_59_debut">
                <div n="3" type="fragment">
                   <l n="1">Puis, quand tu auras pris une pleine ration de Zeus le Sauveur,</l>
                   <l n="2">ce devrait être un vieux vin à la tête bien grise,</l>
@@ -2651,12 +2651,12 @@
                   <l n="20">bien que certains aiment louer ce qu’ils ont chez eux.</l>
                </div>
             </div>
-            <div n="p4" type="page" corresp="#archestratus_ms_a_fr_4_fake_test_no_file">
+            <div n="p4" type="page" corresp="#archestratus_ms_e_fr_8">
                <div n="4" type="fragment">
                   <l>Que l’on te serve des olives ridées et mûres sur pied.</l>
                </div>
             </div>
-            <div n="p5" type="page" corresp="#archestratus_ms_a_fr_5">
+            <div n="p5" type="page" corresp="#archestratus_ms_e_fr_9">
                <div n="5" type="fragment">
                   <l n="1">J’envoie au diable les saucières remplies d’oignons et de tiges de
                         silphium<note n="9">Plante condimentaire et médicinale disparue, très
@@ -2687,7 +2687,7 @@
                      il se nomme Agathon.</l>
                </div>
             </div>
-            <div n="p7" type="page" corresp="#archestratus_ms_a_fr_60">
+            <div n="p7" type="page" corresp="#archestratus_ms_a_fr_60b">
                <div n="7" type="fragment">
                   <l n="1">Mets toujours sur la tête, lors des festins, des couronnes</l>
                   <l n="2">aux nombreuses variétés de fleurs dont la terre est riche au moment de
@@ -2804,7 +2804,7 @@
                   <l n="11">et fondant.</l>
                </div>
             </div>
-            <div n="p13" type="page" corresp="#archestratus_ms_a_fr_24">
+            <div n="p13" type="page" corresp="#archestratus_ms_a_fr_24_a">
                <div n="13" type="fragment">
                   <l n="1">Mais peu de mortels connaissent ce plat divin</l>
                   <l n="2">et ces mortels qui ont une cervelle de moineau</l>
@@ -2897,7 +2897,7 @@
                   <l n="9">après avoir broyé des herbes aromatiques dans de l’huile d’olive.</l>
                </div>
             </div>
-            <div n="p18" type="page" corresp="#archestratus_ms_a_fr_22">
+            <div n="p18" type="page" corresp="#archestratus_ms_a_fr_22_debut">
                <div n="18" type="fragment">
                   <l n="1">À <placeName ref="#Rho">Rhodes</placeName>, même si tu dois en
                      mourir,</l>
@@ -3090,7 +3090,7 @@
                         séduction et une belle apparence (OLSON et SENS 2000).</note>.</l>
                </div>
             </div>
-            <div n="p35" type="page" corresp="#archestratus_ms_a_fr_35_fake_test_no_file">
+            <div n="p35" type="page" corresp="#archestratus_ms_a_fr_24">
                <div n="35" type="fragment">
                   <l n="1">Dans la cité des Toraniens, il faut acheter</l>
                   <l n="2">les parties creuses du bas-ventre du chien-requin,</l>
@@ -3113,7 +3113,7 @@
                      part.</l>
                </div>
             </div>
-            <div n="p36" type="page" corresp="#archestratus_ms_a_fr_46">
+            <div n="p36" type="page" corresp="#archestratus_ms_a_fr_46a">
                <div n="36" type="fragment">
                   <l n="1">Quand tu iras à <placeName ref="#Mil">Milet</placeName>, achète le mulet
                      à grosse tête,</l>
@@ -3158,7 +3158,7 @@
                   <l n="3">achète-la. Car c’est là-bas un mets exceptionnel.</l>
                </div>
             </div>
-            <div n="p39" type="page" corresp="#archestratus_ms_a_fr_53">
+            <div n="p39" type="page" corresp="#archestratus_ms_a_fr_53_debut">
                <div n="39" type="fragment">
                   <l>Le mormyrus des rivages, un mauvais poisson et jamais bon.</l>
                </div>
@@ -3210,7 +3210,7 @@
                         <l n="4">un lézard rôti au four, régal des enfants des Ioniens ?</l>
                      </div>
                   </div>
-                  <div n="p46" type="page" corresp="#archestratus_ms_a_fr_42">
+                  <div n="p46" type="page" corresp="#archestratus_ms_a_fr_42a">
                      <div n="46" type="fragment">
                         <l n="1">Cherche un scare d’<placeName ref="#Eph">Éphèse</placeName> mais
                            mange en hiver</l>
@@ -3286,8 +3286,7 @@
                                  centre de <placeName ref="#Mar">Maronie</placeName>.</l>
                            </div>
                         </div>
-                        <div n="p53" type="page"
-                           corresp="#archestratus_ms_a_fr_53_fake_test_no_file">
+                        <div n="p53" type="page" corresp="#archestratus_ms_a_fr_42b">
                            <div n="53" type="fragment">
                               <l n="1">Et à <placeName ref="#Tha">Thasos</placeName>, achète un
                                  rouget et tu n’en auras pas un pire</l>
