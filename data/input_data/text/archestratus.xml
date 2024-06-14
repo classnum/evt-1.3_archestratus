@@ -644,14 +644,19 @@
                   rédaction de ses commentaires sur L’<hi rend="italic">Iliade</hi> et L’<hi
                      rend="italic">Odyssée</hi> .</p>
 
-               <pb n="1" facs="data/images/single/stemma.png" xml:id="stemma"/>
-
+<!--               <pb n="1" facs="data/images/single/stemma.png" xml:id="stemma"/>-->
+               <figure>
+               <graphic url="data/images/single/stemma.png"/>
+               </figure>
 
                <p>2. Un deuxième groupe est convaincu de l’indépendance de l’Épitomé par rapport au
                   Manuscrit A dont <persName ref="#Kai">G. Kaibel</persName>, <persName ref="#Pep"
                      >S. Peppink</persName>et <persName ref="#Des">A.-M. Desrousseaux</persName> : </p>
 
-               <pb n="2" facs="data/images/single/stemmab.png" xml:id="stemmab"/>
+<!--               <pb n="2" facs="data/images/single/stemmab.png" xml:id="stemmab"/>-->
+               <figure>
+                  <graphic url="data/images/single/stemmab.png"/>
+               </figure>
 
                <p> Dès la Renaissance, plusieurs éditions et traductions des <hi rend="italic"
                      >Deipnosophistes</hi> ont vu le jour : </p>
@@ -709,7 +714,10 @@
                   cité.</p>
 
 
-               <pb n="3" facs="data/images/single/monicaberti.png" xml:id="monicaberti"/>
+<!--               <pb n="3" facs="data/images/single/monicaberti.png" xml:id="monicaberti"/>-->
+               <figure>
+                  <graphic url="data/images/single/monicaberti.png"/>
+               </figure>
 
                <p><hi rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note n="4"
                         >Les informations de cette partie sont issues d'Olson et Sens (2000)</note>
@@ -757,10 +765,10 @@
                   passages introduisant les fragments afin de montrer le regard que porte <persName
                      ref="#Ath">Athénée de Naucratis</persName> sur <persName ref="#Arc">Archestrate
                      de Géla</persName>.</p>
-
-
-               <p><hi rend="italic">SIGLA</hi></p>
-
+            </div>
+            
+               <div type="paratext" subtype="sigla">
+               <head rend="italic">SIGLA</head>
                <p>A Venetus Marcianus 447</p>
                <p>C Parisinus suppl. gr. 841</p>
                <p>E Laurentianus Plutei LX. 2</p>
