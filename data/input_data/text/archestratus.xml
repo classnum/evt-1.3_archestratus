@@ -499,7 +499,8 @@
 
          <titlePage type="document_front">
 
-            <pb n="Titre" xml:id="archestratus_front"/>
+            <pb n="Titre" xml:id="archestratus_front"
+               facs="data/images/single/archestratus_front"/>
 
             <lb/>
             <lb/>
@@ -780,7 +781,7 @@
 
       <body>
          <pb n="1" facs="data/images/single/archestratus_ms_e_fr_1_debut.png"
-            xml:id="archestratus_ms_a_fr_1"/>
+            xml:id="archestratus_ms_e_fr_1_debut"/>
          <div n="1" type="fragment">
             <head>Fragment 1 (Ath. 1. 4d-e)</head>
             <l>ἱστορίης ἐπίδειγμα ποιούμενος Ἑλλάδι πάσηι</l>
@@ -788,7 +789,7 @@
             <note>habent CE</note>
          </div>
          <pb n="2" facs="data/images/single/archestratus_ms_e_fr_4.png"
-            xml:id="archestratus_ms_a_fr_4"/>
+            xml:id="archestratus_ms_e_fr_4"/>
          <div n="2" type="fragment">
             <head>Fragment 2 (Ath. 1. 4d-e)</head>
             <l n="1">πρὸς δὲ μιᾶι πάντας δειπνεῖν ἁβρόδαιτι τραπέζηι. </l>
@@ -801,7 +802,7 @@
             <note>habent CE</note>
          </div>
          <pb n="3" facs="data/images/single/archestratus_ms_e_fr_59_debut.png"
-            xml:id="archestratus_ms_a_fr_59_debut"/>
+            xml:id="archestratus_ms_e_fr_59_debut"/>
          <div n="3" type="fragment">
             <head>Fragment 3 (Ath. 1. 29a-d) )</head>
             <l n="1">εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε,</l>
@@ -848,14 +849,14 @@
             <note>habent CE</note>
          </div>
          <pb n="4" facs="data/images/single/archestratus_ms_e_fr_8.png"
-            xml:id="archestratus_ms_a_fr_8"/>
+            xml:id="archestratus_ms_e_fr_8"/>
          <div n="4" type="fragment">
             <head>Fragment 4 (Ath. 2. 56c)</head>
             <l n="1">ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l>
             <note>habent CE</note>
          </div>
          <pb n="5" facs="data/images/single/archestratus_ms_e_fr_9.png"
-            xml:id="archestratus_ms_a_fr_9"/>
+            xml:id="archestratus_ms_e_fr_9"/>
          <div n="5" type="fragment">
             <head>Fragment 5 (Ath. 2. 64a)</head>
             <l n="1">βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι</l>
@@ -913,8 +914,9 @@
             <l n="9">Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται.</l>
             <note>habent ACE</note>
          </div>
-         <pb n="7" facs="data/images/single/archestratus_ms_a_fr_60.png"
-            xml:id="archestratus_ms_a_fr_60"/>
+         <pb n="7" facs="data/images/single/archestratus_ms_a_fr_60b.png"
+            xml:id="archestratus_ms_a_fr_60b"/>
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="7" type="fragment">
             <head>Fragment 7 (Ath. 3. 101b-e)</head>
             <l n="1">ἀεὶ δὲ στεφάνοισι κάρα παρὰ δαῖτα πυκάζου</l>
@@ -1257,8 +1259,9 @@
             <l n="9">εὐώδη τρίψας ἄνθη λαχάνων ἐν ἐλαίωι.</l>
             <note>habent ACE</note>
          </div>
-         <pb n="18" facs="data/images/single/archestratus_ms_a_fr_22.png"
-            xml:id="archestratus_ms_a_fr_22"/>
+         <pb n="18" facs="data/images/single/archestratus_ms_a_fr_22_debut.png"
+            xml:id="archestratus_ms_a_fr_22_debut"/>
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="18" type="fragment">
             <head>Fragment 18 (Ath. ACE 7. 285e-286a et A 7. 294f-5a)</head>
             <l n="1">ἐν <app>
@@ -1644,8 +1647,9 @@
             <l n="17">ἰχθὺς σάρκα φιλεῖ βροτεάν, ἄν που περικύρσηι.</l>
             <note>habent ACE</note>
          </div>
-         <pb n="36" facs="data/images/single/archestratus_ms_a_fr_46.png"
-            xml:id="archestratus_ms_a_fr_46"/>
+         <pb n="36" facs="data/images/single/archestratus_ms_a_fr_46a.png"
+            xml:id="archestratus_ms_a_fr_46a"/>
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="36" type="fragment">
             <head>Fragment 36 (Ath. 7. 311a-c)</head>
             <l n="1">λάμβανε δʹ ἐκ Γαίσωνος, ὅταν Μίλητον ἵκηαι,</l>
@@ -1697,8 +1701,9 @@
                </app> ἐκεῖ θαυμαστὸν ἔδεσμα.</l>
             <note>habent ACE</note>
          </div>
-         <pb n="39" facs="data/images/single/archestratus_ms_a_fr_53.png"
-            xml:id="archestratus_ms_a_fr_53"/>
+         <pb n="39" facs="data/images/single/archestratus_ms_a_fr_53_debut.png"
+            xml:id="archestratus_ms_a_fr_53_debut"/>
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="39" type="fragment">
             <head>Fragment 39 (Ath. 7. 313.e-14 a)</head>
             <l>μόρμυρος αἰγιαλεύς, κακὸς ἰχθὺς οὐδέ ποτʹ ἐσθλός.</l>
