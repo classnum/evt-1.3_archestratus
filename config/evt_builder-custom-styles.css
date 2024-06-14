@@ -21,20 +21,20 @@ p {
 
 /* display of title page (front matter) */
 
-#text[data-doc="liberhynotheon"] {
+#text[data-doc="archestratus"] {
     display: inline;
     vertical-align: middle;
 }
 
-#text_frame[data-page="liber_hynotheon_front"] {
+#text_frame[data-page="archestratus_front"] {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-#text_frame[data-page="liber_hynotheon_front"] div div {
+#text_frame[data-page="archestratus_front"] div div {
     font-size: 1em;
 }
 
-#text_frame[data-page=liber_hynotheon_front] h1[data-type="main"] {
+#text_frame[data-page="archestratus_front"] h1[data-type="main"] {
     font-size: 200% !important;
     font-style: italic;
     padding-top: 5em;
@@ -42,8 +42,32 @@ p {
     color: blue;
 }
 
-#text_frame[data-page=liber_hynotheon_front] h1[data-type="sub"] {
+#text_frame[data-page="archestratus_front"] h1[data-type="sub"] {
     padding-bottom: 1.5em;
+}
+
+#text_frame-add[data-page="archestratus_front"] {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#text_frame-add[data-page="archestratus_front"] div div {
+    font-size: 1em;
+}
+
+#text_frame-add[data-page="archestratus_front"] h1[data-type="main"] {
+    font-size: 200% !important;
+    font-style: italic;
+    padding-top: 5em;
+    padding-bottom: 1em;
+    color: blue;
+}
+
+#text_frame-add[data-page="archestratus_front"] h1[data-type="sub"] {
+    padding-bottom: 1.5em;
+}
+
+#text_cont {
+  padding-top: 8px;
 }
 
 span[data-tagname="hi"] {
