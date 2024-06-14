@@ -543,7 +543,7 @@
 
             <div type="paratext" subtype="intro">
 
-               <head><hi rend="bold">Introduction</hi></head>
+               <head rend="bold">Introduction</head>
                <p>Seuls subsistent aujourd’hui soixante-deux fragments<note n="1">Je remercie
                      vivement Aurélien Berra pour les pages de sa thèse qui m’ont aidée à enrichir
                      mon introduction. </note>, soit environ 334 vers<note n="2">Soit environ 28% du
@@ -552,13 +552,13 @@
                      >Archestrate</persName> de <placeName ref="#Gé">Géla</placeName> qui vécut au
                   IVème siècle de notre ère. Le poème porte principalement sur l’art de trouver le
                   bon poisson au bon endroit et à la bonne saison ainsi que sur la meilleure façon
-                  de l'accommoder. Aucun papyrus, ni même la <hi rend="italic">Souda</hi> ne font
+                  de l'accommoder. Aucun papyrus, ni même la <emph rend="italic">Souda</emph> ne font
                   mention d’ <persName ref="#Arc">Archestrate</persName> de <placeName ref="#Gé"
                      >Géla</placeName>. C’est grâce à <persName ref="#Ath">Athénée</persName>, né en
                   l’an 170 de notre ère à <placeName ref="#Nau">Naucratis</placeName>, cité grecque
                   égyptienne, que nous devons la survivance du poème d’<persName ref="#Arc"
-                     >Archestrate</persName> qui nous a été transmis par <hi rend="italic">Les
-                     Deipnosophistes</hi> ou <hi rend="italic">Le Banquet des savants</hi><note
+                     >Archestrate</persName> qui nous a été transmis par <emph rend="italic">Les
+                     Deipnosophistes</emph> ou <emph rend="italic">Le Banquet des savants</emph><note
                      n="3">On attribue aussi à Athénée un traité historique Sur les rois de Syrie et
                      une monographie sur Les Poissons d’Archippe - deux ouvrages disparus. </note>.
                   Venu à <placeName ref="#Ro">Rome</placeName>, <persName ref="#Ath"
@@ -570,7 +570,7 @@
                      Larensis</persName> mais il semblerait qu’<persName ref="#Ath"
                      >Athénée</persName> ait été <rs ref="#Ath">chargé d’enrichir de pièces rares la
                      bibliothèque personnelle</rs> de <rs ref="#P. Liv">ce dernier</rs>.</p>
-               <p>Dans <hi rend="italic">Les Deipnosophistes</hi>, <persName ref="#Ath"
+               <p>Dans <emph rend="italic">Les Deipnosophistes</emph>, <persName ref="#Ath"
                      >Athénée</persName> rapporte à son ami <persName ref="#Tim"
                      >Timocrate</persName> les propos de table tenus par une vingtaine d’érudits
                   lors d’un banquet donné par <persName ref="#P.Liv">P. Livius Larensis</persName> à
@@ -580,11 +580,11 @@
                   boissons, la gastronomie et ses grands hommes mais aussi sur la politique, la
                   philosophie, la médecine, l’amour, la musique… Les invités appuient leurs propos
                   sur des extraits d’ouvrages de toutes sortes cités de mémoire : environ mille
-                  extraits d’oeuvres citées d’environ sept cents auteurs. Sans <hi rend="italic">Les
-                     Deipnosophistes</hi>, <persName ref="#Arc">Archestrate</persName> nous serait
+                  extraits d’oeuvres citées d’environ sept cents auteurs. Sans <emph rend="italic">Les
+                     Deipnosophistes</emph>, <persName ref="#Arc">Archestrate</persName> nous serait
                   resté inconnu.</p>
 
-               <p><hi rend="italic">Les Deipnosophistes</hi> ont été composés vers l’an 200 de notre
+               <p><emph rend="italic">Les Deipnosophistes</emph> ont été composés vers l’an 200 de notre
                   ère et nous ont été transmis par trois manuscrits :</p>
 
                <p>Le manuscrit A, gr. Z. 447 (coll. 0820), se trouve à la Bibliothèque Nationale
@@ -597,13 +597,13 @@
                   Anciens. Puis, il a été acheté par le <persName ref="#Bess">Cardinal
                      Bessarion</persName> vers le milieu du XVème siècle qui le légua avec le reste
                   de sa bibliothèque à la République de <placeName ref="#Ven">Venise</placeName>. Il
-                  s’agit d’un <hi rend="italic">codex vetustissimus</hi> rédigé en minuscule. Il
+                  s’agit d’un <emph rend="italic">codex vetustissimus</emph> rédigé en minuscule. Il
                   comporte 372 folios de parchemin mesurant 395*261 mm. Le texte est réparti sur
                   deux colonnes, chaque colonne comprenant un nombre moyen de 43 lignes. Les lettres
                   sont formées lisiblement et sans abréviations. Toutes les citations sont précédées
                   d’une diplé (&gt;) dans la marge gauche et elles sont écrites comme si elles
                   relevaient de la prose. Mais ce manuscrit – qui est la seule version non abrégée
-                  des <hi rend="italic">Deipnosophistes</hi> – n’est pas complet : il manque en
+                  des <emph rend="italic">Deipnosophistes</emph> – n’est pas complet : il manque en
                   effet les 50 premiers folios de I à III 73 f correspondant aux livres I, II et au
                   début du livre III. Il manque aussi quelques folios après les folios 214 et 239.
                   Enfin, les folios 370 à 372 ont été détériorés en raison de mauvaises conditions
@@ -611,7 +611,7 @@
                   E pour combler ces lacunes.</p>
 
 
-               <p>Les manuscrits C et E – version abrégée des <hi rend="italic">Deipnosophistes</hi>
+               <p>Les manuscrits C et E – version abrégée des <emph rend="italic">Deipnosophistes</emph>
                   – s’inscrivent dans la tradition de l’Épitomé, travail d’un érudit du XIIème
                   siècle qui entreprit de résumer l’ouvrage d’<persName ref="#Ath"
                      >Athénée</persName> en s’appuyant sur un manuscrit non mutilé. Ils sont les
@@ -629,7 +629,7 @@
                      Questenberg</persName> vers 1490 à Rome et mesure 190*280 mm. Il est lui aussi
                   rédigé en écriture humaniste. Le manuscrit E comporte plus de fautes que le
                   manuscrit C et les mots sont souvent abrégés. Ces deux manuscrits sont très
-                  fidèles au <hi rend="italic">Marcianus</hi> et leur intérêt majeur est de pouvoir
+                  fidèles au <emph rend="italic">Marcianus</emph> et leur intérêt majeur est de pouvoir
                   suppléer aux folios manquants de ce dernier.</p>
                <p> Par ailleurs, les philologues ne sont pas d’accord entre eux sur les relations
                   qui lient ces trois manuscrits. </p>
@@ -637,12 +637,12 @@
                      <persName ref="#Din">K. W. Dindorf</persName>, <persName ref="#Maa">P.
                      Maas</persName>, <persName ref="#Erb">H. Erbse</persName> et <persName
                      ref="#Hem">B. Hemmerdinger</persName>) affirme que l’Épitomé – par ailleurs,
-                  difficile à dater – dérive du <hi rend="italic">Marcianus</hi> lorsqu’il était
+                  difficile à dater – dérive du <emph rend="italic">Marcianus</emph> lorsqu’il était
                   entier. Nous savons qu’<persName ref="#Eus">Eustathe de Thessalonique</persName>
                   utilisait l’Épitomé lorsqu’il enseignait à l’École patriarcale <placeName
                      ref="#Co">Constantinople</placeName> soit avant 1175 et l’utilise pour la
-                  rédaction de ses commentaires sur L’<hi rend="italic">Iliade</hi> et L’<hi
-                     rend="italic">Odyssée</hi> .</p>
+                  rédaction de ses commentaires sur L’<emph rend="italic">Iliade</emph> et L’<emph
+                     rend="italic">Odyssée</emph> .</p>
 
                <!--               <pb n="1" facs="data/images/single/stemma.png" xml:id="stemma"/>-->
                <figure>
@@ -658,16 +658,16 @@
                   <graphic url="data/images/single/stemmab.png"/>
                </figure>
 
-               <p> Dès la Renaissance, plusieurs éditions et traductions des <hi rend="italic"
-                     >Deipnosophistes</hi> ont vu le jour : </p>
-               <p> 1. L’édition <hi rend="italic">princeps</hi> date de 1514. Elle est établie à
+               <p> Dès la Renaissance, plusieurs éditions et traductions des <emph rend="italic"
+                     >Deipnosophistes</emph> ont vu le jour : </p>
+               <p> 1. L’édition <emph rend="italic">princeps</emph> date de 1514. Elle est établie à
                      <placeName ref="#Ven">Venise</placeName> par le crétois <persName ref="#Mus"
                      >Marcus Musurus</persName> qui travaillait pour l’imprimeur <persName
-                     ref="#Muc">Alde Muce</persName>. Ce manuscrit qui se fondait sur le <hi
-                     rend="italic">Marcianus</hi> disparaît dans les ateliers à la fin de
+                     ref="#Muc">Alde Muce</persName>. Ce manuscrit qui se fondait sur le <emph
+                     rend="italic">Marcianus</emph> disparaît dans les ateliers à la fin de
                   l’impression, ce qui était chose courante à cette époque. </p>
                <p> 2. A Lyon, <persName ref="#Dal">Jacques Daléchamp</persName> fournit une
-                  traduction en latin des<hi rend="italic">Deipnosophistes</hi> en 1583 sans
+                  traduction en latin des<emph rend="italic">Deipnosophistes</emph> en 1583 sans
                   accompagnement du texte. </p>
                <p> 3. <persName ref="#Cas">Isaac Casaubon</persName> choisit la traduction de
                      <persName ref="#Dal">Daléchamp</persName> pour l’intégrer à son édition de
@@ -688,9 +688,9 @@
                <p> 8. <persName ref="#Des">Alexandre-Marie Desrousseaux</persName> avec la
                   collaboration de <persName ref="#Ast">Charles Astruc</persName> propose aux
                   éditions de la CUF (1956) une traduction en français des deux premiers livres des
-                     <hi rend="italic">Deipnosophistes</hi>. Cette édition restera inachevée en
+                     <emph rend="italic">Deipnosophistes</emph>. Cette édition restera inachevée en
                   raison de la mort de son auteur en 1956. Il n’existe à ce jour aucune traduction
-                  française complète des <hi rend="italic">Deipnosophistes</hi>.</p>
+                  française complète des <emph rend="italic">Deipnosophistes</emph>.</p>
                <p> 9. L’édition <persName ref="#Loe">Loeb</persName> (2006-2012) propose une
                   nouvelle traduction en langue anglaise avec le texte grec en vis-à-vis. </p>
                <p> 10. Il existe enfin une édition numérique des Deipnosophistes dirigée par
@@ -699,13 +699,13 @@
                   https://www.digitalathenaeus.org/ Cette édition a deux objectifs : faire
                   l’inventaire des auteurs et des œuvres cités par <persName ref="#Ath"
                      >Athénée</persName> et mettre en œuvre des métadonnées pour analyser et citer
-                  les réutilisations de textes dans les <hi rend="italic">Deipnosophistes</hi>.
+                  les réutilisations de textes dans les <emph rend="italic">Deipnosophistes</emph>.
                   Cette édition numérique présente l’édition de <persName ref="#Kai">Georg
                      Kaibel</persName> sous format numérique. Nous avons aussi accès à celle
                      d’<persName ref="#Cas">Isaac Casaubon</persName>. Plusieurs outils sont mis à
                   notre disposition, notamment : </p>
                <p> - Un récupérateur d’URN CTS qui permet de récupérer et de citer des paragraphes,
-                  des phrases et des mots dans les <hi rend="italic">Deipnosophistes</hi> ; </p>
+                  des phrases et des mots dans les <emph rend="italic">Deipnosophistes</emph> ; </p>
                <p> - Un convertisseur de références Casaubon – Kaibel ; </p>
                <p> - Un alignement automatique des index d’Olson, Meineke et Kaibel. </p>
                <p> - Un index d’auteurs, de personnes et de textes à partir du travail d’Olson qui
@@ -719,9 +719,9 @@
                   <graphic url="data/images/single/monicaberti.png"/>
                </figure>
 
-               <p><hi rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note n="4"
+               <p><emph rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note n="4"
                         >Les informations de cette partie sont issues d'Olson et Sens (2000)</note>
-                  </hi>
+                  </emph>
                </p>
                <p>
                   <persName ref="#Arc">Archestrate</persName> écrit dans une langue artificielle qui
@@ -740,7 +740,7 @@
                   et 55, deux dans des noms de poissons et le dernier dans un nom propre : καρχαρία,
                   αὐλωπία, Βαφύρα. </p>
 
-               <p><hi rend="italic"> Édition des fragments</hi></p>
+               <p><emph rend="italic"> Édition des fragments</emph></p>
                <p>Pour la présente édition, nous avons choisi de présenter le poème d’<persName
                      ref="#Arc">Archestrate de Géla</persName> suivant l'ordre dans lequel il
                   apparaît dans le texte d’<persName ref="#Ath">Athénée de Naucratis</persName> afin
@@ -775,7 +775,7 @@
             </div>
 
             <div type="paratext" subtype="commentaire">
-               <head>Commentaire des passages introduisant les fragments</head>
+               <head rend="bold">Commentaire des passages introduisant les fragments</head>
                <p>Si les fragments d’<persName ref="#Arc">Archestrate de Géla</persName> sont cités
                   dans l’œuvre d’<persName ref="#Ath">Athénée</persName>, c’est qu’ils étaient
                   encore connus au tournant du IIe et IIIe siècle de notre ère, soit plus de six
@@ -804,10 +804,10 @@
                            >Syracuse</placeName>, deux villes se trouvant en <placeName ref="#Sic"
                            >Sicile</placeName>, la première au sud de l’île, la seconde à l’est : </p>
                      <p><l>Ἀρχέστρατος ὁ Συρακούσιος ἢ Γελῷος (ap. Ath. I. 4d-e) </l>
-                        <l><persName ref="#Arc"><hi rend="italic">Archestrate</hi></persName><hi
-                              rend="italic"> de </hi><placeName ref="#Syr"><hi rend="italic"
-                                 >Syracuse</hi></placeName><hi rend="italic"> ou de </hi><placeName
-                              ref="#Gé"><hi rend="italic">Géla</hi></placeName>.</l></p>
+                        <l><persName ref="#Arc"><emph rend="italic">Archestrate</emph></persName><emph
+                              rend="italic"> de </emph><placeName ref="#Syr"><emph rend="italic"
+                                 >Syracuse</emph></placeName><emph rend="italic"> ou de </emph><placeName
+                              ref="#Gé"><emph rend="italic">Géla</emph></placeName>.</l></p>
 
                      <p>Si<persName ref="#Arc">Archestrate</persName> fait mention à plusieurs
                         reprises de la ville de <placeName ref="#Syr">Syracuse</placeName> dans ses
@@ -832,8 +832,8 @@
                         tradition sicilienne où la cuisine est célébrée : <persName ref="#Mith"
                            >Mithécos de Syracuse</persName> est sans doute le premier cuisinier
                         ayant écrit un livre de cuisine à la fin du Vème siècle av. J.-C et
-                           <persName ref="#Héra">Héraclide de Syracuse</persName> a écrit un <hi
-                           rend="italic">Art culinaire</hi> au IVème siècle avant notre ère.</p>
+                           <persName ref="#Héra">Héraclide de Syracuse</persName> a écrit un <emph
+                           rend="italic">Art culinaire</emph> au IVème siècle avant notre ère.</p>
                   </div>
 
                   <div type="sous-section" n="2">
@@ -841,18 +841,18 @@
                      <p>Outre son origine, <persName ref="#Ath">Athénée</persName> nous renseigne
                         sur le fait qu’<persName ref="#Arc">Archestrate</persName> a beaucoup
                         voyagé. Cela nous est dit dans les passages suivants :</p>
-                     <p><lb/>Γῆν πᾶσαν θάλασσαν περιῆλθεν ἀκριβῶς (ap. Ath. 7. 278d-e) <lb/><hi
+                     <p><lb/>Γῆν πᾶσαν θάλασσαν περιῆλθεν ἀκριβῶς (ap. Ath. 7. 278d-e) <lb/><emph
                            rend="italic">Il [Archestrate] a parcouru rigoureusement toute la terre
-                           et toute la mer.</hi></p>
+                           et toute la mer.</emph></p>
                      <p><l>Ἀρχέστρατος μὲν ὀ περιπλεύσας τὴν οἰκουμένην ( ap. Ath. 3. 116f-17b)</l>
-                        <l><hi rend="italic">Archestrate qui a navigué tout autour du monde
-                              habité.</hi></l></p>
+                        <l><emph rend="italic">Archestrate qui a navigué tout autour du monde
+                              habité.</emph></l></p>
                      <p><l>Ἀρχέστρατος δ´ ὀ πᾶσαν γῆν καὶ θάλασσαν [...] περιελθών (ap. Ath. 7.
-                           326d) <lb/><hi rend="italic">Archestrate qui a parcouru toute la terre et
-                              toute la mer.</hi></l></p>
+                           326d) <lb/><emph rend="italic">Archestrate qui a parcouru toute la terre et
+                              toute la mer.</emph></l></p>
 
-                     <p><persName ref="#Arc">Archestrate de Géla</persName> a ainsi parcouru l’<hi
-                           rend="italic">oikouménè</hi> c’est-à-dire l’ensemble des terres connues
+                     <p><persName ref="#Arc">Archestrate de Géla</persName> a ainsi parcouru l’<emph
+                           rend="italic">oikouménè</emph> c’est-à-dire l’ensemble des terres connues
                         et habitées de son époque. Cela nous est confirmé par les soixante-deux
                         fragments que nous avons traduits. Nous avons pu en effet dénombrer plus
                         d’une cinquantaine de cités toutes situées en <placeName ref="#Gr"
@@ -865,7 +865,7 @@
                            >Hellespont</placeName>, au sud par la<placeName ref="#Crè"
                            >Crète</placeName>. Si<persName ref="#Arc">Archestrate de Géla</persName>
                         semble être un voyageur infatigable, il n’en reste pas moins qu’il ne s’est
-                        pas vraiment aventuré dans l’<hi rend="italic">érème</hi> c’est-à-dire dans
+                        pas vraiment aventuré dans l’<emph rend="italic">érème</emph> c’est-à-dire dans
                         des terres non explorées, dans le monde des barbares. En effet, ces derniers
                         n’y ont presque aucune place à l’exception de deux références à la
                            <placeName ref="#Phé">Phénicie</placeName> et à la <placeName ref="#Lyd"
@@ -887,29 +887,29 @@
                            Ἡδυπαθείᾳ, ὡς δὲ Κλέαρχος Δειπνολογία, ὡς δ᾽ ἄλλοι Ὀψοποιία. (ap. Ath. I.
                            4d)</l><l>Dans l’ouvrage intitulé, selon <persName ref="#Chrys"
                                  >Chrysippe<note>Chrysippe de Soles, philosophe stoïcien (280-206
-                                 av. J.-C.).</note></persName> la <hi rend="italic"
-                           >Gastronomie</hi>, selon <persName ref="#Lyn">Lyncée<note>Lyncée de
+                                 av. J.-C.).</note></persName> la <emph rend="italic"
+                           >Gastronomie</emph>, selon <persName ref="#Lyn">Lyncée<note>Lyncée de
                                  Samos, poète comique et grammairien du IVème siècle av. J.-C. Il
                                  est aussi l’auteur de livres de cuisine et d’un ouvrage sur la
                                  manière d’acheter le poisson. </note></persName>et<persName
                               ref="#Call">Callimaque<note>Callimaque de Cyrène, poète (305-240 av.
-                                 J.-C.).</note></persName>la<hi rend="italic">Vie de plaisirs</hi>,
+                                 J.-C.).</note></persName>la<emph rend="italic">Vie de plaisirs</emph>,
                            selon <persName ref="#Clé">Cléarque<note>Cléarque de Soles, philosophe
-                                 péripatéticien du IVème siècle av. J.-C.</note></persName>, <hi
-                              rend="italic">La science du repas</hi>, selon d’autres la <hi
-                              rend="italic">Cuisine</hi>.</l></p>
+                                 péripatéticien du IVème siècle av. J.-C.</note></persName>, <emph
+                              rend="italic">La science du repas</emph>, selon d’autres la <emph
+                              rend="italic">Cuisine</emph>.</l></p>
 
                      <p>En 4. 162b et 7. 278a-d.,<persName ref="#Ath"
                            >Athénée</persName>cite<persName ref="#Lyc">Lycophron de
                               Chalcis<note>Lycophron de Chalcis, poète grec du IVème siècle av.
                               J.-C.</note></persName>qui appelle l’œuvre d’<persName ref="#Arc"
-                           >Archestrate</persName>Γαστρολογία (<hi rend="italic">Gastrologia</hi>).
+                           >Archestrate</persName>Γαστρολογία (<emph rend="italic">Gastrologia</emph>).
                            <persName ref="#Ath">Athénée</persName> qualifie enfin le poème
                            d’<persName ref="#Arc">Archestrate</persName> des façons suivantes : ἐν
-                        ταῖς Ὑποθήκαις (dans ses <hi rend="italic">Conseils</hi>) (ap. Ath. 7. 328b,
-                        7. 310a, 7. 284e), ἱστορία (<hi rend="italic">Informations</hi>) (ap. Ath.
-                        7. 298e, 7. 326b, 9. 383b), et de ἐν ταῖς Γνώμαις (dans ses <hi
-                           rend="italic">Maximes</hi>) (ap. Ath. 7.286d). </p>
+                        ταῖς Ὑποθήκαις (dans ses <emph rend="italic">Conseils</emph>) (ap. Ath. 7. 328b,
+                        7. 310a, 7. 284e), ἱστορία (<emph rend="italic">Informations</emph>) (ap. Ath.
+                        7. 298e, 7. 326b, 9. 383b), et de ἐν ταῖς Γνώμαις (dans ses <emph
+                           rend="italic">Maximes</emph>) (ap. Ath. 7.286d). </p>
 
                      <p>Ainsi le poème d’<persName ref="#Arc">Archestrate</persName> est-il désigné
                         de huit façons différentes et parmi ses huit titres, il est impossible de
@@ -917,18 +917,18 @@
                         toutefois celui-ci figure bien parmi ces huit propositions. Nous n’en avons
                         en effet aucune mention dans aucun manuscrit.</p>
 
-                     <p>Nous constatons tout d’abord que deux titres - <hi rend="italic"
-                           >Gastrologia</hi> et <hi rend="italic">Gastronomia</hi> - sont formés sur
-                        le radical <hi rend="italic">gastros</hi>. Dans le premier cas, ce radical
-                        est suivi du suffixe -logos : la Gastrologia signifie littéralement <hi
-                           rend="italic">le discours du ventre</hi>. Le terme <hi rend="italic"
-                           >Gastronomia</hi>, quant à lui, est formé à partir du suffixe <hi
-                           rend="italic">-nomos</hi>, suffixe qui entre dans la composition de mots
-                        savants pour désigner une discipline : la <hi rend="italic">Gastronomia</hi>
-                        serait littéralement <hi rend="italic">la science du ventre</hi>. Ces deux
+                     <p>Nous constatons tout d’abord que deux titres - <emph rend="italic"
+                           >Gastrologia</emph> et <emph rend="italic">Gastronomia</emph> - sont formés sur
+                        le radical <emph rend="italic">gastros</emph>. Dans le premier cas, ce radical
+                        est suivi du suffixe -logos : la Gastrologia signifie littéralement <emph
+                           rend="italic">le discours du ventre</emph>. Le terme <emph rend="italic"
+                           >Gastronomia</emph>, quant à lui, est formé à partir du suffixe <emph
+                           rend="italic">-nomos</emph>, suffixe qui entre dans la composition de mots
+                        savants pour désigner une discipline : la <emph rend="italic">Gastronomia</emph>
+                        serait littéralement <emph rend="italic">la science du ventre</emph>. Ces deux
                         titres annoncent, non sans une certaine dérision, un ouvrage
-                        pseudo-scientifique. Il en de même pour la <hi rend="italic"
-                           >Deipnologia</hi> ou <hi rend="italic">le Discours des repas</hi>. Il
+                        pseudo-scientifique. Il en de même pour la <emph rend="italic"
+                           >Deipnologia</emph> ou <emph rend="italic">le Discours des repas</emph>. Il
                         semble ainsi que <persName ref="#Lyc">Lycophron</persName>, <persName
                            ref="#Chry">Chrysippe</persName> et <persName ref="#Clé"
                            >Cléarque</persName> aient un avis négatif sur l'œuvre d’<persName
@@ -940,9 +940,9 @@
                            ref="#Call">Callimaque</persName>, quant à eux, emploient un autre terme,
                         celui d’ Ἡδυπαθείας (cité quatre fois par Athénée<note>Cf. les phrases
                            introductives aux fragments 14, 32, 39, 40.</note>) et que le Bailly
-                        définit comme la vie de <hi rend="italic">jouissance ou de mollesse</hi>. Si
-                        nous éliminons les noms <hi rend="italic">Hypothekai</hi>, <hi rend="italic"
-                           >Gnomai</hi>, et <hi rend="italic">Historiai</hi> - beaucoup trop
+                        définit comme la vie de <emph rend="italic">jouissance ou de mollesse</emph>. Si
+                        nous éliminons les noms <emph rend="italic">Hypothekai</emph>, <emph rend="italic"
+                           >Gnomai</emph>, et <emph rend="italic">Historiai</emph> - beaucoup trop
                         généralistes et n’ayant par conséquent que peu d’intérêt pour désigner
                         l'œuvre d’<persName ref="#Arc">Archestrate</persName> -, Ἡδυπαθείας est
                         considéré, selon <persName ref="#Ols">S. Douglas Olson</persName> et
@@ -962,7 +962,7 @@
                         prend le pas sur la culture grecque et où cette dernière est en déclin,
                            <persName ref="#Ath">Athénée</persName> se pose en garant et défenseur de
                         la littérature hellénistique. N’est-ce pas là, d’ailleurs, tout l’enjeu des
-                           <hi rend="italic">Deipnosophistes</hi> ?</p>
+                           <emph rend="italic">Deipnosophistes</emph> ?</p>
                   </div>
                </div>
                <div type="section" n="2">
@@ -981,8 +981,8 @@
                         est caractérisé de façon positive par <persName ref="#Ath"
                            >Athénée</persName>. En effet, les adjectifs σοφός (ap. Ath. 7. 321c-d et
                         7. 311a-c) et καλός (ap. Ath. 7. 307d) présentent <persName ref="#Arc"
-                           >Archestrate</persName> comme un homme <hi rend="italic">sage</hi> et <hi
-                           rend="italic">beau</hi>. Les Grecs pensaient que la beauté externe
+                           >Archestrate</persName> comme un homme <emph rend="italic">sage</emph> et <emph
+                           rend="italic">beau</emph>. Les Grecs pensaient que la beauté externe
                         (καλός) était associée à une beauté interne (σοφός) et qu’un beau visage
                         était l’expression d’une belle âme. <persName ref="#Arc"
                            >Archestrate</persName> incarne l’idéal grec selon <persName ref="#Ath"
@@ -990,11 +990,11 @@
                      <p>L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 :</p>
 
                      <p><l>Περὶ τῶν κατ´ Ἰταλίαν τόπων διεξιών [...] ὁ καλὸς οὗτος περιηγητής (ap.
-                           Ath. 7. 294a) </l><l><hi rend="italic">Ce noble explorateur poursuivant
-                              sur les régions d’Italie.</hi></l></p>
+                           Ath. 7. 294a) </l><l><emph rend="italic">Ce noble explorateur poursuivant
+                              sur les régions d’Italie.</emph></l></p>
 
-                     <p><persName ref="#Arc">Archestrate</persName> est désigné comme <hi
-                           rend="italic">le guide sage</hi> qui a parcouru le monde méditerranéen,
+                     <p><persName ref="#Arc">Archestrate</persName> est désigné comme <emph
+                           rend="italic">le guide sage</emph> qui a parcouru le monde méditerranéen,
                         mettant ainsi en valeur le choix sûr de ses destinations et sur sa façon de
                         voyager. <persName ref="#Ath">Athénée de Naucratis</persName> semble assez
                         admiratif de ce voyageur qui, six siècles plus tôt, a passé une partie de sa
@@ -1002,10 +1002,10 @@
                         mesure où les voyages en bateau étaient considérés comme dangereux.</p>
                      <p>D’autres expressions sont aussi appliquées à <persName ref="#Arc"
                            >Archestrate</persName> : ὀ ὀψαρτυτὴς Ἀρχέστρατος (ap. Ath. 7. 320f-1a) -
-                        expression que l’on pourrait traduire par le <hi rend="italic">chef
-                           Archestrate</hi>, <hi rend="italic">celui qui apprête les mets</hi> - et
-                        Ἀρχέστρατος τοῦ δειπνολόγου (ap. Ath. 1. 29a-d) - <hi rend="italic">l’expert
-                           des banquets</hi>. <persName ref="#Arc">Archestrate</persName> semble
+                        expression que l’on pourrait traduire par le <emph rend="italic">chef
+                           Archestrate</emph>, <emph rend="italic">celui qui apprête les mets</emph> - et
+                        Ἀρχέστρατος τοῦ δειπνολόγου (ap. Ath. 1. 29a-d) - <emph rend="italic">l’expert
+                           des banquets</emph>. <persName ref="#Arc">Archestrate</persName> semble
                         être quelqu’un qui détient une certaine autorité dans les domaines de la
                         gastronomie et des voyages, à qui l’on peut faire confiance et dont la
                         parole n’est pas à remettre en question. Archestrate est ainsi une
@@ -1028,35 +1028,35 @@
                               ref="#Arc">Archestrate</persName>. À cinq reprises, Athénée fait en
                            effet un usage du superlatif pour le désigner :</p>
 
-                        <p><l>ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) :</l><l><hi rend="italic"
-                                 >le très instruit </hi><persName ref="#Arc"><hi rend="italic"
-                                    >Archestrate</hi></persName></l></p>
+                        <p><l>ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) :</l><l><emph rend="italic"
+                                 >le très instruit</emph> <persName ref="#Arc"><emph rend="italic"
+                                    >Archestrate</emph></persName></l></p>
 
-                        <p><l>ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d) </l><l><hi
-                                 rend="italic">le très sage </hi><persName ref="#Arc"><hi
-                                    rend="italic">Archestrate</hi></persName></l></p>
+                        <p><l>ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d) </l><l><emph
+                                 rend="italic">le très sage </emph><persName ref="#Arc"><emph
+                                    rend="italic">Archestrate</emph></persName></l></p>
 
 
                         <p><l>ὁ δὲ πολυμαθέστατος Ἀρχέστρατος (ap. Ath. 7. 324b et 9.
-                                 384b)</l><l><hi rend="italic">le Très-Érudit</hi><persName
-                                 ref="#Arc"><hi rend="italic">Archestrate</hi></persName></l></p>
+                                 384b)</l><l><emph rend="italic">le Très-Érudit</emph><persName
+                                 ref="#Arc"><emph rend="italic">Archestrate</emph></persName></l></p>
 
                         <p>Le superlatif absolu indique qu’<persName ref="#Arc"
                               >Archestrate</persName> l’emporte sur tous ses contemporains en
                            sagesse et en connaissance, ce qui pourrait apparaître dans un premier
                            temps très laudatif. Mais les Grecs n’étaient-ils pas sensibles à la
-                           σωφροσύνη (<hi rend="italic">sophrosuné</hi>) c’est-à-dire à la <hi
-                              rend="italic">tempérance</hi> ? Dès lors que l’on a recours à un
+                           σωφροσύνη (<emph rend="italic">sophrosuné</emph>) c’est-à-dire à la <emph
+                              rend="italic">tempérance</emph> ? Dès lors que l’on a recours à un
                            superlatif, ne dépasse-t-on pas cette modération dont l’emploi zéro de
                            l’adjectif serait le garant ? <persName ref="#Ath">Athénée</persName>
                            introduit ici une pointe d’ironie à l’égard d’<persName ref="#Arc"
                               >Archestrate</persName> qui, n’hésitant pas à faire montre de son
                            savoir, peut agacer son public par son érudition. D’ailleurs, l’adjectif
                            κίμβιξ est employé pour introduire le fragment 29. Le Bailly donne deux
-                           sens à cet adjectif. Il désigne tout d’abord celui qui est <hi
-                              rend="italic">pingre</hi>, <hi rend="italic">avare</hi>. Mais cela ne
-                           fait pas sens ici. Le deuxième sens indique un homme <hi rend="italic"
-                              >pointilleux</hi>, <hi rend="italic">vétilleux</hi> : <persName
+                           sens à cet adjectif. Il désigne tout d’abord celui qui est <emph
+                              rend="italic">pingre</emph>, <emph rend="italic">avare</emph>. Mais cela ne
+                           fait pas sens ici. Le deuxième sens indique un homme <emph rend="italic"
+                              >pointilleux</emph>, <emph rend="italic">vétilleux</emph> : <persName
                               ref="#Ath">Athénée</persName> critique ici <persName ref="#Arc"
                               >Archestrate</persName> en pointant son goût excessif pour le détail.
                            Par exemple, dans le fragment 29, il faut trouver une queue de grande
@@ -1077,9 +1077,9 @@
                               >Athénée</persName> a recours à des expressions oxymoriques. <persName
                               ref="#Arc">Archestrate</persName> est désigné comme un
                               ὀψοδαίδαλος<note>Cf. phrases introduisant les fragments 11, 23, 26,
-                              36, 57 et 60.</note> (<hi rend="italic">opsodaidalos</hi>) - <hi
-                              rend="italic">le Dédale des plats savoureux</hi>. Expression
-                           uniquement attestée dans <hi rend="italic">Les Deipnosophistes</hi>,
+                              36, 57 et 60.</note> (<emph rend="italic">opsodaidalos</emph>) - <emph
+                              rend="italic">le Dédale des plats savoureux</emph>. Expression
+                           uniquement attestée dans <emph rend="italic">Les Deipnosophistes</emph>,
                               <persName ref="#Ath">Athénée</persName> met en relation l’ingéniosité
                            technique et scientifique de <persName ref="#Déd">Dédale</persName>,
                            auteur du célèbre Labyrinthe et inventeur des ailes d’<persName
@@ -1092,9 +1092,9 @@
                               <persName ref="#Arc">Archestrate</persName> nous perd dans le choix
                            des mets et dans les conseils qu’il donne pour les apprêter : nous nous
                            retrouvons ainsi perdus comme dans un labyrinthe.</p>
-                        <p>L’expression ὁ ἡδονικὸς φιλόσοφος<note>Ap. Ath. 7. 312f.</note> (<hi
-                              rend="italic">edonikos filosofos</hi>) que l’on pourrait traduire par
-                           le <hi rend="italic">philosophe du plaisir</hi> est un autre oxymore qui
+                        <p>L’expression ὁ ἡδονικὸς φιλόσοφος<note>Ap. Ath. 7. 312f.</note> (<emph
+                              rend="italic">edonikos filosofos</emph>) que l’on pourrait traduire par
+                           le <emph rend="italic">philosophe du plaisir</emph> est un autre oxymore qui
                            qualifie - ou disqualifie - <persName ref="#Arc">Archestrate</persName>.
                            Comment peut-on mêler philosophie et plaisir ? <persName ref="#Pla"
                               >Platon</persName> dénigre les plaisirs gustatifs car ils vont à
@@ -1110,14 +1110,14 @@
                         <head>Métaphore militaire</head>
                         <p><persName ref="#Ath">Athénée</persName> emploie aussi une métaphore
                            militaire pour caractériser <persName ref="#Arc">Archestrate</persName> :
-                           ὁ τῶν δείπνων λοχαγός (ap. Ath. 7. 301c) - <hi rend="italic">le capitaine
-                              des banquets</hi>. Il s’agit d’une image commune dans les textes
+                           ὁ τῶν δείπνων λοχαγός (ap. Ath. 7. 301c) - <emph rend="italic">le capitaine
+                              des banquets</emph>. Il s’agit d’une image commune dans les textes
                            portant sur la nourriture, mais rare chez <persName ref="#Arc"
                               >Archestrate</persName><note>Nous retrouvons cette ambiance militaire
                               dans un seul fragment d’Archestrate : le numéro 8.</note>. <persName
                               ref="#Mat">Matron de Pitane</persName> - un poète du IVème siècle
-                           avant notre ère - qui a écrit le Δει̑πνον Ἀττικόν (<hi rend="italic"
-                              >Deípnon Attikón</hi> : <hi rend="italic">le Banquet attique</hi>),
+                           avant notre ère - qui a écrit le Δει̑πνον Ἀττικόν (<emph rend="italic"
+                              >Deípnon Attikón</emph> : <emph rend="italic">le Banquet attique</emph>),
                            emploie en le parodiant le vocabulaire militaire d’<persName ref="#Hom"
                               >Homère</persName> de façon importante<note>WILKINS et HILL
                               2011.</note>. Par cette métaphore comique qui allie commandement
@@ -1136,15 +1136,15 @@
                         <p>Par ailleurs, <persName ref="#Ath">Athénée</persName> caractérise
                               <persName ref="#Arc">Archestrate</persName> par plusieurs périphrases
                            : Ἀρχέστρατος ὅν ἀντι τοῦ Ὁμήρου προσκυνεῖς<note>ap. Ath. 4. 162b.</note>
-                              -<hi rend="italic"><persName ref="#Arc">Archestrate</persName> que
-                              l’on vénère comme un autre Homère</hi>-, Ἀρχέστρατος τῶν ὀψοφάγων
-                           Ἡσίοδος ἢ Θέογνις<note> ap. Ath. 7. 310a.</note> - <hi rend="italic"
+                              -<emph rend="italic"><persName ref="#Arc">Archestrate</persName> que
+                              l’on vénère comme un autre Homère</emph>-, Ἀρχέστρατος τῶν ὀψοφάγων
+                           Ἡσίοδος ἢ Θέογνις<note> ap. Ath. 7. 310a.</note> - <emph rend="italic"
                                  ><persName ref="#Arc">Archestrate</persName>, l’<persName
                                  ref="#Hés">Hésiode</persName> ou le <persName ref="#Thé"
-                                 >Théognis</persName> des mangeurs de poissons</hi> -, et ὁ
+                                 >Théognis</persName> des mangeurs de poissons</emph> -, et ὁ
                            Πυθαγορικὸς δὲ δι’ ἐγκράτειαν Ἀρχέστρατος<note> ap. Ath. 7. 288a.</note>-
-                              <hi rend="italic">Archestrate, dont la tempérance a fait un disciple
-                              de <persName ref="#Pyt">Pythagore</persName></hi>.</p>
+                              <emph rend="italic">Archestrate, dont la tempérance a fait un disciple
+                              de <persName ref="#Pyt">Pythagore</persName></emph>.</p>
                         <p>La poésie d’<persName ref="#Arc">Archestrate</persName> peut être
                            comparée à celle de plusieurs grands noms de la littérature grecque pour
                            ce qui concerne la forme puisque l'emploi de l’hexamètre dactylique leur
@@ -1162,8 +1162,8 @@
                               >Archestrate</persName> et <persName ref="#Hom">Homère</persName>
                            n’ont rien en commun d’autant plus qu’<persName ref="#Hom"
                               >Homère</persName> ne parle jamais de poissons lorsqu’il mentionne la
-                           nourriture de ses personnages. Il est seulement question dans l’<hi
-                              rend="italic">Iliade</hi> de la préparation de la viande. Peut-être le
+                           nourriture de ses personnages. Il est seulement question dans l’<emph
+                              rend="italic">Iliade</emph> de la préparation de la viande. Peut-être le
                            poème d’<persName ref="#Arc">Archestrate</persName> donnait-il une place
                            plus importante à la viande. Mais comme il ne nous est parvenu que de
                            façon fragmentaire, il est difficile de dire si <persName ref="#Arc"
@@ -1180,8 +1180,8 @@
                            effet, <persName ref="#Arc">Archestrate</persName> représente l’exact
                            opposé de ces auteurs. <persName ref="#Hés">Hésiode</persName> qui vécut
                            à la fin du VIIIème siècle ou au début du VIIème siècle av. J.-C. est
-                           l’auteur du poème intitulé <hi rend="italic">Les Travaux et les
-                              jours</hi> qui décrit les travaux agraires en <placeName ref="#Béo"
+                           l’auteur du poème intitulé <emph rend="italic">Les Travaux et les
+                              jours</emph> qui décrit les travaux agraires en <placeName ref="#Béo"
                               >Béotie</placeName> et donne le calendrier précis de l’année agricole.
                            Cet ouvrage a été composé pendant une grave crise agraire et lors de la
                            colonisation grecque - les Grecs cherchaient alors de nouvelles terres à
@@ -1193,8 +1193,8 @@
                            l’effondrement des valeurs aristocratiques : deux thèmes très éloignés
                            des préoccupations d’ <persName ref="#Arc">Archestrate</persName>.</p>
                         <p><persName ref="#Arc">Archestrate</persName> est aussi désigné comme un
-                              <hi rend="italic">disciple de <persName ref="#Pyt"
-                                 >Pythagore</persName></hi>, ce qui est paradoxal puisque le régime
+                              <emph rend="italic">disciple de <persName ref="#Pyt"
+                                 >Pythagore</persName></emph>, ce qui est paradoxal puisque le régime
                            dit de <persName ref="#Pyt">Pythagore</persName> (né vers 580 av. J.-C.)
                            repose sur la frugalité et proscrit la chair animale : on pouvait selon
                            lui vivre sans faire souffrir et sans ôter la vie. En faisant l’éloge de
@@ -1214,7 +1214,7 @@
                               >Athénée</persName> leur redonne la parole : <persName ref="#Arc"
                               >Archestrate</persName> et <persName ref="#Pyt">Pythagore</persName>
                            se répondent ainsi en écho au début du IIIème siècle de notre ère. Bien
-                           que <hi rend="italic">Les Deipnosophistes</hi> donnent l’impression
+                           que <emph rend="italic">Les Deipnosophistes</emph> donnent l’impression
                            d’être une discussion à bâtons rompus entre les différents convives sans
                            plan préétabli, il n’en reste pas moins qu’il y a dans sa structure
                            interne une composition bien présente. Enfin, <persName ref="#Ath"
@@ -1228,13 +1228,13 @@
                      <div type="sous-sous-section" n="4">
                         <head>Le paroxysme de la critique</head>
                         <p>Enfin, <persName ref="#Arc">Archestrate</persName> est désigné comme un
-                           glouton : τένθης Ἀρχέστρατος - <hi rend="italic">Archestrate le
-                              glouton</hi> (ap. Ath. 3. 112b et 7. 285e). L’introduction au fragment
+                           glouton : τένθης Ἀρχέστρατος - <emph rend="italic">Archestrate le
+                              glouton</emph> (ap. Ath. 3. 112b et 7. 285e). L’introduction au fragment
                            55 y fait aussi référence :</p>
                         <p><l>Ἀρχέστρατος δ´ ὁ πᾶσαν γῆν καὶ θάλασσαν διὰ γαστριμαργίαν
                               περιελθών.</l>
-                           <l><hi rend="italic">Archestrate qui explora au nom de la gloutonnerie
-                                 l’ensemble des terres et des mers.</hi></l></p>
+                           <l><emph rend="italic">Archestrate qui explora au nom de la gloutonnerie
+                                 l’ensemble des terres et des mers.</emph></l></p>
 
                         <p>La seule motivation d’<persName ref="#Arc">Archestrate</persName>, selon
                               <persName ref="#Ath">Athénée</persName>, est la satisfaction de son
@@ -1250,8 +1250,8 @@
                            :</p>
 
                         <p><l>τῆς γαστρὸς ἕνεκα καὶ τῶν ὑπὸ τὴν γαστέρα</l>
-                           <l><hi rend="italic">pour son ventre et les parties de son anatomie
-                                 en-dessous de son ventre.</hi></l></p>
+                           <l><emph rend="italic">pour son ventre et les parties de son anatomie
+                                 en-dessous de son ventre.</emph></l></p>
 
                         <p>L’insulte est poussée ici à son paroxysme. Le manque de mesure
                            caractérise ainsi <persName ref="#Arc">Archestrate</persName>,
@@ -2653,7 +2653,7 @@
                   <l n="1">J’envoie au diable les saucières remplies d’oignons et de tiges de
                         silphium<note n="9">Plante condimentaire et médicinale disparue, très
                         utilisée dans l’Antiquité grecque et romaine. Pline la décrit comme “un don
-                        précieux de la nature” (<hi rend="italic">Histoire naturelle</hi>, XXII,
+                        précieux de la nature” (<emph rend="italic">Histoire naturelle</emph>, XXII,
                         49).</note></l>
                   <l n="2">et tous les autres plats d'accompagnement.</l>
                </div>
@@ -2828,8 +2828,8 @@
                         sept sœurs. En astrologie, il s’agit d’un amas d’étoiles qui s’observe dans
                         la constellation du Taureau. Peu mentionnées chez Homère, elles le sont
                         davantage chez <persName ref="#Hés">Hésiode</persName> qui indique qu’elles
-                        rythment les travaux agricoles et la navigation (HÉSIODE, <hi rend="italic"
-                           >Les Travaux et les jours</hi>). </note>se couchent,</l>
+                        rythment les travaux agricoles et la navigation (HÉSIODE, <emph rend="italic"
+                           >Les Travaux et les jours</emph>). </note>se couchent,</l>
                   <l n="2">prépare-le de n’importe quelle façon.Pourquoi t’en parler des heures
                      ?</l>
                   <l n="3">En effet, tu ne le gâcherais pas, quand bien même tu le souhaiterais.</l>
@@ -3240,7 +3240,7 @@
                         <l n="1">Lorsqu’Orion<note n="19">Dans la mythologie grecque, Orion est un
                               chasseur réputé pour sa beauté et sa violence. Orion est aussi une
                               constellation dont le lever et le coucher indiquent le début et la fin
-                              de l’année (HÉSIODE, <hi rend="italic">Les Travaux et les jours</hi>).
+                              de l’année (HÉSIODE, <emph rend="italic">Les Travaux et les jours</emph>).
                            </note>se couche dans le ciel,</l>
                         <l n="2">la mère des grappes de raisin produisant du vin perd sa
                            chevelure,</l>
