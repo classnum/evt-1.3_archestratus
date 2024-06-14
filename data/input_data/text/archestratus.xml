@@ -644,16 +644,14 @@
                   rédaction de ses commentaires sur L’<hi rend="italic">Iliade</hi> et L’<hi
                      rend="italic">Odyssée</hi> .</p>
 
-               <pb n="1" facs="data/images/single/stemma.png"
-               <xml:id="stemma"/>
+               <pb n="1" facs="data/images/single/stemma.png" xml:id="stemma"/>
 
 
                <p>2. Un deuxième groupe est convaincu de l’indépendance de l’Épitomé par rapport au
                   Manuscrit A dont <persName ref="#Kai">G. Kaibel</persName>, <persName ref="#Pep"
                      >S. Peppink</persName>et <persName ref="#Des">A.-M. Desrousseaux</persName> : </p>
 
-                <pb n="2" facs="data/images/single/stemmab.png"
-               <xml:id="stemmab"/>
+               <pb n="2" facs="data/images/single/stemmab.png" xml:id="stemmab"/>
 
                <p> Dès la Renaissance, plusieurs éditions et traductions des <hi rend="italic"
                      >Deipnosophistes</hi> ont vu le jour : </p>
@@ -710,9 +708,8 @@
                   quels moments du texte <persName ref="#Arc">Archestrate de Géla</persName> est
                   cité.</p>
 
-              
-                <pb n="3" facs="data/images/single/monicaberti.png"
-               <xml:id="monicaberti"/>
+
+               <pb n="3" facs="data/images/single/monicaberti.png" xml:id="monicaberti"/>
 
                <p><hi rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note n="4"
                         >Les informations de cette partie sont issues d'Olson et Sens (2000)</note>
@@ -1076,7 +1073,7 @@
                </app></l>
             <note>habent ACE></note>
          </div>
- <pb n="11" facs="data/images/single/archestratus_ms_a_fr_6.png"
+         <pb n="11" facs="data/images/single/archestratus_ms_a_fr_6.png"
             xml:id="archestratus_ms_a_fr_6"/>
          <div n="11" type="fragment">
             <head>Fragment 11 (Ath. 3. 112b-c)</head>
@@ -1552,10 +1549,10 @@
                   <rdg wit="#C">χείρεσιν</rdg>
                   <rdg wit="#E">χείρεσσι</rdg>
                </app> ἔχοντες</l>
-            <l n="8">εἰώθασι δονεῖν ψήφους 
-                  αἴθωνι λογισμῶι
-                  </l>
-            <l n="9"><app><lem wit="#A #C">ἄρθρων μηλείων<rdg wit="#E">ἄρθρον μηλείων</rdg>
+            <l n="8">εἰώθασι δονεῖν ψήφους αἴθωνι λογισμῶι </l>
+            <l n="9"><app>
+                  <lem wit="#A #C">ἄρθρων μηλείων</lem>
+                  <rdg wit="#E">ἄρθρον μηλείων</rdg>
                </app> ἐπὶ γῆν δωρήματα <app>
                   <lem wit="#A">βάλλων</lem>
                   <rdg wit="#C #E">βάλλειν</rdg>
@@ -2850,7 +2847,8 @@
                   <l n="5">à <placeName ref="#Rho">Rhodes</placeName> baigné par la mer, à condition
                      qu’ils proviennent de là-bas.</l>
                   <l n="6">Mais si d’une manière ou d’une autre tu désires y goûter, il faut</l>
-                  <l n="7">que tu achètes en même temps des orties de mer – les acalèphes chevelues.</l>
+                  <l n="7">que tu achètes en même temps des orties de mer – les acalèphes
+                     chevelues.</l>
                   <l n="8">Mélange-les ensemble et fais-les frire à la poêle,</l>
                   <l n="9">après avoir broyé des herbes aromatiques dans de l’huile d’olive.</l>
                </div>
@@ -2934,14 +2932,14 @@
                   <l n="2">il y est excellent car il est originellement de là-bas</l>
                   <l n="3">par sa naissance. S’il est capturé au large des îles</l>
                   <l n="4">ou, ailleurs, au large des côtes ou au large de la <placeName ref="#Crè"
-                     >Crète</placeName>,</l>
+                        >Crète</placeName>,</l>
                   <l n="5">il y arrive maigre, dur et battu par les flots.</l>
                </div>
             </div>
             <div n="p27" type="page" corresp="#archestratus_ms_a_fr_28">
                <div n="27" type="fragment">
-                  <l n="1">Achète, Moschos, un lebias, le poisson-foie, sur les côtes
-                     baignées par la mer</l>
+                  <l n="1">Achète, Moschos, un lebias, le poisson-foie, sur les côtes baignées par
+                     la mer</l>
                   <l n="2">de <placeName ref="#Dél">Délos</placeName> et <placeName ref="#Tén"
                         >Ténos</placeName>.</l>
                </div>
@@ -3137,8 +3135,8 @@
                   <l n="1">Mais, quand tu viens à <placeName ref="#Byz">Byzance</placeName>, achète
                      un morceau d’espadon,</l>
                   <l n="2">de l’arête dorsale jusqu’à la queue. Il est convenable</l>
-                  <l n="3">dans le détroit qui est à côté du promontoire élevé de <placeName ref="#Pél"
-                        >Pélore</placeName>.</l>
+                  <l n="3">dans le détroit qui est à côté du promontoire élevé de <placeName
+                        ref="#Pél">Pélore</placeName>.</l>
                </div>
             </div>
             <div n="p43" type="page" corresp="#archestratus_ms_a_fr_15">
@@ -3161,12 +3159,11 @@
                <div>
                   <div n="p45" type="page" corresp="#archestratus_ms_a_fr_47">
                      <div n="45" type="fragment">
-                        <l n="1">Et quant aux poissons cartilagineux, assurément, l’illustre <placeName ref="#Mil"
-                              >Milet</placeName> nourrit</l>
+                        <l n="1">Et quant aux poissons cartilagineux, assurément, l’illustre
+                              <placeName ref="#Mil">Milet</placeName> nourrit</l>
                         <l n="2">les meilleurs. Mais faut-il donc faire un discours sur la lime</l>
                         <l n="3">et la raie à dos large alors que je pourrais manger</l>
-                        <l n="4">un lézard rôti au four, régal des enfants des
-                           Ioniens ?</l>
+                        <l n="4">un lézard rôti au four, régal des enfants des Ioniens ?</l>
                      </div>
                   </div>
                   <div n="p46" type="page" corresp="#archestratus_ms_a_fr_42">
@@ -3185,7 +3182,7 @@
                               >Chalcédoine</placeName>, rôtis-le</l>
                         <l n="2">après l’avoir bien lavé. À <placeName ref="#Byz"
                               >Byzance</placeName> également, tu en verras un de qualité</l>
-                        <l n="3">et de belle taille, portant son dos comme un bouclier rond. </l> 
+                        <l n="3">et de belle taille, portant son dos comme un bouclier rond. </l>
                         <l n="4">Prépare-le entier de la façon suivante. Achètes-en un dès à
                            présent,</l>
                         <l n="5">puis recouvre-le soigneusement tout entier de fromage et
@@ -3215,8 +3212,7 @@
                         <l n="4">d’une bonne taille et chaud, arrosé de vinaigre acide ;</l>
                         <l n="5">car il est de nature sèche. Rappelle-toi</l>
                         <l n="6">de préparer tout poisson à chair ferme de cette manière.</l>
-                        <l n="7">Mais le bon poisson, tendre par nature et à chair
-                           grasse,</l>
+                        <l n="7">Mais le bon poisson, tendre par nature et à chair grasse,</l>
                         <l n="8">saupoudre-le seulement de sel et enduis-le d’huile d’olive ;</l>
                         <l n="9">car il a en lui la vertu du plaisir.</l>
                      </div>
@@ -3226,16 +3222,16 @@
                               <l n="1">Quant à moi, je considère</l>
                               <l n="2">toujours la saupe comme un mauvais poisson, mais elle est la
                                  plus mangeable</l>
-                              <l n="3">au moment de la moisson du blé. Achète-la <lb/>à<placeName ref="#Myt"
-                                    >Mytilène</placeName>.</l>
+                              <l n="3">au moment de la moisson du blé. Achète-la <lb/>à<placeName
+                                    ref="#Myt">Mytilène</placeName>.</l>
                            </div>
                         </div>
                         <div n="p51" type="page" corresp="#archestratus_ms_a_fr_18">
                            <div n="51" type="fragment">
                               <l n="1">Mais, quant au sinodon, recherche seulement celui qui est
                                  épais.</l>
-                              <l n="2">Essaie aussi de l’attraper dans le détroit, mon
-                                    ami.<note n="20"> Il s’agit de Moschos.</note></l>
+                              <l n="2">Essaie aussi de l’attraper dans le détroit, mon ami.<note
+                                    n="20"> Il s’agit de Moschos.</note></l>
                               <l n="3">Ce même conseil, il se trouve que je le donne à toi aussi,
                                  Cleaïnos.</l>
                            </div>
@@ -3249,8 +3245,8 @@
                         <div n="p53" type="page"
                            corresp="#archestratus_ms_a_fr_53_fake_test_no_file">
                            <div n="53" type="fragment">
-                              <l n="1">Et à <placeName ref="#Tha">Thasos</placeName>, achète un rouget
-                                 et tu n’en auras pas un pire</l>
+                              <l n="1">Et à <placeName ref="#Tha">Thasos</placeName>, achète un
+                                 rouget et tu n’en auras pas un pire</l>
                               <l n="2">que le précédent. À <placeName ref="#Téo">Téos</placeName>,
                                  c’est le pire, mais il est encore convenable.</l>
                               <l n="3">Et en <placeName ref="#Ery">Érythrée</placeName>, on en pêche
@@ -3262,18 +3258,17 @@
                               <l n="1">Et, quant au jeune et grand aulopias, achètes-en la tête</l>
                               <l n="2">en été, lorsque Phaéton<note n="21">Dans la mythologie
                                     grecque, Phaéton (Φαέθων : le Brillant) est le fils du dieu
-                                    Soleil et symbolise ici l’été. </note>conduit son char sur
-                                  la voûte.</l>
-                              <l n="3">Et sers-le chaud, sur le champ, avec une
-                                 sauce.</l>
+                                    Soleil et symbolise ici l’été. </note>conduit son char sur la
+                                 voûte.</l>
+                              <l n="3">Et sers-le chaud, sur le champ, avec une sauce.</l>
                               <l n="4">Prends son ventre et rôtis-le à la broche.</l>
                            </div>
                         </div>
                         <div n="p55" type="page" corresp="#archestratus_ms_a_fr_55">
                            <div n="55" type="fragment">
-                              <l n="1">Tu verras des calmars à <placeName ref="#Dion">Dion</placeName> en
-                                    <placeName ref="#Pié">Piérie</placeName> dans le
-                                 courant</l>
+                              <l n="1">Tu verras des calmars à <placeName ref="#Dion"
+                                    >Dion</placeName> en <placeName ref="#Pié">Piérie</placeName>
+                                 dans le courant</l>
                               <l n="2">du <placeName ref="#Bap">Baphyre</placeName>, et à <placeName
                                     ref="#Amb">Ambracie</placeName> en grand nombre.</l>
                            </div>
@@ -3289,8 +3284,8 @@
                               <l n="4">d’assaisonnement, mais plonge-la simplement dans l’eau, remue
                                  souvent,</l>
                               <l n="5">ajoute l’hysope ciselée et si tu veux autre chose,</l>
-                              <l n="6">arrose-la de vinaigre fort. Puis imbibe-la bien et
-                                 hâte-toi de l'engouffrer,</l>
+                              <l n="6">arrose-la de vinaigre fort. Puis imbibe-la bien et hâte-toi
+                                 de l'engouffrer,</l>
                               <l n="7">quitte à t’étouffer dans ta précipitation.</l>
                               <l n="8">Quant au dos, fais-le rôtir comme la plupart des autres
                                  parties.</l>
@@ -3307,8 +3302,8 @@
                                     doit être mangé. Il s’agit ici de l’été. Sirius se lève le 28
                                     juillet à la latitude d’Érétrie (WILKINS et HILL 2011).
                                     Archestrate nomme de temps à autre une saison par une figure
-                                    mythologique : voir fragments 54, 14 et 49.</note>il faut avoir mangé
-                                 le pagre</l>
+                                    mythologique : voir fragments 54, 14 et 49.</note>il faut avoir
+                                 mangé le pagre</l>
                               <l n="2">à <placeName ref="#Dél">Délos</placeName> et à <placeName
                                     ref="#Eré">Érétrie</placeName> dans les maisons des bons ports
                                  de mer.</l>
@@ -3367,9 +3362,9 @@
                               <l n="3">si, pendant qu’ils boivent, tu sers à chacun une viande
                                  rôtie,</l>
                               <l n="4">chaude, simplement salée, retirée de la broche,</l>
-                              <l n="5">alors qu’elle encore saignante, ne sois pas troublé en voyant</l>
-                              <l n="6">du jus couler de la chair, mais mange-la
-                                 voracement.</l>
+                              <l n="5">alors qu’elle encore saignante, ne sois pas troublé en
+                                 voyant</l>
+                              <l n="6">du jus couler de la chair, mais mange-la voracement.</l>
                               <l n="7">Les autres façons de préparer le lièvre sont pour moi
                                  vraiment</l>
                               <l n="8">trop élaborées, avec des sauces visqueuses, très grasses</l>
