@@ -19,6 +19,19 @@ p {
     margin-bottom: 12px;
 }
 
+/* display of headings in dipl and interp */
+#text_frame h1[data-tagname="head"],
+#text_frame-add h1[data-tagname="head"] {
+    padding-bottom: 1.5em;
+    font-weight: bold;
+}
+
+/* display of p containing sources */
+p[data-ana="source"] {
+    padding-top: 1.5em;
+    text-align: right;
+}
+
 /* display of title page (front matter) */
 
 #text[data-doc="archestratus"] {
