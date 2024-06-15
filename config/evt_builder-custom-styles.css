@@ -32,6 +32,11 @@ p[data-ana="source"] {
     text-align: right;
 }
 
+/* display of transl div */
+div[class="translation_text"]:first-child {
+    padding-top: 83px;
+}
+
 /* display of title page (front matter) */
 
 #text[data-doc="archestratus"] {
