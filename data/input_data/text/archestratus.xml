@@ -9,7 +9,7 @@
 
       <fileDesc>
          <titleStmt>
-            <title>Édition des fragments d'Archestrate de Géla : transcription, traduction et
+            <title>Édition des fragments d’Archestrate de Géla : transcription, traduction et
                commentaire</title>
             <respStmt>
                <resp>Transcription des manuscrits et encodage XML</resp>
@@ -54,7 +54,7 @@
                   <birth><placeName><settlement type="ville">Géla</settlement><region key="Si"
                            >Sicile</region></placeName></birth>
                   <note>Archestrate est un poète du IVème siècle avant notre ère. Nous disposons de
-                     très peu d'informations biographiques à son sujet</note>
+                     très peu d’informations biographiques à son sujet</note>
                </person>
                <person xml:id="Ath">
                   <persName>Athénée</persName>
@@ -62,7 +62,7 @@
                            >Naucratis</settlement><country>Egypte</country></placeName></birth>
                   <note>Athénée vécut au IIème siècle de notre ère à Naucratis, cité grecque
                      égyptienne. Venu à Rome, il rencontra un riche Romain, P. Livius Larensis, qui
-                     lui demanda d'enrichir sa bibliothèque personnelle</note>
+                     lui demanda d’enrichir sa bibliothèque personnelle</note>
                </person>
                <person xml:id="P.Liv">
                   <persName>P. Livius Larensis</persName>
@@ -186,7 +186,7 @@
                   <persName>Pythagore</persName>
                </person>
                <person xml:id="Diod">
-                  <persName>Diodore d'Aspendos</persName>
+                  <persName>Diodore d’Aspendos</persName>
                </person>
                <person xml:id="Atl">
                   <persName>Atlas</persName>
@@ -240,7 +240,7 @@
                   <persName>Sardanapale</persName>
                </person>
                <person xml:id="Daph">
-                  <persName>Daphnis l'Éphésien</persName>
+                  <persName>Daphnis l’Éphésien</persName>
                </person>
                <person xml:id="Ulp">
                   <persName>Ulpien</persName>
@@ -552,7 +552,7 @@
                      >Archestrate</persName> de <placeName ref="#Gé">Géla</placeName> qui vécut au
                   IVème siècle de notre ère. Le poème porte principalement sur l’art de trouver le
                   bon poisson au bon endroit et à la bonne saison ainsi que sur la meilleure façon
-                  de l'accommoder. Aucun papyrus, ni même la <emph rend="italic">Souda</emph> ne
+                  de l’accommoder. Aucun papyrus, ni même la <emph rend="italic">Souda</emph> ne
                   font mention d’ <persName ref="#Arc">Archestrate</persName> de <placeName
                      ref="#Gé">Géla</placeName>. C’est grâce à <persName ref="#Ath"
                      >Athénée</persName>, né en l’an 170 de notre ère à <placeName ref="#Nau"
@@ -576,7 +576,7 @@
                      >Timocrate</persName> les propos de table tenus par une vingtaine d’érudits
                   lors d’un banquet donné par <persName ref="#P.Liv">P. Livius Larensis</persName> à
                      <placeName ref="#Ro">Rome</placeName> au début du IIIème siècle. Les convives
-                  se livrent à des conversations sur toutes sortes de sujets : les différentes
+                  se livrent à des conversations sur toutes sortes de sujets : les différentes
                   façons de banqueter, les banquets célèbres, les aliments, les poissons, les
                   boissons, la gastronomie et ses grands hommes mais aussi sur la politique, la
                   philosophie, la médecine, l’amour, la musique… Les invités appuient leurs propos
@@ -586,7 +586,7 @@
                   serait resté inconnu.</p>
 
                <p><emph rend="italic">Les Deipnosophistes</emph> ont été composés vers l’an 200 de
-                  notre ère et nous ont été transmis par trois manuscrits :</p>
+                  notre ère et nous ont été transmis par trois manuscrits :</p>
 
                <p>Le manuscrit A, gr. Z. 447 (coll. 0820), se trouve à la Bibliothèque Nationale
                   Marciana de <placeName ref="#Ven">Venise</placeName>. Il nous est parvenu par
@@ -617,13 +617,13 @@
                   d’un érudit du XIIème siècle qui entreprit de résumer l’ouvrage d’<persName
                      ref="#Ath">Athénée</persName> en s’appuyant sur un manuscrit non mutilé. Ils
                   sont les seuls témoins de I a à 73 f. Leur grande proximité s’explique par un
-                  modèle commun antérieur, un manuscrit perdu du Vatican. </p>
+                  modèle commun antérieur, un manuscrit perdu du Vatican.</p>
 
                <p>Le manuscrit C, supplément grec 841, se trouve à la Bibliothèque Nationale de
                   France. Il a été copié par <persName ref="#Dem">Démétrios Damilas</persName> entre
                   1476 et 1506. Il est d’un format moyen et comporte 203 folios. Il est rédigé en
                   écriture humaniste. C’est un manuscrit très lisible qui contient quelques
-                  abréviations non usuelles. </p>
+                  abréviations non usuelles.</p>
 
                <p> Le manuscrit E, Plutei LX. 2, se trouve quant à lui à la Bibliothèque
                   Laurentienne de Florence. Il a été copié par <persName ref="#Jac">Jacob
@@ -633,7 +633,7 @@
                   fidèles au <emph rend="italic">Marcianus</emph> et leur intérêt majeur est de
                   pouvoir suppléer aux folios manquants de ce dernier.</p>
                <p> Par ailleurs, les philologues ne sont pas d’accord entre eux sur les relations
-                  qui lient ces trois manuscrits. </p>
+                  qui lient ces trois manuscrits.</p>
                <p>1. Un groupe de spécialistes (<persName ref="#Cob">C. G. Cobet</persName>,
                      <persName ref="#Din">K. W. Dindorf</persName>, <persName ref="#Maa">P.
                      Maas</persName>, <persName ref="#Erb">H. Erbse</persName> et <persName
@@ -652,7 +652,8 @@
 
                <p>2. Un deuxième groupe est convaincu de l’indépendance de l’Épitomé par rapport au
                   Manuscrit A dont <persName ref="#Kai">G. Kaibel</persName>, <persName ref="#Pep"
-                     >S. Peppink</persName>et <persName ref="#Des">A.-M. Desrousseaux</persName> : </p>
+                     >S. Peppink</persName>et <persName ref="#Des">A.-M.
+                  Desrousseaux</persName> :</p>
 
                <!--               <pb n="2" facs="data/images/single/stemmab.png" xml:id="stemmab"/>-->
                <figure>
@@ -660,32 +661,32 @@
                </figure>
 
                <p> Dès la Renaissance, plusieurs éditions et traductions des <emph rend="italic"
-                     >Deipnosophistes</emph> ont vu le jour : </p>
+                     >Deipnosophistes</emph> ont vu le jour :</p>
                <p> 1. L’édition <emph rend="italic">princeps</emph> date de 1514. Elle est établie à
                      <placeName ref="#Ven">Venise</placeName> par le crétois <persName ref="#Mus"
                      >Marcus Musurus</persName> qui travaillait pour l’imprimeur <persName
                      ref="#Muc">Alde Muce</persName>. Ce manuscrit qui se fondait sur le <emph
                      rend="italic">Marcianus</emph> disparaît dans les ateliers à la fin de
-                  l’impression, ce qui était chose courante à cette époque. </p>
+                  l’impression, ce qui était chose courante à cette époque.</p>
                <p> 2. A Lyon, <persName ref="#Dal">Jacques Daléchamp</persName> fournit une
                   traduction en latin des<emph rend="italic">Deipnosophistes</emph> en 1583 sans
-                  accompagnement du texte. </p>
+                  accompagnement du texte.</p>
                <p> 3. <persName ref="#Cas">Isaac Casaubon</persName> choisit la traduction de
                      <persName ref="#Dal">Daléchamp</persName> pour l’intégrer à son édition de
                   1598. A noter que la pagination de <persName ref="#Cas">Casaubon</persName> avec
                   ses divisions de dix lignes en dix lignes est fréquemment utilisée depuis le
-                  XIXème siècle. </p>
+                  XIXème siècle.</p>
                <p> 4. Entre 1789 et 1791, l’œuvre est pour la première fois traduite en français par
-                     <persName ref="#Lef">Lefebvre de Villebrune</persName>. </p>
+                     <persName ref="#Lef">Lefebvre de Villebrune</persName>.</p>
 
                <p> 5. Au XIXème siècle, paraissent successivement trois nouvelles éditions du texte,
                   celle du strasbourgeois <persName ref="#Sch">Jean Schweighäuser</persName>
                   (1801-1807), de <persName ref="#Din">Wilhelm Dindorf</persName> (1827) et
                      d’<persName ref="#Mei">August Meineke</persName> (1858-1859).</p>
                <p> 6. Puis l’édition de <persName ref="#Kai">Georg Kaibel</persName> (1887-1890)
-                  devient l’édition de référence. </p>
+                  devient l’édition de référence.</p>
                <p> 7. L’édition <persName ref="#Gul">Gulick</persName> (1927-1941) propose une
-                  nouvelle traduction en anglais. </p>
+                  nouvelle traduction en anglais.</p>
                <p> 8. <persName ref="#Des">Alexandre-Marie Desrousseaux</persName> avec la
                   collaboration de <persName ref="#Ast">Charles Astruc</persName> propose aux
                   éditions de la CUF (1956) une traduction en français des deux premiers livres des
@@ -693,7 +694,7 @@
                   raison de la mort de son auteur en 1956. Il n’existe à ce jour aucune traduction
                   française complète des <emph rend="italic">Deipnosophistes</emph>.</p>
                <p> 9. L’édition <persName ref="#Loe">Loeb</persName> (2006-2012) propose une
-                  nouvelle traduction en langue anglaise avec le texte grec en vis-à-vis. </p>
+                  nouvelle traduction en langue anglaise avec le texte grec en vis-à-vis.</p>
                <p> 10. Il existe enfin une édition numérique des Deipnosophistes dirigée par
                      <persName ref="#Ber">Monica Berti</persName> de l’Université de <placeName
                      ref="#Lei">Leipzig</placeName> et hébergée par Github :
@@ -704,11 +705,11 @@
                   Cette édition numérique présente l’édition de <persName ref="#Kai">Georg
                      Kaibel</persName> sous format numérique. Nous avons aussi accès à celle
                      d’<persName ref="#Cas">Isaac Casaubon</persName>. Plusieurs outils sont mis à
-                  notre disposition, notamment : </p>
+                  notre disposition, notamment :</p>
                <p> - Un récupérateur d’URN CTS qui permet de récupérer et de citer des paragraphes,
-                  des phrases et des mots dans les <emph rend="italic">Deipnosophistes</emph> ; </p>
-               <p> - Un convertisseur de références Casaubon – Kaibel ; </p>
-               <p> - Un alignement automatique des index d’Olson, Meineke et Kaibel. </p>
+                  des phrases et des mots dans les <emph rend="italic">Deipnosophistes</emph> ;</p>
+               <p> - Un convertisseur de références Casaubon – Kaibel ;</p>
+               <p> - Un alignement automatique des index d’Olson, Meineke et Kaibel.</p>
                <p> - Un index d’auteurs, de personnes et de textes à partir du travail d’Olson qui
                   permet d’obtenir des graphiques comme celui ci-dessous. On peut par exemple voir à
                   quels moments du texte <persName ref="#Arc">Archestrate de Géla</persName> est
@@ -721,30 +722,30 @@
                </figure>
 
                <p><emph rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note
-                        n="4">Les informations de cette partie sont issues d'Olson et Sens
+                        n="4">Les informations de cette partie sont issues d’Olson et Sens
                         (2000)</note>
                   </emph>
                </p>
                <p>
                   <persName ref="#Arc">Archestrate</persName> écrit dans une langue artificielle qui
-                  emprunte ses formes à trois dialectes grecs : </p>
+                  emprunte ses formes à trois dialectes grecs :</p>
                <p>À l’épique (dialecte traditionnel d’<persName ref="#Hom">Homère</persName> et
                      d’<persName ref="#Hés">Hésiode</persName>). Les principales caractéristiques
-                  sont les suivantes : η à la place de α après ι, ε, ρ pour les noms de la première
+                  sont les suivantes : η à la place de α après ι, ε, ρ pour les noms de la première
                   déclinaison, datif pluriel en -ῃσι(ν), ξυν- à la place de συν-, ἤν à la place de
-                  ἐάν. </p>
+                  ἐάν.</p>
                <p>À l’attique (premier dialecte utilisé dans le théâtre athénien). Nous trouvons
                   ainsi α long à la place de η après ι, ε, ρ, la conjonction εἶτα, et ου comme le
-                  produit de la contraction ε + ο. </p>
+                  produit de la contraction ε + ο.</p>
 
                <p>Au dorique (dialecte parlé au temps d’<persName ref="#Arc">Archestrate</persName>
                   en Sicile). Nous avons trois exemples de génitifs en -α dans les fragments 34, 54
-                  et 55, deux dans des noms de poissons et le dernier dans un nom propre : καρχαρία,
-                  αὐλωπία, Βαφύρα. </p>
+                  et 55, deux dans des noms de poissons et le dernier dans un nom propre : καρχαρία,
+                  αὐλωπία, Βαφύρα.</p>
 
                <p><emph rend="italic"> Édition des fragments</emph></p>
                <p>Pour la présente édition, nous avons choisi de présenter le poème d’<persName
-                     ref="#Arc">Archestrate de Géla</persName> suivant l'ordre dans lequel il
+                     ref="#Arc">Archestrate de Géla</persName> suivant l’ordre dans lequel il
                   apparaît dans le texte d’<persName ref="#Ath">Athénée de Naucratis</persName> afin
                   de garantir une approche authentique du poème. En cela, nous nous plaçons dans la
                   continuité du travail qu’effectua <persName ref="#Rib">W. Ribbeck</persName> en
@@ -752,17 +753,17 @@
                      Géla</persName>. De fait, nous nous démarquons de l’ordre de l’édition de
                      <persName ref="#Bra">P. Brandt</persName> qui choisit en 1888 d’éditer les
                   fragments d’<persName ref="#Arc">Archestrate</persName> en essayant de restaurer
-                  l’ordre originel du poème en suivant l’ordre d’un repas, depuis l’apéritif jusqu'à
+                  l’ordre originel du poème en suivant l’ordre d’un repas, depuis l’apéritif jusqu’à
                   la fin du σύμποσιον. Cet ordre fut repris par <persName ref="#Llo">H.
                      Lloyd-Jones</persName> et <persName ref="#Par">P. Parsons</persName> en 1983,
                   par <persName ref="#Mon">O. Montanari</persName> en 1983, par <persName ref="#Wil"
                      >J. Wilkins</persName> et <persName ref="#Hil">S. Hill</persName> en 1994, et,
                   enfin, par <persName ref="#Ols">S. D. Olson</persName> et <persName ref="#Sen">A.
-                     Sens</persName> en 2000. </p>
+                     Sens</persName> en 2000.</p>
                <p> Par ailleurs, nous avons utilisé la numérotation d’<persName ref="#Cas">I.
                      Casaubon</persName> qui permet de se repérer dans le texte d’<persName
                      ref="#Ath">Athénée</persName>. Elle apparaît entre parenthèses à côté du numéro
-                  de chaque fragment. </p>
+                  de chaque fragment.</p>
                <p>Enfin, le texte grec et sa traduction française sont suivis d’un commentaire des
                   passages introduisant les fragments afin de montrer le regard que porte <persName
                      ref="#Ath">Athénée de Naucratis</persName> sur <persName ref="#Arc">Archestrate
@@ -801,11 +802,12 @@
                            >Athénée de Naucratis</persName>, les indications biographiques étaient
                         peu nombreuses. L’un des rares renseignements que nous donne <persName
                            ref="#Ath">Athénée</persName> est la ville de naissance d’<persName
-                           ref="#Arc">Archestrate</persName> : ce dernier serait de <placeName
+                           ref="#Arc">Archestrate</persName> : ce dernier serait de <placeName
                            ref="#Gé">Géla</placeName> ou de <placeName ref="#Syr"
                            >Syracuse</placeName>, deux villes se trouvant en <placeName ref="#Sic"
-                           >Sicile</placeName>, la première au sud de l’île, la seconde à l’est : </p>
-                     <p><l>Ἀρχέστρατος ὁ Συρακούσιος ἢ Γελῷος (ap. Ath. I. 4d-e) </l>
+                           >Sicile</placeName>, la première au sud de l’île, la seconde à
+                        l’est :</p>
+                     <p><l>Ἀρχέστρατος ὁ Συρακούσιος ἢ Γελῷος (ap. Ath. I. 4d-e)</l>
                         <l><persName ref="#Arc"><emph rend="italic"
                               >Archestrate</emph></persName><emph rend="italic"> de
                               </emph><placeName ref="#Syr"><emph rend="italic"
@@ -833,7 +835,7 @@
                            <placeName ref="#Gra">Grande Grèce</placeName> pour ses plaines fertiles
                         et sa gastronomie qui sont chantées par plusieurs poètes siciliens.
                            <persName ref="#Arc">Archestrate</persName> s’inscrit dans cette
-                        tradition sicilienne où la cuisine est célébrée : <persName ref="#Mith"
+                        tradition sicilienne où la cuisine est célébrée : <persName ref="#Mith"
                            >Mithécos de Syracuse</persName> est sans doute le premier cuisinier
                         ayant écrit un livre de cuisine à la fin du Vème siècle av. J.-C et
                            <persName ref="#Héra">Héraclide de Syracuse</persName> a écrit un <emph
@@ -844,7 +846,7 @@
                      <head>Un voyageur</head>
                      <p>Outre son origine, <persName ref="#Ath">Athénée</persName> nous renseigne
                         sur le fait qu’<persName ref="#Arc">Archestrate</persName> a beaucoup
-                        voyagé. Cela nous est dit dans les passages suivants :</p>
+                        voyagé. Cela nous est dit dans les passages suivants :</p>
                      <p><lb/>Γῆν πᾶσαν θάλασσαν περιῆλθεν ἀκριβῶς (ap. Ath. 7. 278d-e) <lb/><emph
                            rend="italic">Il [Archestrate] a parcouru rigoureusement toute la terre
                            et toute la mer.</emph></p>
@@ -863,7 +865,7 @@
                            >Grèce</placeName> et en <placeName ref="#Gra">Grande-Grèce</placeName>.
                            <persName ref="#Arc">Archestrate de Géla</persName> semble avoir des
                         connaissances précises et bien délimitées de la géographie du monde grec de
-                        son temps. C’est un espace structuré : à l’ouest par la <placeName
+                        son temps. C’est un espace structuré : à l’ouest par la <placeName
                            ref="#Sic">Sicile</placeName>, à l’est par des cités comme <placeName
                            ref="#Mil">Milet</placeName>, au nord par l’<placeName ref="#Hel"
                            >Hellespont</placeName>, au sud par la<placeName ref="#Crè"
@@ -886,7 +888,7 @@
                         beaucoup voyagé. Elle porte en effet plusieurs titres, preuve qu’elle a
                         circulé et qu’elle a été connue pendant l’Antiquité. L’œuvre d’<persName
                            ref="#Arc">Archestrate</persName> est tout d’abord citée par quatre
-                        auteurs :</p>
+                        auteurs :</p>
                      <p><l>ἐν τῇ ὡς Χρύσιππος ἐπιγράφει Γαστρονομίᾳ, ὡς δὲ Λυγκεὺς καὶ Καλλίμαχος
                            Ἡδυπαθείᾳ, ὡς δὲ Κλέαρχος Δειπνολογία, ὡς δ᾽ ἄλλοι Ὀψοποιία. (ap. Ath. I.
                            4d)</l><l>Dans l’ouvrage intitulé, selon <persName ref="#Chrys"
@@ -911,10 +913,10 @@
                            >Archestrate</persName>Γαστρολογία (<emph rend="italic"
                            >Gastrologia</emph>). <persName ref="#Ath">Athénée</persName> qualifie
                         enfin le poème d’<persName ref="#Arc">Archestrate</persName> des façons
-                        suivantes : ἐν ταῖς Ὑποθήκαις (dans ses <emph rend="italic">Conseils</emph>)
+                        suivantes : ἐν ταῖς Ὑποθήκαις (dans ses <emph rend="italic">Conseils</emph>)
                         (ap. Ath. 7. 328b, 7. 310a, 7. 284e), ἱστορία (<emph rend="italic"
                            >Informations</emph>) (ap. Ath. 7. 298e, 7. 326b, 9. 383b), et de ἐν ταῖς
-                        Γνώμαις (dans ses <emph rend="italic">Maximes</emph>) (ap. Ath. 7.286d). </p>
+                        Γνώμαις (dans ses <emph rend="italic">Maximes</emph>) (ap. Ath. 7.286d).</p>
 
                      <p>Ainsi le poème d’<persName ref="#Arc">Archestrate</persName> est-il désigné
                         de huit façons différentes et parmi ses huit titres, il est impossible de
@@ -925,11 +927,11 @@
                      <p>Nous constatons tout d’abord que deux titres - <emph rend="italic"
                            >Gastrologia</emph> et <emph rend="italic">Gastronomia</emph> - sont
                         formés sur le radical <emph rend="italic">gastros</emph>. Dans le premier
-                        cas, ce radical est suivi du suffixe -logos : la Gastrologia signifie
+                        cas, ce radical est suivi du suffixe -logos : la Gastrologia signifie
                         littéralement <emph rend="italic">le discours du ventre</emph>. Le terme
                            <emph rend="italic">Gastronomia</emph>, quant à lui, est formé à partir
                         du suffixe <emph rend="italic">-nomos</emph>, suffixe qui entre dans la
-                        composition de mots savants pour désigner une discipline : la <emph
+                        composition de mots savants pour désigner une discipline : la <emph
                            rend="italic">Gastronomia</emph> serait littéralement <emph rend="italic"
                            >la science du ventre</emph>. Ces deux titres annoncent, non sans une
                         certaine dérision, un ouvrage pseudo-scientifique. Il en de même pour la
@@ -937,8 +939,8 @@
                            des repas</emph>. Il semble ainsi que <persName ref="#Lyc"
                            >Lycophron</persName>, <persName ref="#Chry">Chrysippe</persName> et
                            <persName ref="#Clé">Cléarque</persName> aient un avis négatif sur
-                        l'œuvre d’<persName ref="#Arc">Archestrate</persName> et cherchent à la
-                        dénigrer : le manque de maîtrise des appétits va à l’encontre du mode de vie
+                        l’œuvre d’<persName ref="#Arc">Archestrate</persName> et cherchent à la
+                        dénigrer : le manque de maîtrise des appétits va à l’encontre du mode de vie
                         philosophique pour les Stoïciens et la gastronomie relèverait de la vie de
                         plaisirs disqualifiée par la tradition aristotélicienne au profit de la vie
                         politique et théorétique. <persName ref="#Lyn">Lyncée</persName> et
@@ -949,7 +951,7 @@
                            mollesse</emph>. Si nous éliminons les noms <emph rend="italic"
                            >Hypothekai</emph>, <emph rend="italic">Gnomai</emph>, et <emph
                            rend="italic">Historiai</emph> - beaucoup trop généralistes et n’ayant
-                        par conséquent que peu d’intérêt pour désigner l'œuvre d’<persName
+                        par conséquent que peu d’intérêt pour désigner l’œuvre d’<persName
                            ref="#Arc">Archestrate</persName> -, Ἡδυπαθείας est considéré, selon
                            <persName ref="#Ols">S. Douglas Olson</persName> et <persName ref="#Sen"
                            >Alexander Sens</persName>, comme le titre le meilleur qui puisse être
@@ -958,7 +960,7 @@
                         qu’il n’y ait la moindre critique sous-jacente de la part de <persName
                            ref="#Lyn">Lyncée</persName> et de <persName ref="#Call"
                            >Callimaque</persName>. C’est d’ailleurs celui-ci que les deux chercheurs
-                        ont adopté pour désigner l'œuvre d’<persName ref="#Arc"
+                        ont adopté pour désigner l’œuvre d’<persName ref="#Arc"
                            >Archestrate</persName>. Il en va de même pour <persName ref="#Wil">John
                            Wilkins</persName> et <persName ref="#Hil">Shaun Hill</persName>. Parmi
                         tous ces titres, <persName ref="#Ath">Athénée de Naucratis</persName> ne
@@ -968,11 +970,11 @@
                         sur la culture grecque et où cette dernière est en déclin, <persName
                            ref="#Ath">Athénée</persName> se pose en garant et défenseur de la
                         littérature hellénistique. N’est-ce pas là, d’ailleurs, tout l’enjeu des
-                           <emph rend="italic">Deipnosophistes</emph> ?</p>
+                           <emph rend="italic">Deipnosophistes</emph> ?</p>
                   </div>
                </div>
                <div type="section" n="2">
-                  <head>Du gastronome au glouton : le regard duel d’<persName ref="#Ath"
+                  <head>Du gastronome au glouton : le regard duel d’<persName ref="#Ath"
                         >Athénée</persName> sur <persName ref="#Arc">Archestrate</persName></head>
 
                   <p><persName ref="#Ath">Athénée de Naucratis</persName> nous donne ainsi des
@@ -993,10 +995,10 @@
                         visage était l’expression d’une belle âme. <persName ref="#Arc"
                            >Archestrate</persName> incarne l’idéal grec selon <persName ref="#Ath"
                            >Athénée</persName>.</p>
-                     <p>L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 :</p>
+                     <p>L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 :</p>
 
                      <p><l>Περὶ τῶν κατ´ Ἰταλίαν τόπων διεξιών [...] ὁ καλὸς οὗτος περιηγητής (ap.
-                           Ath. 7. 294a) </l><l><emph rend="italic">Ce noble explorateur poursuivant
+                           Ath. 7. 294a)</l><l><emph rend="italic">Ce noble explorateur poursuivant
                               sur les régions d’Italie.</emph></l></p>
 
                      <p><persName ref="#Arc">Archestrate</persName> est désigné comme <emph
@@ -1007,7 +1009,7 @@
                         vie à parcourir terres et mers, peut-être même au péril de sa vie dans la
                         mesure où les voyages en bateau étaient considérés comme dangereux.</p>
                      <p>D’autres expressions sont aussi appliquées à <persName ref="#Arc"
-                           >Archestrate</persName> : ὀ ὀψαρτυτὴς Ἀρχέστρατος (ap. Ath. 7. 320f-1a) -
+                           >Archestrate</persName> : ὀ ὀψαρτυτὴς Ἀρχέστρατος (ap. Ath. 7. 320f-1a) -
                         expression que l’on pourrait traduire par le <emph rend="italic">chef
                            Archestrate</emph>, <emph rend="italic">celui qui apprête les mets</emph>
                         - et Ἀρχέστρατος τοῦ δειπνολόγου (ap. Ath. 1. 29a-d) - <emph rend="italic"
@@ -1032,14 +1034,14 @@
                         <head>Usage du superlatif</head>
                         <p><persName ref="#Ath">Athénée</persName> se moque volontiers d’<persName
                               ref="#Arc">Archestrate</persName>. À cinq reprises, Athénée fait en
-                           effet un usage du superlatif pour le désigner :</p>
+                           effet un usage du superlatif pour le désigner :</p>
 
-                        <p><l>ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) :</l><l><emph rend="italic"
+                        <p><l>ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) :</l><l><emph rend="italic"
                                  >le très instruit</emph>
                               <persName ref="#Arc"><emph rend="italic"
                               >Archestrate</emph></persName></l></p>
 
-                        <p><l>ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d) </l><l><emph
+                        <p><l>ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d)</l><l><emph
                                  rend="italic">le très sage </emph><persName ref="#Arc"><emph
                                     rend="italic">Archestrate</emph></persName></l></p>
 
@@ -1054,9 +1056,9 @@
                            sagesse et en connaissance, ce qui pourrait apparaître dans un premier
                            temps très laudatif. Mais les Grecs n’étaient-ils pas sensibles à la
                            σωφροσύνη (<emph rend="italic">sophrosuné</emph>) c’est-à-dire à la <emph
-                              rend="italic">tempérance</emph> ? Dès lors que l’on a recours à un
+                              rend="italic">tempérance</emph> ? Dès lors que l’on a recours à un
                            superlatif, ne dépasse-t-on pas cette modération dont l’emploi zéro de
-                           l’adjectif serait le garant ? <persName ref="#Ath">Athénée</persName>
+                           l’adjectif serait le garant ? <persName ref="#Ath">Athénée</persName>
                            introduit ici une pointe d’ironie à l’égard d’<persName ref="#Arc"
                               >Archestrate</persName> qui, n’hésitant pas à faire montre de son
                            savoir, peut agacer son public par son érudition. D’ailleurs, l’adjectif
@@ -1064,17 +1066,17 @@
                            sens à cet adjectif. Il désigne tout d’abord celui qui est <emph
                               rend="italic">pingre</emph>, <emph rend="italic">avare</emph>. Mais
                            cela ne fait pas sens ici. Le deuxième sens indique un homme <emph
-                              rend="italic">pointilleux</emph>, <emph rend="italic">vétilleux</emph>
-                           : <persName ref="#Ath">Athénée</persName> critique ici <persName
-                              ref="#Arc">Archestrate</persName> en pointant son goût excessif pour
-                           le détail. Par exemple, dans le fragment 29, il faut trouver une queue de
-                           grande thonne provenant de <placeName ref="#Byz">Byzance</placeName>.
-                              <persName ref="#Arc">Archestrate</persName> ne fait-il pas là preuve
-                           d’un peu trop d’excès ? Cela se retourne contre lui et il se ridiculise
-                           aux yeux d’<persName ref="#Ath">Athénée</persName> et des convives de
-                              <persName ref="#P.Liv">Larensis</persName>, qui se moquent d’une
-                           époque et de coutumes lointaines et révolues. Plus de six siècles
-                           séparent en effet les deux auteurs.</p>
+                              rend="italic">pointilleux</emph>, <emph rend="italic"
+                           >vétilleux</emph> : <persName ref="#Ath">Athénée</persName> critique ici
+                              <persName ref="#Arc">Archestrate</persName> en pointant son goût
+                           excessif pour le détail. Par exemple, dans le fragment 29, il faut
+                           trouver une queue de grande thonne provenant de <placeName ref="#Byz"
+                              >Byzance</placeName>. <persName ref="#Arc">Archestrate</persName> ne
+                           fait-il pas là preuve d’un peu trop d’excès ? Cela se retourne contre lui
+                           et il se ridiculise aux yeux d’<persName ref="#Ath">Athénée</persName> et
+                           des convives de <persName ref="#P.Liv">Larensis</persName>, qui se
+                           moquent d’une époque et de coutumes lointaines et révolues. Plus de six
+                           siècles séparent en effet les deux auteurs.</p>
                      </div>
 
                      <div type="sous-sous-section" n="2">
@@ -1096,36 +1098,37 @@
                               >Dédale</persName> - un véritable savoir scientifique - et l’apprêt du
                            poisson - un savoir-faire - introduit un décalage comique dans la
                            désignation d’<persName ref="#Arc">Archestrate</persName>. Mais <persName
-                              ref="#Ath">Athénée</persName> va plus loin dans sa critique :
+                              ref="#Ath">Athénée</persName> va plus loin dans sa critique :
                               <persName ref="#Arc">Archestrate</persName> nous perd dans le choix
-                           des mets et dans les conseils qu’il donne pour les apprêter : nous nous
+                           des mets et dans les conseils qu’il donne pour les apprêter : nous nous
                            retrouvons ainsi perdus comme dans un labyrinthe.</p>
                         <p>L’expression ὁ ἡδονικὸς φιλόσοφος<note>Ap. Ath. 7. 312f.</note> (<emph
                               rend="italic">edonikos filosofos</emph>) que l’on pourrait traduire
                            par le <emph rend="italic">philosophe du plaisir</emph> est un autre
                            oxymore qui qualifie - ou disqualifie - <persName ref="#Arc"
-                              >Archestrate</persName>. Comment peut-on mêler philosophie et plaisir
-                           ? <persName ref="#Pla">Platon</persName> dénigre les plaisirs gustatifs
-                           car ils vont à l’encontre de la maîtrise de soi à laquelle le philosophe
-                           doit rester fidèle. C’est le sophiste qui fait l’éloge du plaisir et non
-                           le philosophe. <persName ref="#Epi">Épicure</persName>, quant à lui, met
-                           en valeur le plaisir dans sa philosophie mais il ne s’agit pas de
-                           n’importe quel plaisir : il faut savoir rester, même en ce domaine, dans
-                           la modération en se limitant à ce qui est nécessaire et naturel.</p>
+                              >Archestrate</persName>. Comment peut-on mêler philosophie et
+                           plaisir ? <persName ref="#Pla">Platon</persName> dénigre les plaisirs
+                           gustatifs car ils vont à l’encontre de la maîtrise de soi à laquelle le
+                           philosophe doit rester fidèle. C’est le sophiste qui fait l’éloge du
+                           plaisir et non le philosophe. <persName ref="#Epi">Épicure</persName>,
+                           quant à lui, met en valeur le plaisir dans sa philosophie mais il ne
+                           s’agit pas de n’importe quel plaisir : il faut savoir rester, même en ce
+                           domaine, dans la modération en se limitant à ce qui est nécessaire et
+                           naturel.</p>
                      </div>
 
                      <div type="sous-sous-section" n="3">
                         <head>Métaphore militaire</head>
                         <p><persName ref="#Ath">Athénée</persName> emploie aussi une métaphore
-                           militaire pour caractériser <persName ref="#Arc">Archestrate</persName> :
+                           militaire pour caractériser <persName ref="#Arc">Archestrate</persName> :
                            ὁ τῶν δείπνων λοχαγός (ap. Ath. 7. 301c) - <emph rend="italic">le
                               capitaine des banquets</emph>. Il s’agit d’une image commune dans les
                            textes portant sur la nourriture, mais rare chez <persName ref="#Arc"
                               >Archestrate</persName><note>Nous retrouvons cette ambiance militaire
-                              dans un seul fragment d’Archestrate : le numéro 8.</note>. <persName
+                              dans un seul fragment d’Archestrate : le numéro 8.</note>. <persName
                               ref="#Mat">Matron de Pitane</persName> - un poète du IVème siècle
                            avant notre ère - qui a écrit le Δει̑πνον Ἀττικόν (<emph rend="italic"
-                              >Deípnon Attikón</emph> : <emph rend="italic">le Banquet
+                              >Deípnon Attikón</emph> : <emph rend="italic">le Banquet
                               attique</emph>), emploie en le parodiant le vocabulaire militaire
                               d’<persName ref="#Hom">Homère</persName> de façon
                               importante<note>WILKINS et HILL 2011.</note>. Par cette métaphore
@@ -1136,26 +1139,27 @@
                            pas comme les autres poètes en n’ayant jamais recours au vocabulaire
                            militaire ou bien, <persName ref="#Ath">Athénée</persName> indique-t-il
                            le renouveau de cette tradition en montrant qu’<persName ref="#Arc"
-                              >Archestrate</persName> en fait abstraction ?</p>
+                              >Archestrate</persName> en fait abstraction ?</p>
                      </div>
 
                      <div type="sous-sous-section" n="4">
                         <head>Périphrases</head>
                         <p>Par ailleurs, <persName ref="#Ath">Athénée</persName> caractérise
-                              <persName ref="#Arc">Archestrate</persName> par plusieurs périphrases
-                           : Ἀρχέστρατος ὅν ἀντι τοῦ Ὁμήρου προσκυνεῖς<note>ap. Ath. 4. 162b.</note>
-                              -<emph rend="italic"><persName ref="#Arc">Archestrate</persName> que
-                              l’on vénère comme un autre Homère</emph>-, Ἀρχέστρατος τῶν ὀψοφάγων
-                           Ἡσίοδος ἢ Θέογνις<note> ap. Ath. 7. 310a.</note> - <emph rend="italic"
-                                 ><persName ref="#Arc">Archestrate</persName>, l’<persName
-                                 ref="#Hés">Hésiode</persName> ou le <persName ref="#Thé"
-                                 >Théognis</persName> des mangeurs de poissons</emph> -, et ὁ
-                           Πυθαγορικὸς δὲ δι’ ἐγκράτειαν Ἀρχέστρατος<note> ap. Ath. 7. 288a.</note>-
-                              <emph rend="italic">Archestrate, dont la tempérance a fait un disciple
-                              de <persName ref="#Pyt">Pythagore</persName></emph>.</p>
+                              <persName ref="#Arc">Archestrate</persName> par plusieurs
+                           périphrases : Ἀρχέστρατος ὅν ἀντι τοῦ Ὁμήρου προσκυνεῖς<note>ap. Ath. 4.
+                              162b.</note> -<emph rend="italic"><persName ref="#Arc"
+                                 >Archestrate</persName> que l’on vénère comme un autre
+                              Homère</emph>-, Ἀρχέστρατος τῶν ὀψοφάγων Ἡσίοδος ἢ Θέογνις<note> ap.
+                              Ath. 7. 310a.</note> - <emph rend="italic"><persName ref="#Arc"
+                                 >Archestrate</persName>, l’<persName ref="#Hés">Hésiode</persName>
+                              ou le <persName ref="#Thé">Théognis</persName> des mangeurs de
+                              poissons</emph> -, et ὁ Πυθαγορικὸς δὲ δι’ ἐγκράτειαν
+                              Ἀρχέστρατος<note> ap. Ath. 7. 288a.</note>- <emph rend="italic"
+                              >Archestrate, dont la tempérance a fait un disciple de <persName
+                                 ref="#Pyt">Pythagore</persName></emph>.</p>
                         <p>La poésie d’<persName ref="#Arc">Archestrate</persName> peut être
                            comparée à celle de plusieurs grands noms de la littérature grecque pour
-                           ce qui concerne la forme puisque l'emploi de l’hexamètre dactylique leur
+                           ce qui concerne la forme puisque l’emploi de l’hexamètre dactylique leur
                            est commun. Par contre, pour ce qui est du fond, <persName ref="#Ath"
                               >Athénée</persName> met en relation des poètes qui traitent de sujets
                            forts différents et qui, de surcroît, n’ont aucun lien avec la
@@ -1198,13 +1202,13 @@
                            par <persName ref="#Arc">Archestrate</persName>. Quant à <persName
                               ref="#Thé">Théognis de Mégare</persName>, poète élégiaque du VIème
                            siècle avant notre ère, il dénonce notamment la décadence et
-                           l’effondrement des valeurs aristocratiques : deux thèmes très éloignés
+                           l’effondrement des valeurs aristocratiques : deux thèmes très éloignés
                            des préoccupations d’ <persName ref="#Arc">Archestrate</persName>.</p>
                         <p><persName ref="#Arc">Archestrate</persName> est aussi désigné comme un
                               <emph rend="italic">disciple de <persName ref="#Pyt"
                                  >Pythagore</persName></emph>, ce qui est paradoxal puisque le
                            régime dit de <persName ref="#Pyt">Pythagore</persName> (né vers 580 av.
-                           J.-C.) repose sur la frugalité et proscrit la chair animale : on pouvait
+                           J.-C.) repose sur la frugalité et proscrit la chair animale : on pouvait
                            selon lui vivre sans faire souffrir et sans ôter la vie. En faisant
                            l’éloge de la gastronomie halieutique et en étant par conséquent tout le
                            contraire d’un disciple de <persName ref="#Pyt">Pythagore</persName>,
@@ -1219,7 +1223,7 @@
                            Tout l’art d’<persName ref="#Ath">Athénée</persName> est de faire revivre
                            par le biais du discours, le temps d’un banquet, des auteurs morts depuis
                            longtemps. En s’affranchissant de toute temporalité, <persName ref="#Ath"
-                              >Athénée</persName> leur redonne la parole : <persName ref="#Arc"
+                              >Athénée</persName> leur redonne la parole : <persName ref="#Arc"
                               >Archestrate</persName> et <persName ref="#Pyt">Pythagore</persName>
                            se répondent ainsi en écho au début du IIIème siècle de notre ère. Bien
                            que <emph rend="italic">Les Deipnosophistes</emph> donnent l’impression
@@ -1230,15 +1234,15 @@
                               >Archestrate</persName>, il n’apparaît pas lui non plus comme un
                            disciple de <persName ref="#Pyt">Pythagore</persName>. Son catalogue des
                            poissons, notamment, au Livre VII ne condamne pas le fait de le préparer
-                           ni d’en manger. </p>
+                           ni d’en manger.</p>
                      </div>
 
                      <div type="sous-sous-section" n="4">
                         <head>Le paroxysme de la critique</head>
                         <p>Enfin, <persName ref="#Arc">Archestrate</persName> est désigné comme un
-                           glouton : τένθης Ἀρχέστρατος - <emph rend="italic">Archestrate le
+                           glouton : τένθης Ἀρχέστρατος - <emph rend="italic">Archestrate le
                               glouton</emph> (ap. Ath. 3. 112b et 7. 285e). L’introduction au
-                           fragment 55 y fait aussi référence :</p>
+                           fragment 55 y fait aussi référence :</p>
                         <p><l>Ἀρχέστρατος δ´ ὁ πᾶσαν γῆν καὶ θάλασσαν διὰ γαστριμαργίαν
                               περιελθών.</l>
                            <l><emph rend="italic">Archestrate qui explora au nom de la gloutonnerie
@@ -1246,7 +1250,7 @@
 
                         <p>La seule motivation d’<persName ref="#Arc">Archestrate</persName>, selon
                               <persName ref="#Ath">Athénée</persName>, est la satisfaction de son
-                           ventre. Le glouton est celui qui engloutit la nourriture avec voracité :
+                           ventre. Le glouton est celui qui engloutit la nourriture avec voracité :
                            il désigne celui qui est incapable de se restreindre, de faire preuve de
                            tempérance. En somme, il est un débauché qui ne se préoccupe pas de la
                            qualité de ce qu’il mange contrairement à ce que recherche <persName
@@ -1254,8 +1258,8 @@
                               <persName ref="#Sar">Sardanapale</persName> (ap. Ath. 294f), empereur
                               d’<placeName ref="Ass">Assyrie</placeName> et symbole de la vie
                            dissolue et des plaisirs assouvis. Cela est d’ailleurs explicitement dit
-                           au moment d’introduire le fragment 12 où nourriture et sexe sont associés
-                           :</p>
+                           au moment d’introduire le fragment 12 où nourriture et sexe sont
+                           associés :</p>
 
                         <p><l>τῆς γαστρὸς ἕνεκα καὶ τῶν ὑπὸ τὴν γαστέρα</l>
                            <l><emph rend="italic">pour son ventre et les parties de son anatomie
@@ -1266,7 +1270,7 @@
                            l’éloignant de l’homme sage et bon que l’on a pu apercevoir à quelques
                            reprises.</p>
 
-                        <p>Mais comment expliquer le passage du gastronome au glouton ? Il
+                        <p>Mais comment expliquer le passage du gastronome au glouton ? Il
                            semblerait que ce soit la façon intrinsèque d’écrire d’<persName
                               ref="#Ath">Athénée</persName> qui n’a de cesse de passer de la louange
                            à la critique la plus sévère puis de revenir à l’éloge. Il détourne les
@@ -1285,7 +1289,7 @@
                         <p>Finalement, on oublie ce que pense <persName ref="#Ath"
                               >Athénée</persName> d’<persName ref="#Arc">Archestrate</persName>.
                            Cela est de plus redoublé par le fait qu’<persName ref="#Ath"
-                              >Athénée</persName> ne cite pas toujours directement le poète : il
+                              >Athénée</persName> ne cite pas toujours directement le poète : il
                            cite souvent un auteur (comme par exemple <persName ref="#Daph">Daphnis
                               l’Éphésien</persName> ou <persName ref="#Ulp">Ulpien</persName>) qui
                            cite <persName ref="#Arc">Archestrate</persName>. Dans cet enchâssement
@@ -1313,7 +1317,7 @@
             xml:id="archestratus_ms_e_fr_4"/>
          <div n="2" type="fragment">
             <head>Fragment 2 (Ath. 1. 4d-e)</head>
-            <l n="1">πρὸς δὲ μιᾶι πάντας δειπνεῖν ἁβρόδαιτι τραπέζηι. </l>
+            <l n="1">πρὸς δὲ μιᾶι πάντας δειπνεῖν ἁβρόδαιτι τραπέζηι.</l>
             <l n="2">έ̓στωσαν δʹ ἢ τρεῖς ἢ <app>
                   <lem wit="#E">τέσσαρες</lem>
                   <rdg wit="#C">ἕξ</rdg>
@@ -1325,7 +1329,7 @@
          <pb n="3" facs="data/images/single/archestratus_ms_e_fr_59_debut.png"
             xml:id="archestratus_ms_e_fr_59_debut"/>
          <div n="3" type="fragment">
-            <head>Fragment 3 (Ath. 1. 29a-d) )</head>
+            <head>Fragment 3 (Ath. 1. 29a-d)</head>
             <l n="1">εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε,</l>
             <l n="2">ἤδη χρὴ γεραόν, πολιὸν σφόδρα κρατοφοροῦτα</l>
             <l n="3"><app>
@@ -1352,7 +1356,7 @@
                </app> σκώπτουσιν ἀλαζονοχαυνοφλύαροι</l>
             <l n="13">ὡς ἅδιστος ἔφυ πάντων Φοινίκιος οἶνος,</l>
             <l n="14">οὐ προσέχω τὸν νοῦν αὐτοῖς.</l>
-            <l n="15">ἔστι δὲ καὶ Θάσιος πίνειν γενναῖος,ἐὰν ἦι</l>
+            <l n="15">ἔστι δὲ καὶ Θάσιος πίνειν γενναῖος, ἐὰν ἦι</l>
             <l n="16">πολλαῖς πρεσβεύων ἑτέρου οἴνου <app>
                   <lem wit="#E">περικαλλέσιν</lem>
                   <rdg wit="#C">περικαλέσιν</rdg>
@@ -1363,10 +1367,10 @@
                </app> βοτρυοσταγῆ ἔρνη</l>
             <l n="18">εἰπεῖν αἰνῆσαί τε καὶ οὔ με λέληθʹ ὀνομῆναι.</l>
             <l n="19"> ἀλλ’ οὐθὲν <app>
-                  <lem wit="#E">τἆλλ'</lem>
+                  <lem wit="#E">τἆλλ’</lem>
                   <rdg wit="#C">τἆλλος</rdg>
                </app> ἐστὶν ἁπλῶς πρὸς Λέσβιον οἶνον.</l>
-            <l n="20">ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ' αὑτοῖς.</l>
+            <l n="20">ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ’ αὑτοῖς.</l>
             <note>habent CE</note>
          </div>
          <pb n="4" facs="data/images/single/archestratus_ms_e_fr_8.png"
@@ -1437,7 +1441,7 @@
          </div>
          <pb n="7" facs="data/images/single/archestratus_ms_a_fr_60b.png"
             xml:id="archestratus_ms_a_fr_60b"/>
-         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="7" type="fragment">
             <head>Fragment 7 (Ath. 3. 101b-e)</head>
             <l n="1">ἀεὶ δὲ στεφάνοισι κάρα παρὰ δαῖτα πυκάζου</l>
@@ -1634,7 +1638,7 @@
                   <rdg wit="#C">παινοῦσι</rdg>
                </app> παῦροι <app>
                   <lem wit="#A">γὰρ</lem>
-                  <rdg wit="#C #E">γὰρ τ'</rdg>
+                  <rdg wit="#C #E">γὰρ τ’</rdg>
                </app> ἴσασιν</l>
             <l n="5">ἀνθρώπων, ὅ τι φαῦλον ἔφυ καὶ ἀκιδνὸν κενεόν τε ἔδεσμα .</l>
             <l n="6">ἀλλὰ τριταῖον ἔχειν σκόμβρον πρὶν ἐς ἁλμυρὸν ὕδωρ</l>
@@ -1654,7 +1658,7 @@
          <div n="13" type="fragment">
             <head>Fragment 13 (Ath. 4. 162b, 163c-e)</head>
             <l n="1">ἀλλʹ οὐ πολλοὶ ἴσασιν βροτῶν τόδε θεῖον ἔδεσμα,</l>
-            <l n="2">οὐδʹ ἔσθειν ἐθέλουσ' ὅσοι κόυφην τε λεβώδη</l>
+            <l n="2">οὐδʹ ἔσθειν ἐθέλουσ’ ὅσοι κόυφην τε λεβώδη</l>
             <l n="3">ψυχὴν κέκτηνται θνητῶν εἰσὶν δʹ ἀπόπληκτοι,</l>
             <l n="4">ὡς ἀνθρωποφάγου τοῦ θηρίου ὄντος. ἅπας δὲ</l>
             <l n="5">ἰχθὺς σάρκα φιλέεῖ βροτεάν, ἄν περ περικύρσηι.</l>
@@ -1674,7 +1678,7 @@
                   <lem wit="#ACE7.278">φθινοπώρου</lem>
                   <rdg wit="#ACE7.313-14">ὠνου ante φθινοπώρου</rdg>
                </app>, ὅταν Πλειὰς καταδύνηι,</l>
-            <l n="2">πάντα τρόπον σκεύαζε. τί σοι τάδε μυθολογεύω ;</l>
+            <l n="2">πάντα τρόπον σκεύαζε. τί σοι τάδε μυθολογεύω ;</l>
             <l n="3">οὐ γὰρ μὴ σε διαφθείρηι γʹ , οὐδʹ ἄν <app>
                   <lem wit="#A #C">ἐπιθυμῆις</lem>
                   <rdg wit="#E">ἐπιθυμεις</rdg>
@@ -1771,7 +1775,7 @@
                </app> αὐτοῦ γεύσασθαι, ὁμοῦ χρὴ</l>
             <l n="7">κνίδας ὀψωνεῖν, <app>
                   <lem wit="#A">τὰς</lem>
-                  <rdg wit="#C #E">τάς τ'</rdg>
+                  <rdg wit="#C #E">τάς τ’</rdg>
                </app><app>
                   <lem wit="#A #E">ἀμφικόμους</lem>
                   <rdg wit="#C">ἀφικομένους</rdg>
@@ -1782,7 +1786,7 @@
          </div>
          <pb n="18" facs="data/images/single/archestratus_ms_a_fr_22_debut.png"
             xml:id="archestratus_ms_a_fr_22_debut"/>
-         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="18" type="fragment">
             <head>Fragment 18 (Ath. ACE 7. 285e-286a et A 7. 294f-5a)</head>
             <l n="1">ἐν <app>
@@ -1838,7 +1842,7 @@
             <l n="1">εἶτα λαβεῖν ψήτγαν μεγάλην <app>
                   <lem wit="#ACE7.330">καὶ τὴν</lem>
                   <rdg wit="#A7.288">τὴν</rdg>
-                  <rdg wit="#CE7.288">τὴν θ'</rdg>
+                  <rdg wit="#CE7.288">τὴν θ’</rdg>
                </app> ὑπότρηχυν</l>
             <l n="2"><app>
                   <lem wit="#ACE7.288 #CE7.330">βούγλωσσον</lem>
@@ -1910,7 +1914,7 @@
                </app></l>
             <l n="5">οὐ μὴν ἀλλὰ κλέος <app>
                   <lem wit="#A">γὰρ ετης</lem>
-                  <rdg wit="#C #E">γ' ἀρετῆς</rdg>
+                  <rdg wit="#C #E">γ’ ἀρετῆς</rdg>
                </app> μέγα κάρτα φέρουσι</l>
             <l n="6"><app>
                   <lem wit="#A">κωπαῖ αἱ</lem>
@@ -1927,7 +1931,7 @@
             <head>Fragment 26 (Ath. 7. 300d-e)</head>
             <l n="1">τὸν δʹ <app>
                   <lem wit="#A">ἔλοπα</lem>
-                  <rdg wit="#C">ἔλλοπ'</rdg>
+                  <rdg wit="#C">ἔλλοπ’</rdg>
                   <rdg wit="#E">ἔλλοπα</rdg>
                </app> ἔσθε μάλιστα <app>
                   <lem wit="#A #E">Συρακούσαις</lem>
@@ -2070,7 +2074,7 @@
                </app> νέκταρος ἄνθος.</l>
             <l n="5"><app>
                   <lem wit="#A">τούτου δὲ θέμις</lem>
-                  <rdg wit="#C #E">τοῦτ' οὐδὲ θέμις</rdg>
+                  <rdg wit="#C #E">τοῦτ’ οὐδὲ θέμις</rdg>
                </app> ἐστὶ φαγεῖν θνητοῖσιν ἅπασιν</l>
             <l n="6">οὐδʹ ἐσιδεῖν ὄσσοισιν, <app>
                   <lem wit="#A">ὅσοις</lem>
@@ -2081,7 +2085,7 @@
                   <rdg wit="#C">χείρεσιν</rdg>
                   <rdg wit="#E">χείρεσσι</rdg>
                </app> ἔχοντες</l>
-            <l n="8">εἰώθασι δονεῖν ψήφους αἴθωνι λογισμῶι </l>
+            <l n="8">εἰώθασι δονεῖν ψήφους αἴθωνι λογισμῶι</l>
             <l n="9"><app>
                   <lem wit="#A #C">ἄρθρων μηλείων</lem>
                   <rdg wit="#E">ἄρθρον μηλείων</rdg>
@@ -2170,14 +2174,14 @@
          </div>
          <pb n="36" facs="data/images/single/archestratus_ms_a_fr_46a.png"
             xml:id="archestratus_ms_a_fr_46a"/>
-         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="36" type="fragment">
             <head>Fragment 36 (Ath. 7. 311a-c)</head>
             <l n="1">λάμβανε δʹ ἐκ Γαίσωνος, ὅταν Μίλητον ἵκηαι,</l>
             <l n="2">κεστρέα τὸν κέφαλον καὶ τὸν θεόπαιδα λάβρακα·</l>
             <l n="3">εἰσὶ γὰρ ἐνθάδʹ ἄριστοι, ὁ γὰρ τόπος ἐστὶ τοιοῦτος.</l>
             <l n="4">πιότεροι δʹ ἕτεροι πολλοὶ Καλυδῶνί τε κλεινῆι</l>
-            <l n="5">Ἀμβρακίαι τʹ ἐνι πλουτοφόρωι Βόλβηι τ' ἐνὶ λίμνηι,</l>
+            <l n="5">Ἀμβρακίαι τʹ ἐνι πλουτοφόρωι Βόλβηι τ’ ἐνὶ λίμνηι,</l>
             <l n="6">ἀλλʹ οὐκ εὐώδη γαστρὸς κέκτηνται ἀλοιφὴν</l>
             <l n="7">οὐδʹ οὕτω δριμεῖαν. ἐκεῖνοι δʹ εἰσίν, ἑταῖρε,</l>
             <l n="8">τὴν ἀρετὴν θαυμαστοί. ὅλους δʹ αὐτοὺς ἀλεπίστους</l>
@@ -2218,13 +2222,13 @@
             <l n="2">ἡ πλωτὴ μύραινα καλουμένη ἄν ποτε ληφθνῆι,</l>
             <l n="3">ὠνοῦ· τοῦτο γάρ <app>
                   <lem wit="#A">ἐστιν</lem>
-                  <rdg wit="#C #E">ἐστ'</rdg>
+                  <rdg wit="#C #E">ἐστ’</rdg>
                </app> ἐκεῖ θαυμαστὸν ἔδεσμα.</l>
             <note>habent ACE</note>
          </div>
          <pb n="39" facs="data/images/single/archestratus_ms_a_fr_53_debut.png"
             xml:id="archestratus_ms_a_fr_53_debut"/>
-         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
+         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="39" type="fragment">
             <head>Fragment 39 (Ath. 7. 313.e-14 a)</head>
             <l>μόρμυρος αἰγιαλεύς, κακὸς ἰχθὺς οὐδέ ποτʹ ἐσθλός.</l>
@@ -2304,7 +2308,7 @@
             <head>Fragment 45 (Ath. 7. 319 d-e)</head>
             <l n="1">καὶ σελάχη μέντοι καινὴ Μίλητος ἄριστα</l>
             <l n="2">ἐκτρέφει. ἀλλὰ γε χρὴ ῥίνης λόγον ἢ πλατυνώτου</l>
-            <l n="3">λειοβάτου ποιεῖσθαι ; ὁμῶς κροκόδειλον <app>
+            <l n="3">λειοβάτου ποιεῖσθαι ; ὁμῶς κροκόδειλον <app>
                   <lem wit="#A">ἄνοπτον</lem>
                   <rdg wit="#C #E">ἄν ὀπτὸν</rdg>
                </app></l>
@@ -2322,7 +2326,7 @@
                   <lem wit="#A #E">χειμῶνι</lem>
                   <rdg wit="#C">χειμῶνος</rdg>
                </app> δὲ τρίγλαν</l>
-            <l n="2">ἔσθι' ἐνὶ ψαφαρῆι ληφθέντα Τειχιοέσσηι,</l>
+            <l n="2">ἔσθι’ ἐνὶ ψαφαρῆι ληφθέντα Τειχιοέσσηι,</l>
             <l n="3">Μιλήτου κώμηι Καρῶν πέλας <app>
                   <lem wit="#A">ἀγκυλοκώλων</lem>
                   <rdg wit="#C #E">ἀγκυλοκώλων τόξ</rdg>
@@ -2488,7 +2492,7 @@
                </app> καὶ ἐπείγου</l>
             <l n="7">οὕτως ὡς πνίγεσθαι ὑπὸ σπουδῆς καταπίνων.</l>
             <l n="8">τὴν λοφιὰν δʹ ὀπτᾶν αὐτῆς καὶ <app>
-                  <lem wit="#A">τ' ἄλλα</lem>
+                  <lem wit="#A">τ’ ἄλλα</lem>
                   <rdg wit="#C #E">τἄλλα</rdg>
                </app> τὰ πλεῖστα.</l>
             <note>habent ACE</note>
@@ -2594,13 +2598,13 @@
             <div n="p1" type="page" corresp="#archestratus_ms_e_fr_1_debut">
                <div n="1" type="fragment">
                   <l n="1">Faisant montre de mes recherches à la <placeName ref="#Gr"
-                        >Grèce</placeName> entière<note n="5">En principe, un poème épique commence
+                        >Grèce</placeName> entière,<note n="5">En principe, un poème épique commence
                         par une invocation des Muses. Archestrate ne procède pas ainsi. On peut y
                         voir ici une référence aux premiers mots d’Hérodote dans Histoires mais ce
                         dernier publie ses recherches afin de les préserver de l’oubli alors
-                        qu’Archestrate les exhibe (WILKINS et HILL 2011). </note>,</l>
+                        qu’Archestrate les exhibe (WILKINS et HILL 2011).</note></l>
                   <p>dit [Archestrate]<note n="6">Le passage ne nous est connu que par la version
-                        abrégée, d'où l’incise φησί, &quot;dit-il&quot;.</note>.</p>
+                        abrégée, d’où l’incise φησί, &quot;dit-il&quot;.</note>.</p>
                </div>
             </div>
             <div n="p2" type="page" corresp="#archestratus_ms_e_fr_4">
@@ -2608,9 +2612,9 @@
                   <l n="1">Que tous dînent à une seule table<note n="7">Une seule table pour
                         plusieurs semble très rare au IVème siècle avant notre ère, tout comme
                         l’emploi du vocabulaire militaire qui contraste avec les plaisirs de la fête
-                        (WILKINS et HILL 2011). </note>pour un repas raffiné.</l>
+                        (WILKINS et HILL 2011).</note> pour un repas raffiné.</l>
                   <l n="2">Que les convives soient trois au quatre,</l>
-                  <l n="3">en tout cas pas plus de cinq ; car sinon ce serait</l>
+                  <l n="3">en tout cas pas plus de cinq ; car sinon ce serait</l>
                   <l n="4">une tente de soldats mercenaires vivant de rapines.</l>
                </div>
             </div>
@@ -2633,7 +2637,7 @@
                   <l n="11">ne te semblera pas digne d’être élevé au rang de vin mais à celui de
                      l’ambroisie.</l>
                   <l n="12">Et si certains-fanfarons-bien-bavards-à-la-tête-vide<note n="8">Mot
-                        composé typiquement comique : ἀλαζών (fanfaron), χαῦνος (vide, vain, frivole
+                        composé typiquement comique : ἀλαζών (fanfaron), χαῦνος (vide, vain, frivole
                         d’où tête vide) et φλύαρος (bavard, qui parle à tort et à travers).
                      </note>disent en se moquant</l>
                   <l n="13">que le vin de <placeName ref="#Phé">Phénicie</placeName> est le meilleur
@@ -2660,10 +2664,10 @@
                <div n="5" type="fragment">
                   <l n="1">J’envoie au diable les saucières remplies d’oignons et de tiges de
                         silphium<note n="9">Plante condimentaire et médicinale disparue, très
-                        utilisée dans l’Antiquité grecque et romaine. Pline la décrit comme “un don
-                        précieux de la nature” (<emph rend="italic">Histoire naturelle</emph>, XXII,
-                        49).</note></l>
-                  <l n="2">et tous les autres plats d'accompagnement.</l>
+                        utilisée dans l’Antiquité grecque et romaine. Pline la décrit comme « un don
+                        précieux de la nature » (<emph rend="italic">Histoire naturelle</emph>,
+                        XXII, 49).</note></l>
+                  <l n="2">et tous les autres plats d’accompagnement.</l>
                </div>
             </div>
             <div n="p6" type="page" corresp="#archestratus_ms_a_fr_7">
@@ -2705,7 +2709,7 @@
                   <l n="11">qui boivent à la manière des grenouilles, sans manger.</l>
                   <l n="12">Ne fais pas attention à eux mais mange les plats</l>
                   <l n="13">que je mentionne. Considère tous les autres plats</l>
-                  <l n="14">comme le modèle d’une belle pauvreté : pois-chiches bouillis,</l>
+                  <l n="14">comme le modèle d’une belle pauvreté : pois-chiches bouillis,</l>
                   <l n="15">fèves, pommes et figues séchées. Mais loue</l>
                   <l n="16">les galettes venant d’<placeName ref="#Athè">Athènes</placeName>. Et si
                      parfois tu n’as pas cela là où tu es,</l>
@@ -2740,7 +2744,7 @@
             <div n="p10" type="page" corresp="#archestratus_ms_a_fr_5">
                <div n="10" type="fragment">
                   <l n="1">Avant tout, je rappellerai les dons de Déméter</l>
-                  <l n="2">à la belle chevelure, mon cher Moschos ;<note n="9">Un des deux
+                  <l n="2">à la belle chevelure, mon cher Moschos ;<note n="9">Un des deux
                         destinataires du poème d’Archestrate, le second étant
                      Cléaïnos.</note>retiens-les dans ta chair.</l>
                   <l n="3">En effet, tout ce qu’il y a de mieux et de meilleur à prendre,</l>
@@ -2816,14 +2820,14 @@
                      idiote</l>
                   <l n="7">tiennent compagnie aux légumes, restent avec le sage.</l>
                   <l n="8"><persName ref="#Dio">Diodore</persName> et jouent au disciple de
-                        <persName ref="#Pyt">Pythagore</persName> avec lui<note n="12">&quot;L'un
+                        <persName ref="#Pyt">Pythagore</persName> avec lui<note n="12">&quot;L’un
                         des nombreux arguments avancés pour justifier le rejet du poisson est son
-                        impureté car il est un mangeur d'hommes&quot;. On attribue, par ailleurs, à
+                        impureté car il est un mangeur d’hommes&quot;. On attribue, par ailleurs, à
                            <persName ref="#Pyt">Pythagore</persName> le fait que l’on ne doit pas
                         nuire à un animal s’il ne cause pas de tort à l’homme (ICARD et SZABADOS
                         2014). <persName ref="#Arc">Archestrate</persName> identifie probablement
                            <persName ref="#Pyt">Pythagore</persName> comme l’une des figures du
-                        végétarisme, tout comme <persName ref="#Dio">Diodore d'Aspendos</persName>,
+                        végétarisme, tout comme <persName ref="#Dio">Diodore d’Aspendos</persName>,
                         pour s’en moquer ouvertement (WILKINS et HILL 2011).</note></l>
                </div>
             </div>
@@ -2838,8 +2842,8 @@
                         davantage chez <persName ref="#Hés">Hésiode</persName> qui indique qu’elles
                         rythment les travaux agricoles et la navigation (HÉSIODE, <emph
                            rend="italic">Les Travaux et les jours</emph>). </note>se couchent,</l>
-                  <l n="2">prépare-le de n’importe quelle façon.Pourquoi t’en parler des heures
-                     ?</l>
+                  <l n="2">prépare-le de n’importe quelle façon. Pourquoi t’en parler des
+                     heures ?</l>
                   <l n="3">En effet, tu ne le gâcherais pas, quand bien même tu le souhaiterais.</l>
                   <l n="4">Mais si tu veux néanmoins apprendre, mon cher Moschos,</l>
                   <l n="5">la meilleure façon pour toi de le préparer,</l>
@@ -2847,14 +2851,14 @@
                         de figuier donnent par imprégnation un goût savoureux à la préparation du
                         poisson, mais elles évitent surtout que sa chair soit brûlée pendant la
                         cuisson (WILKINS et HILL 2011).</note>et un peu d’origan.</l>
-                  <l n="7">Pas de fromage, pas d’absurdité ! Prépare-le simplement</l>
+                  <l n="7">Pas de fromage, pas d’absurdité ! Prépare-le simplement</l>
                   <l n="8">dans des feuilles de figuiers liées par le haut à un jonc</l>
                   <l n="9">et place-le dans la cendre chaude, en gardant à l’esprit</l>
-                  <l n="10">le moment où il sera rôtie et non pas brûlée !</l>
+                  <l n="10">le moment où il sera rôtie et non pas brûlée !</l>
                   <l n="11">Sois sûr qu’il provienne de la charmante Byzance</l>
-                  <l n="12">si tu veux qu’il soit bon. S'il est pris près de là,</l>
+                  <l n="12">si tu veux qu’il soit bon. S’il est pris près de là,</l>
                   <l n="13">tu en auras un excellente. Mais il est de loin moins bon</l>
-                  <l n="14">venant de la mer de l’Hellespont, et s'il traverse</l>
+                  <l n="14">venant de la mer de l’Hellespont, et s’il traverse</l>
                   <l n="15">le fameux détroit de la mer Egée,</l>
                   <l n="16">ce n’est plus la même chose, et il fait honte à l’éloge qui lui a été
                      fait juste avant.</l>
@@ -2902,7 +2906,7 @@
                   <l n="1">À <placeName ref="#Rho">Rhodes</placeName>, même si tu dois en
                      mourir,</l>
                   <l n="2">si l’on ne veut pas te vendre le requin-renard, vole</l>
-                  <l n="3">ce que les Syracusains appellent &quot;chien-gras&quot; !</l>
+                  <l n="3">ce que les Syracusains appellent &quot;chien-gras&quot; !</l>
                   <l n="4">Après cela, endure ce que le destin te réserve.</l>
                </div>
             </div>
@@ -2924,7 +2928,7 @@
             <div n="p21" type="page" corresp="#archestratus_ms_a_fr_33">
                <div n="21" type="fragment">
                   <l n="1">Puis, prends un grande turbot et la sole</l>
-                  <l n="2">à la peau rugueuse ; pendant l’été, cette dernière est excellente à
+                  <l n="2">à la peau rugueuse ; pendant l’été, cette dernière est excellente à
                         <placeName ref="#Chal">Chalcis</placeName>.</l>
                </div>
             </div>
@@ -2948,7 +2952,7 @@
                <div n="24" type="fragment">
                   <l n="1">Va, achète-moi une tête de glauque à <placeName ref="#Oly"
                         >Olynthe</placeName></l>
-                  <l n="2">et à <placeName ref="#Még">Mégare</placeName> ; car, pour les hommes
+                  <l n="2">et à <placeName ref="#Még">Mégare</placeName> ; car, pour les hommes
                      vénérables, il est pêché dans les bas-fonds.</l>
                </div>
             </div>
@@ -3005,7 +3009,7 @@
                         <placeName ref="#Tyn">Tyndare</placeName>.</l>
                   <l n="8">Et si tu vas dans lʹItalie sacrée à <placeName ref="#Hip"
                         >Hipponium</placeName>,</l>
-                  <l n="9">va au bord de l’eau ; les thons sont là de loin</l>
+                  <l n="9">va au bord de l’eau ; les thons sont là de loin</l>
                   <l n="10">les meilleurs de tous et emportent le prix de la victoire.</l>
                   <l n="11">Or les thons d’ici ont fait leur chemin depuis là-bas,</l>
                   <l n="12">après avoir traversé de nombreuses mers et voyagé dans les
@@ -3028,7 +3032,7 @@
             </div>
             <div n="p30" type="page" corresp="#archestratus_ms_a_fr_51">
                <div n="30" type="fragment">
-                  <l n="1">L'hippouros de <placeName ref="#Car">Caryste</placeName> est le
+                  <l n="1">L’hippouros de <placeName ref="#Car">Caryste</placeName> est le
                      meilleur.</l>
                   <l n="2"><placeName ref="#Car">Caryste</placeName> est en tout cas un lieu très
                      riche en poissons.</l>
@@ -3081,7 +3085,7 @@
                   <l n="1">Achète un mulet d’<placeName ref="#Egi">Égine</placeName> baigné de tous
                      côtés,</l>
                   <l n="2">et tu compteras parmi les hommes intelligents<note n="18">Durant
-                        l'Antiquité, il existait un stéréotype selon lequel ceux qui vivaient dans
+                        l’Antiquité, il existait un stéréotype selon lequel ceux qui vivaient dans
                         les villes étaient sophistiqués et intelligents alors que ceux des campagnes
                         étaient rustres et stupides. Cela était bien ancré dans l’esprit populaire
                         au moins à <placeName ref="#Athè">Athènes</placeName>. Ἀστείος (asteios) est
@@ -3106,7 +3110,7 @@
                   <l n="12">et en remuant sans cesse afin d’éviter qu’elles ne brûlent sans que l’on
                      ne s’en rende compte.</l>
                   <l n="13">Mais peu de mortels connaissent ce plat divin</l>
-                  <l n="14">et ces mortels qui ont une cervelle de moineau </l>
+                  <l n="14">et ces mortels qui ont une cervelle de moineau</l>
                   <l n="15">et qui sont stupides ne veulent pas en manger,</l>
                   <l n="16">sous prétexte que cette bête sauvage mange des hommes.</l>
                   <l n="17">Mais tout poisson apprécie la chair humaine s’il en croise un quelque
@@ -3226,7 +3230,7 @@
                               >Chalcédoine</placeName>, rôtis-le</l>
                         <l n="2">après l’avoir bien lavé. À <placeName ref="#Byz"
                               >Byzance</placeName> également, tu en verras un de qualité</l>
-                        <l n="3">et de belle taille, portant son dos comme un bouclier rond. </l>
+                        <l n="3">et de belle taille, portant son dos comme un bouclier rond.</l>
                         <l n="4">Prépare-le entier de la façon suivante. Achètes-en un dès à
                            présent,</l>
                         <l n="5">puis recouvre-le soigneusement tout entier de fromage et
@@ -3253,11 +3257,11 @@
                         <l n="2">la mère des grappes de raisin produisant du vin perd sa
                            chevelure,</l>
                         <l n="3">prends alors un sargue grillé, saupoudré de fromage,</l>
-                        <l n="4">d’une bonne taille et chaud, arrosé de vinaigre acide ;</l>
+                        <l n="4">d’une bonne taille et chaud, arrosé de vinaigre acide ;</l>
                         <l n="5">car il est de nature sèche. Rappelle-toi</l>
                         <l n="6">de préparer tout poisson à chair ferme de cette manière.</l>
                         <l n="7">Mais le bon poisson, tendre par nature et à chair grasse,</l>
-                        <l n="8">saupoudre-le seulement de sel et enduis-le d’huile d’olive ;</l>
+                        <l n="8">saupoudre-le seulement de sel et enduis-le d’huile d’olive ;</l>
                         <l n="9">car il a en lui la vertu du plaisir.</l>
                      </div>
                      <div>
@@ -3300,7 +3304,7 @@
                            <div n="54" type="fragment">
                               <l n="1">Et, quant au jeune et grand aulopias, achètes-en la tête</l>
                               <l n="2">en été, lorsque Phaéton<note n="21">Dans la mythologie
-                                    grecque, Phaéton (Φαέθων : le Brillant) est le fils du dieu
+                                    grecque, Phaéton (Φαέθων : le Brillant) est le fils du dieu
                                     Soleil et symbolise ici l’été. </note>conduit son char sur la
                                  voûte.</l>
                               <l n="3">Et sers-le chaud, sur le champ, avec une sauce.</l>
@@ -3328,7 +3332,7 @@
                                  souvent,</l>
                               <l n="5">ajoute l’hysope ciselée et si tu veux autre chose,</l>
                               <l n="6">arrose-la de vinaigre fort. Puis imbibe-la bien et hâte-toi
-                                 de l'engouffrer,</l>
+                                 de l’engouffrer,</l>
                               <l n="7">quitte à t’étouffer dans ta précipitation.</l>
                               <l n="8">Quant au dos, fais-le rôtir comme la plupart des autres
                                  parties.</l>
@@ -3345,7 +3349,7 @@
                                     doit être mangé. Il s’agit ici de l’été. Sirius se lève le 28
                                     juillet à la latitude d’Érétrie (WILKINS et HILL 2011).
                                     Archestrate nomme de temps à autre une saison par une figure
-                                    mythologique : voir fragments 54, 14 et 49.</note>il faut avoir
+                                    mythologique : voir fragments 54, 14 et 49.</note>il faut avoir
                                  mangé le pagre</l>
                               <l n="2">à <placeName ref="#Dél">Délos</placeName> et à <placeName
                                     ref="#Eré">Érétrie</placeName> dans les maisons des bons ports
@@ -3358,7 +3362,7 @@
                            <div n="58" type="fragment">
                               <l n="1">Tu trouveras le chromis de belle taille à <placeName
                                     ref="#Pel">Pella</placeName> – il est gras,</l>
-                              <l n="2">si c'est l'été – et à <placeName ref="#Amb"
+                              <l n="2">si c’est l’été – et à <placeName ref="#Amb"
                                     >Ambracie</placeName>.</l>
                            </div>
                         </div>
@@ -3366,12 +3370,12 @@
                            <div n="59" type="fragment">
                               <l n="1">Ne néglige pas la grasse dorade d’<placeName ref="#Eph"
                                     >Éphèse</placeName>,</l>
-                              <l n="2">que certains appellent “petite ionienne”. Achète-la,</l>
+                              <l n="2">que certains appellent « petite ionienne ». Achète-la,</l>
                               <l n="3">progéniture de l’auguste <placeName ref="#Sél"
                                     >Sélinοnte</placeName>, lave-la soigneusement,</l>
                               <l n="4">rôtis-la puis sers-la entière même si elle fait dix
                                     coudées<note n="23">Ancienne mesure de longueur qui va de
-                                    l'extrémité du grand doigt jusqu’au coude. Une coudée équivaut à
+                                    l’extrémité du grand doigt jusqu’au coude. Une coudée équivaut à
                                     45 cm. On note ici l’exagération d’Archestrate quant à la
                                     longueur de la dorade.</note>de long.</l>
                            </div>
@@ -3380,10 +3384,10 @@
                            <div n="60" type="fragment">
                               <p>La plupart des cuisiniers sont vraiment curieux des problèmes
                                  historiques et des noms. Les plus savants d’entre eux, du moins,
-                                 disent : &quot;le genou est plus proche que le tibia&quot;<note
-                                    n="24">Par cette expression, il faut entendre qu'il s'agirait de
+                                 disent : &quot;le genou est plus proche que le tibia&quot;<note
+                                    n="24">Par cette expression, il faut entendre qu’il s’agirait de
                                     donner la préférence aux plus proches, comme aider son frère
-                                    plutôt que son cousin. On pourrait traduire ainsi :
+                                    plutôt que son cousin. On pourrait traduire ainsi :
                                     &quot;Charité bien ordonnée commence par soi-même&quot;. Je
                                     remercie Aurélien Berra pour ses éclaircissements.</note> et</p>
                               <l>&quot;j’ai voyagé à travers l’Asie et l’Europe&quot;.</l>
@@ -3392,8 +3396,8 @@
                         <div n="p61" type="page" corresp="#archestratus_ms_a_fr_58">
                            <div n="61" type="fragment">
                               <l n="1">En même temps, prépare une jeune oie nourrie de grains<note
-                                    n="25">Un rare témoignage sur l'élevage de volailles dans
-                                    l'Antiquité (WILKINS et HILL 2011)</note></l>
+                                    n="25">Un rare témoignage sur l’élevage de volailles dans
+                                    l’Antiquité (WILKINS et HILL 2011)</note></l>
                               <l n="2">et celle-ci sera simplement rôtie.</l>
                            </div>
                         </div>
@@ -3401,7 +3405,7 @@
                            <div n="62" type="fragment">
                               <l n="1">Quant au lièvre, il existe différentes manières de le
                                  préparer</l>
-                              <l n="2">et de l’accommoder. Mais celle-ci est la meilleure :</l>
+                              <l n="2">et de l’accommoder. Mais celle-ci est la meilleure :</l>
                               <l n="3">si, pendant qu’ils boivent, tu sers à chacun une viande
                                  rôtie,</l>
                               <l n="4">chaude, simplement salée, retirée de la broche,</l>
@@ -3412,9 +3416,10 @@
                                  vraiment</l>
                               <l n="8">trop élaborées, avec des sauces visqueuses, très grasses</l>
                               <l n="9">en fromage et en huile, comme si on le préparait pour une
-                                 belette !<note n="26">La présence de cet animal était tolérée dans
-                                    les foyers grecs. Les belettes sont aussi connues pour voler la
-                                    viande et aimer le gras (OLSON et SENS 2000).</note></l>
+                                    belette !<note n="26">La présence de cet animal était tolérée
+                                    dans les foyers grecs. Les belettes sont aussi connues pour
+                                    voler la viande et aimer le gras (OLSON et SENS
+                                 2000).</note></l>
                            </div>
                         </div>
                      </div>
