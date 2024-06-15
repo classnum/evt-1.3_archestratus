@@ -46,8 +46,9 @@ p[data-ana="source"] {
 
 /* display of transl div */
 div[class="translation_text"]:first-child {
-    padding-top: 83px;
+    margin-top: 100px;
 }
+
 
 /* display of title page (front matter) */
 
@@ -94,10 +95,6 @@ div[class="translation_text"]:first-child {
 
 #text_frame-add[data-page="archestratus_front"] h1[data-type="sub"] {
     padding-bottom: 1.5em;
-}
-
-#text_cont {
-  padding-top: 8px;
 }
 
 span[data-tagname="hi"] {
