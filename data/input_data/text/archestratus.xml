@@ -1437,7 +1437,7 @@
             <l n="8">πλὴν ἑνὸς ἀνθρώπου, κεῖνος δέ μοί <choice>
                   <corr>A : ἐστι CE</corr>
                   <sic>ἐστιν</sic>
-               </choice>ἑταῖρος</l>
+               </choice> ἑταῖρος</l>
             <l n="9">Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
@@ -1470,8 +1470,9 @@
                </choice></l>
             <l n="8">ἔν τʹ ὄξει δριμεῖ καὶ σιλφίωι ἐμβεβαῶσαν</l>
             <l n="9">ὀρνίθων τε ὀπτῶν <choice>
-                  <corr>ἁπαλὸν</corr>
-                  <sic><emph>lacune</emph></sic>
+                  <corr>A : <emph>lacune</emph> CE</corr>
+                  <sic>ἁπαλὸν</sic>
+                  <!-- AB. Il faut afficher un texte, car votre édition critique vise à donner un texte à lire, et indiquer dans la note la source de votre leçon et, le cas échéant, quels sont les manuscrits lacunaires. -->
                </choice> γένος, <choice>
                   <corr>ὡς ἂν ὑπάρχηι</corr>
                   <sic><emph>lacune</emph></sic>
@@ -1563,10 +1564,17 @@
             xml:id="archestratus_ms_a_fr_5"/>
          <div n="10" type="fragment">
             <head>Fragment 10 (Ath. 3. 111e-12b)</head>
-            <l n="1"><choice>
+            <l n="1">
+               <!--<choice>
                   <corr>πρῶτα μὲν οὖν δώρων μεμνήσομαι ἠυκόμοιο</corr>
                   <sic><emph>lacune</emph></sic>
-               </choice></l>
+               </choice>-->
+               <!-- AB. Autre exemple de lacune, à mentionner dans la note critique et non dans le texte -->
+               <choice>
+                  <corr>A : <emph>lacune</emph> CE</corr>
+                  <sic>πρῶτα μὲν οὖν δώρων μεμνήσομαι ἠυκόμοιο</sic>
+               </choice>
+            </l>
             <l n="2"><choice>
                   <corr>Δήμητρος, φίλε Μόσχε· σὺ δʹ ἐν φρεσὶ βάλλεο σηισιν.</corr>
                   <sic><emph>lacune</emph></sic>
@@ -1762,7 +1770,7 @@
             <l n="3"><choice>
                   <corr>καὶ λαβὲ πρόσφατον αὐτὸν</corr>
                   <sic><emph>lacune</emph></sic>
-               </choice>ἐν<choice>
+               </choice> ἐν<choice>
                   <corr>εὐκόλποισι</corr>
                   <sic>εὐκόλποις</sic>
                </choice>Φαλήρου</l>
@@ -2007,7 +2015,7 @@
             <l n="9"><choice>
                   <corr>ἑρπετὸν εἰς ὕδατος στεφάνους· πολὺ δὴ</corr>
                   <sic><emph>lacune</emph></sic>
-               </choice>πολὺ πάντων</l>
+               </choice> πολὺ πάντων</l>
             <l n="10"><choice>
                   <corr>ἐνταῦθʹ</corr>
                   <sic><emph>lacune</emph></sic>
