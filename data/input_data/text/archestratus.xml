@@ -1413,14 +1413,15 @@
                   <corr>A : lac. in CE</corr>
                   <sic>καὶ ἄπλατα μετʹ αὐτῶν.</sic>
                </choice></l>
-            <l n="4"><choice>
+            <l n="4">
+               <choice>
                   <corr>Μεσσήνηι δὲ <choice>
-                      <corr>A : lac. in CE</corr>
+                        <corr>A : lac. in CE</corr>
                         <corr>Aac : πελωριάδες APC</corr>
                         <sic>πελωριαδαῖς</sic>
                      </choice> στενοπορθμίδαι κόγχας</corr>
-                  </sic>
-               </choice></l>
+               </choice>
+            </l>
             <l n="5"><choice>
                   <corr>A : ἐν EC</corr>
                   <sic>κὰν</sic>
