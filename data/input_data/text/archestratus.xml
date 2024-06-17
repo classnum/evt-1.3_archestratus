@@ -1341,8 +1341,8 @@
                   <sic>πίνειν, ἐκ Λέσβου περικύμονος ἐκγεγαῶτα.</sic>
                </choice></l>
             <l n="5">τὸν <choice>
-                  <corr>E : τʹ C</corr>
-                  <sic>δ᾽</sic>
+                  <corr>C : δ᾽ E</corr>
+                  <sic>τʹ</sic>
                </choice> ἀπὸ Φοινίκης ἱερᾶς τὸν Βύβλιον αἰνῶ,</l>
             <l n="6">οὐ μέντοι κείνωι γε παρεξισῶ αὐτον. ἂν γὰρ</l>
             <l n="7">ἐξαίφνας αὐτοῦ γεύσηι μὴ πρόσθεν ἐθισθείς,</l>
@@ -1351,8 +1351,8 @@
             <l n="10">πινόμενος δʹ ἥσσων πολλῶι. κεῖνος δὲ δοκήσει</l>
             <l n="11">οὐκ οἴνωι σοι ἔχειν ὅμοιον γέρας, ἀμβροσίαι δέ.</l>
             <l n="12">εἰ δέ <choice>
-                  <corr>C : τι E</corr>
-                  <sic>τινες</sic>
+                  <corr>E : τινες C</corr>
+                  <sic>τι</sic>
                </choice> σκώπτουσιν ἀλαζονοχαυνοφλύαροι</l>
             <l n="13">ὡς ἅδιστος ἔφυ πάντων Φοινίκιος οἶνος,</l>
             <l n="14">οὐ προσέχω τὸν νοῦν αὐτοῖς.</l>
@@ -1367,8 +1367,8 @@
                </choice> βοτρυοσταγῆ ἔρνη</l>
             <l n="18">εἰπεῖν αἰνῆσαί τε καὶ οὔ με λέληθʹ ὀνομῆναι.</l>
             <l n="19"> ἀλλ’ οὐθὲν <choice>
-                  <corr>C : τἆλλ’ E</corr>
-                  <sic>τἆλλος</sic>
+                  <corr>E : τἆλλος C</corr>
+                  <sic>τἆλλ’</sic>
                </choice> ἐστὶν ἁπλῶς πρὸς Λέσβιον οἶνον.</l>
             <l n="20">ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ’ αὑτοῖς.</l>
             <p ana="source">Manuscrit(s) : CE</p>
@@ -1386,7 +1386,7 @@
             <head>Fragment 5 (Ath. 2. 64a)</head>
             <l n="1">βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι</l>
             <l n="2">τ’ ταῖς <choice>
-                  <corr>ἄλλαις παροψίσι πάσηισι</corr>
+                  <corr>E : ἄλλαις παροψίσι πάσηισι C</corr>
                   <sic>ἄλλαισι παροψίσι πάσαις</sic>
                </choice>.</l>
             <p ana="source">Manuscrit(s) : CE</p>
@@ -1396,45 +1396,46 @@
          <div n="6" type="fragment">
             <head>Fragment 6 (Ath. 3. 92d-e)</head>
             <l n="1">τοὺς <choice>
-                  <corr>μῦς θʹ ἡ Αἶνος</corr>
-                  <sic>μῦς ἡ Αἶνος</sic>
+                  <corr>A : μῦς ἡ Αἶνος CE</corr>
+                  <sic>μῦς θʹ ἡ Αἶνος</sic>
                </choice> ἔχει μεγάλους, ὄστρεια δʹ Ἄβυδος,</l>
             <l n="2"><choice>
-                  <corr>τὰς ἄρκτους</corr>
-                  <sic>τοὺς ἄρκτους</sic>
+                  <corr>A : τοὺς ἄρκτους CE</corr>
+                  <sic>τὰς ἄρκτους</sic>
                </choice> Πάριον, τοὺς δὲ κτένας ἡ <choice>
-                  <corr>Μιτυλίνη</corr>
-                  <sic>Μιτυλήνη</sic>
+                  <corr>A : Μιτυλήνη CE</corr>
+                  <sic>Μιτυλίνη</sic>
                </choice>,</l>
             <l n="3"><choice>
-                  <corr>πλείστους</corr>
-                  <sic>πλεῖστα</sic>
+                  <corr>A : πλεῖστα CE</corr>
+                  <sic>πλείστους</sic>
                </choice> δʹ Ἀμβρακία παρέχει <choice>
-                  <corr>καὶ ἄπλατα μετʹ αὐτῶν.</corr>
-                  <sic><emph>lacune</emph></sic>
+                  <corr>A : lac. in CE</corr>
+                  <sic>καὶ ἄπλατα μετʹ αὐτῶν.</sic>
                </choice></l>
             <l n="4"><choice>
                   <corr>Μεσσήνηι δὲ <choice>
-                        <corr>πελωριαδαῖς</corr>
-                        <sic>πελωριάδες</sic>
+                      <corr>A : lac. in CE</corr>
+                        <corr>Aac : πελωριάδες APC</corr>
+                        <sic>πελωριαδαῖς</sic>
                      </choice> στενοπορθμίδαι κόγχας</corr>
-                  <sic><emph>lacune</emph></sic>
+                  </sic>
                </choice></l>
             <l n="5"><choice>
-                  <corr>κὰν</corr>
-                  <sic>ἐν</sic>
-               </choice> Ἐφέσωι <choice>
-                  <corr>λήψει</corr>
-                  <sic>λήψη</sic>
+                  <corr>A : ἐν EC</corr>
+                  <sic>κὰν</sic>
+               </choice> Ἐφέσω <choice>
+                  <corr>A : λήψη CE</corr>
+                  <sic>λήψει</sic>
                </choice> τὰς λείας οὔτι πονηράς.</l>
             <l n="6"><choice>
-                  <corr>τήθεα Καλχηδών</corr>
-                  <sic><emph>lacune</emph></sic>
+                  <corr>A : lac. in CE</corr>
+                  <sic>τήθεα Καλχηδών</sic>
                </choice>, τοὺς κήρυκας δʹ ἐπιτρίψαι</l>
             <l n="7">ὁ Ζεὺς τούς τε θαλασσογενεῖς καὶ τοὺς ἀγοραίους,</l>
             <l n="8">πλὴν ἑνὸς ἀνθρώπου, κεῖνος δέ μοί <choice>
-                  <corr>ἐστιν</corr>
-                  <sic>ἐστι</sic>
+                  <corr>A : ἐστι CE</corr>
+                  <sic>ἐστιν</sic>
                </choice>ἑταῖρος</l>
             <l n="9">Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
@@ -1446,24 +1447,24 @@
             <head>Fragment 7 (Ath. 3. 101b-e)</head>
             <l n="1">ἀεὶ δὲ στεφάνοισι κάρα παρὰ δαῖτα πυκάζου</l>
             <l n="2">παντοδαποῖς, οἷς ἄν γαίας πέδον ὄλβιον <choice>
-                  <corr>ἀνθῆι,</corr>
-                  <sic>ἀνθᾶ</sic>
+                  <corr>A : ἀνθᾶ, </corr>
+                  <sic>ἀνθῆι</sic>
                </choice></l>
             <l n="3">καὶ στακτοῖσι μύροις ἀγαθοῖς <choice>
-                  <corr>χαίτην</corr>
-                  <sic>χαίταν</sic>
+                  <corr>A : χαίταν CE</corr>
+                  <sic>χαίτην</sic>
                </choice> θεράπευε,</l>
             <l n="4">καὶ σμύρναν λίβανόν τε πυρὸς μαλακὴν ἐπὶ τέφραν</l>
             <l n="5">βάλλε πανημέριος, <choice>
-                  <corr>Συρίης</corr>
-                  <sic>Συρίοις</sic>
+                  <corr>A : Συρίοις CE</corr>
+                  <sic>Συρίης</sic>
                </choice> εὐώδεα κάρπον,</l>
             <l n="6"><choice>
-                  <corr>ἐμπίνοντι</corr>
-                  <sic>ἐμπίπτοντα</sic>
+                  <corr>A : ἐμπίπτοντα CE</corr>
+                  <sic>ἐμπίνοντι</sic>
                </choice> δὲ σοι φερέτω τοιόνδε τράγημα,</l>
             <l n="7">γαστέρα καὶ μήτραν ἑφθὴν ὑὸς ἔν τε <choice>
-                  <corr>κυμίνῳ</corr>
+                  <corr>:A : κυμίνῳ CE</corr>
                   <sic>μίνωι</sic>
                </choice></l>
             <l n="8">ἔν τʹ ὄξει δριμεῖ καὶ σιλφίωι ἐμβεβαῶσαν</l>
@@ -1525,12 +1526,12 @@
             <l n="1">ἀλλὰ παρεὶς λῆρον πολὺν άστακὸν ὠνοῦ</l>
             <l n="2">τὸν τὰς χεῖρας ἔχοντα μακρὰς ἄλλως τε βαρείας,</l>
             <l n="3">τοὺς <choice>
-                  <corr>δὲ</corr>
-                  <sic><emph>lacune</emph></sic>
+                  <corr>A : lac. in CE</corr>
+                  <sic>δὲ</sic>
                </choice> πόδας μικρούς, βραδέως δʹἐπὶ γαῖαν ὀρούει.</l>
             <l n="4">εἰσὶ δὲ πλεῖστοι <choice>
-                  <corr>μὲν πάντων ἀρετῆι τε</corr>
-                  <sic>καὶ ἀρετῆ</sic>
+                  <corr>A : καὶ ἀρετῆ CE</corr>
+                  <sic>μὲν πάντων ἀρετῆι τε</sic>
                </choice> κράτιστοι</l>
             <l n="5">ἐν Λιπάραις. πολλοὺς δὲ καὶ Ἑλλήσποντος ἀθροίζει.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
@@ -1541,11 +1542,11 @@
             <head>Fragment 9 (Ath. 3. 105e)</head>
             <l n="1">ἤν δέ ποτʹ εἰς Ἴασον Καρῶν πόλιν εἰσαφίκηαι,</l>
             <l n="2">καρῖδʹ εὐμεγέθη <choice>
-                  <corr>λήψεις</corr>
-                  <sic>λήψη</sic>
+                  <corr>A : λήψη CE</corr>
+                  <sic>λήψεις</sic>
                </choice>, <choice>
-                  <corr>σπανία</corr>
-                  <sic>σπανίαν</sic>
+                  <corr>A : σπανίαν CE</corr>
+                  <sic>σπανία</sic>
                </choice> δὲ πρίασθαι.</l>
             <l n="3">ἐν δὲ <choice>
                   <corr>Μακηδονίαι</corr>
