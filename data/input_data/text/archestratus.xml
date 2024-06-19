@@ -1305,11 +1305,11 @@
       </front>
 
       <body>
-         <pb n="1" facs="data/images/single/archestratus_ms_e_fr_1_debut.png"
-            xml:id="archestratus_ms_e_fr_1_debut"/>
+         <pb n="1" facs="data/images/single/archestratus_ms_e_fr_1_fin.png"
+            xml:id="archestratus_ms_e_fr_1_fin"/>
          <div n="1" type="fragment">
             <head>Fragment 1 (Ath. 1. 4d-e)</head>
-            <l>ἱστορίης ἐπίδειγμα ποιούμενος Ἑλλάδι πάσηι</l>
+            <l>ἱστορίης ἐπίδειγμα ποιούμενος Ἑλλάδι πάση</l>
             <p>φησί.</p>
             <p ana="source">Manuscrit(s) : CE</p>
          </div>
