@@ -2235,14 +2235,13 @@
          </div>
          <pb n="39" facs="data/images/single/archestratus_ms_a_fr_53_debut.png"
             xml:id="archestratus_ms_a_fr_53_debut"/>
-         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="39" type="fragment">
             <head>Fragment 39 (Ath. 7. 313.e-14 a)</head>
             <l>μόρμυρος αἰγιαλεύς, κακὸς ἰχθὺς οὐδέ ποτʹ ἐσθλός.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
-         <pb n="40" facs="data/images/single/archestratus_ms_a_fr_45.png"
-            xml:id="archestratus_ms_a_fr_45"/>
+         <pb n="40" facs="data/images/single/archestratus_ms_a_fr_45_fin.png"
+            xml:id="archestratus_ms_a_fr_45_fin"/>
          <div n="40" type="fragment">
             <head>Fragment 40 (Ath. 7. 313e–14a)</head>
             <l>κεστρέα τὸν θαυμαστόν, ὃταν χειμὼν ἀφίκηται.</l>
