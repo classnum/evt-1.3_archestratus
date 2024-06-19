@@ -14,7 +14,7 @@
 									"line" : "|",
 									"text" : "φησί.",
 									"tags" : "archestratus|Archestrate de Géla",
-									"loc" : "archestratus_ms_e_fr_1_debut|1",
+									"loc" : "archestratus_ms_e_fr_1_fin|1",
 									"inFront": "false"
 									},
 								
@@ -22,7 +22,7 @@
 									"line" : "|",
 									"text" : "Manuscrit(s) : CE",
 									"tags" : "archestratus|Archestrate de Géla",
-									"loc" : "archestratus_ms_e_fr_1_debut|1",
+									"loc" : "archestratus_ms_e_fr_1_fin|1",
 									"inFront": "false"
 									},
 								
@@ -38,7 +38,7 @@
 									"line" : "|",
 									"text" : "Manuscrit(s) : CE",
 									"tags" : "archestratus|Archestrate de Géla",
-									"loc" : "archestratus_ms_e_fr_59_debut|3",
+									"loc" : "archestratus_ms_e_fr_59_fin|3",
 									"inFront": "false"
 									},
 								
@@ -110,7 +110,7 @@
 									"line" : "|",
 									"text" : "Manuscrit(s) : ACE",
 									"tags" : "archestratus|Archestrate de Géla",
-									"loc" : "archestratus_ms_a_fr_39|12",
+									"loc" : "archestratus_ms_a_fr_39_fin|12",
 									"inFront": "false"
 									},
 								
@@ -134,7 +134,7 @@
 									"line" : "|",
 									"text" : "Manuscrit(s) : ACE",
 									"tags" : "archestratus|Archestrate de Géla",
-									"loc" : "archestratus_ms_a_fr_3|15",
+									"loc" : "archestratus_ms_a_fr_39|15",
 									"inFront": "false"
 									},
 								
@@ -342,7 +342,7 @@
 									"line" : "|",
 									"text" : "Manuscrit(s) : ACE",
 									"tags" : "archestratus|Archestrate de Géla",
-									"loc" : "archestratus_ms_a_fr_45|40",
+									"loc" : "archestratus_ms_a_fr_45_fin|40",
 									"inFront": "false"
 									},
 								
@@ -398,7 +398,7 @@
 									"line" : "|",
 									"text" : "Manuscrit(s) : ACE",
 									"tags" : "archestratus|Archestrate de Géla",
-									"loc" : "archestratus_ms_a_fr_14|47",
+									"loc" : "archestratus_ms_a_fr_14_fin|47",
 									"inFront": "false"
 									},
 								

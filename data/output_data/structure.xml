@@ -19,9 +19,9 @@
    <textpage>
       <text n="archestratus" label="Archestrate de Géla">
          <pb n="Titre">archestratus_front</pb>
-         <pb n="1">archestratus_ms_e_fr_1_debut</pb>
+         <pb n="1">archestratus_ms_e_fr_1_fin</pb>
          <pb n="2">archestratus_ms_e_fr_4</pb>
-         <pb n="3">archestratus_ms_e_fr_59_debut</pb>
+         <pb n="3">archestratus_ms_e_fr_59_fin</pb>
          <pb n="4">archestratus_ms_e_fr_8</pb>
          <pb n="5">archestratus_ms_e_fr_9</pb>
          <pb n="6">archestratus_ms_a_fr_7</pb>
@@ -30,10 +30,10 @@
          <pb n="9">archestratus_ms_a_fr_26</pb>
          <pb n="10">archestratus_ms_a_fr_5</pb>
          <pb n="11">archestratus_ms_a_fr_6</pb>
-         <pb n="12">archestratus_ms_a_fr_39</pb>
+         <pb n="12">archestratus_ms_a_fr_39_fin</pb>
          <pb n="13">archestratus_ms_a_fr_24_a</pb>
          <pb n="14">archestratus_ms_a_fr_36</pb>
-         <pb n="15">archestratus_ms_a_fr_3</pb>
+         <pb n="15">archestratus_ms_a_fr_39</pb>
          <pb n="16">archestratus_ms_a_fr_40</pb>
          <pb n="17">archestratus_ms_a_fr_11</pb>
          <pb n="18">archestratus_ms_a_fr_22_debut</pb>
@@ -58,14 +58,14 @@
          <pb n="37">archestratus_ms_a_fr_52</pb>
          <pb n="38">archestratus_ms_a_fr_17</pb>
          <pb n="39">archestratus_ms_a_fr_53_debut</pb>
-         <pb n="40">archestratus_ms_a_fr_45</pb>
+         <pb n="40">archestratus_ms_a_fr_45_fin</pb>
          <pb n="41">archestratus_ms_a_fr_49</pb>
          <pb n="42">archestratus_ms_a_fr_41</pb>
          <pb n="43">archestratus_ms_a_fr_15</pb>
          <pb n="44">archestratus_ms_a_fr_54</pb>
          <pb n="45">archestratus_ms_a_fr_47</pb>
          <pb n="46">archestratus_ms_a_fr_42a</pb>
-         <pb n="47">archestratus_ms_a_fr_14</pb>
+         <pb n="47">archestratus_ms_a_fr_14_fin</pb>
          <pb n="48">archestratus_ms_a_fr_30</pb>
          <pb n="49">archestratus_ms_a_fr_37</pb>
          <pb n="50">archestratus_ms_a_fr_29</pb>
@@ -89,13 +89,13 @@
       </pair>
       <pair/>
       <pair>
-         <pb n="1">archestratus_ms_e_fr_1_debut</pb>
+         <pb n="1">archestratus_ms_e_fr_1_fin</pb>
       </pair>
       <pair>
          <pb n="2">archestratus_ms_e_fr_4</pb>
       </pair>
       <pair>
-         <pb n="3">archestratus_ms_e_fr_59_debut</pb>
+         <pb n="3">archestratus_ms_e_fr_59_fin</pb>
       </pair>
       <pair>
          <pb n="4">archestratus_ms_e_fr_8</pb>
@@ -122,7 +122,7 @@
          <pb n="11">archestratus_ms_a_fr_6</pb>
       </pair>
       <pair>
-         <pb n="12">archestratus_ms_a_fr_39</pb>
+         <pb n="12">archestratus_ms_a_fr_39_fin</pb>
       </pair>
       <pair>
          <pb n="13">archestratus_ms_a_fr_24_a</pb>
@@ -131,7 +131,7 @@
          <pb n="14">archestratus_ms_a_fr_36</pb>
       </pair>
       <pair>
-         <pb n="15">archestratus_ms_a_fr_3</pb>
+         <pb n="15">archestratus_ms_a_fr_39</pb>
       </pair>
       <pair>
          <pb n="16">archestratus_ms_a_fr_40</pb>
@@ -206,7 +206,7 @@
          <pb n="39">archestratus_ms_a_fr_53_debut</pb>
       </pair>
       <pair>
-         <pb n="40">archestratus_ms_a_fr_45</pb>
+         <pb n="40">archestratus_ms_a_fr_45_fin</pb>
       </pair>
       <pair>
          <pb n="41">archestratus_ms_a_fr_49</pb>
@@ -227,7 +227,7 @@
          <pb n="46">archestratus_ms_a_fr_42a</pb>
       </pair>
       <pair>
-         <pb n="47">archestratus_ms_a_fr_14</pb>
+         <pb n="47">archestratus_ms_a_fr_14_fin</pb>
       </pair>
       <pair>
          <pb n="48">archestratus_ms_a_fr_30</pb>
