@@ -1326,8 +1326,8 @@
             <l n="4">μισθοφόρων ἁρπαξιβίων σκηνὴ στρατιωτῶν.</l>
             <p ana="source">Manuscrit(s) : CE</p>
          </div>
-         <pb n="3" facs="data/images/single/archestratus_ms_e_fr_59_debut.png"
-            xml:id="archestratus_ms_e_fr_59_debut"/>
+         <pb n="3" facs="data/images/single/archestratus_ms_e_fr_59_fin.png"
+            xml:id="archestratus_ms_e_fr_59_fin"/>
          <div n="3" type="fragment">
             <head>Fragment 3 (Ath. 1. 29a-d)</head>
             <l n="1">εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε,</l>
@@ -1621,8 +1621,8 @@
             <l n="3">παντοίας ἰδέας τεύκων ὡς ἂν σὺ κελεύης.</l>
             <p ana="source">Manuscrit(s) : A</p>
          </div>
-         <pb n="12" facs="data/images/single/archestratus_ms_a_fr_39.png"
-            xml:id="archestratus_ms_a_fr_39"/>
+         <pb n="12" facs="data/images/single/archestratus_ms_a_fr_39_fin.png"
+            xml:id="archestratus_ms_a_fr_39_fin"/>
          <div n="12" type="fragment">
             <head>Fragment 12 (Ath. 3. 116f-17b)</head>
             <l n="1">καὶ Σικελοῦ <choice>
@@ -1731,8 +1731,8 @@
                </choice>καταισχύνει τὸν πρόσθεν ἔπαινον.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
-         <pb n="15" facs="data/images/single/archestratus_ms_a_fr_3.png"
-            xml:id="archestratus_ms_a_fr_3"/>
+         <pb n="15" facs="data/images/single/archestratus_ms_a_fr_39.png"
+            xml:id="archestratus_ms_a_fr_39"/>
          <div n="15" type="fragment">
             <head>Fragment 15 (Ath. 7. 278d-e)</head>
             <l n="1">ὅπου ἐστὶν ἕκαστον</l>
