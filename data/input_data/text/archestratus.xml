@@ -643,22 +643,22 @@
                   utilisait l’Épitomé lorsqu’il enseignait à l’École patriarcale <placeName
                      ref="#Co">Constantinople</placeName> soit avant 1175 et l’utilise pour la
                   rédaction de ses commentaires sur L’<emph rend="italic">Iliade</emph> et L’<emph
-                     rend="italic">Odyssée</emph> .</p>
+                     rend="italic">Odyssée</emph>.</p>
 
-               <!--               <pb n="1" facs="data/images/single/stemma.png" xml:id="stemma"/>-->
-               <figure>
+               <!--<pb n="1" facs="data/images/single/stemma.png" xml:id="stemma"/>-->
+               <!--<figure>
                   <graphic url="data/images/single/stemma.png"/>
-               </figure>
+               </figure>-->
 
                <p>2. Un deuxième groupe est convaincu de l’indépendance de l’Épitomé par rapport au
                   Manuscrit A dont <persName ref="#Kai">G. Kaibel</persName>, <persName ref="#Pep"
                      >S. Peppink</persName>et <persName ref="#Des">A.-M.
                   Desrousseaux</persName> :</p>
 
-               <!--               <pb n="2" facs="data/images/single/stemmab.png" xml:id="stemmab"/>-->
-               <figure>
+               <!--<pb n="2" facs="data/images/single/stemmab.png" xml:id="stemmab"/>-->
+               <!--<figure>
                   <graphic url="data/images/single/stemmab.png"/>
-               </figure>
+               </figure>-->
 
                <p> Dès la Renaissance, plusieurs éditions et traductions des <emph rend="italic"
                      >Deipnosophistes</emph> ont vu le jour :</p>
@@ -716,10 +716,10 @@
                   cité.</p>
 
 
-               <!--               <pb n="3" facs="data/images/single/monicaberti.png" xml:id="monicaberti"/>-->
-               <figure>
+               <!--<pb n="3" facs="data/images/single/monicaberti.png" xml:id="monicaberti"/>-->
+               <!--<figure>
                   <graphic url="data/images/single/monicaberti.png"/>
-               </figure>
+               </figure>-->
 
                <p><emph rend="italic"> Langue d’<persName ref="#Arc">Archestrate</persName><note
                         n="4">Les informations de cette partie sont issues d’Olson et Sens
@@ -998,8 +998,9 @@
                      <p>L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 :</p>
 
                      <p><l>Περὶ τῶν κατ´ Ἰταλίαν τόπων διεξιών [...] ὁ καλὸς οὗτος περιηγητής (ap.
-                           Ath. 7. 294a)</l><l><emph rend="italic">Ce noble explorateur poursuivant
-                              sur les régions d’Italie.</emph></l></p>
+                           Ath. 7. 294a)</l>
+                        <l><emph rend="italic">Ce noble explorateur poursuivant sur les régions
+                              d’Italie.</emph></l></p>
 
                      <p><persName ref="#Arc">Archestrate</persName> est désigné comme <emph
                            rend="italic">le guide sage</emph> qui a parcouru le monde méditerranéen,
@@ -1415,14 +1416,9 @@
                </choice></l>
             <l n="4">
                <choice>
-                  <corr><choice>
-                        <corr>A : <emph>lacune</emph> CE</corr>
-                      <sic>Μεσσήνηι δὲ πελωριαδαῖς στενοπορθμίδαι</sic>
-                  </choice>
-                        <corr>Aac : πελωριάδες Apc</corr>
-                        <sic>πελωριαδαῖς</sic> </choice>
-                      κόγχας
-            </l>
+                  <corr>Aac : πελωριάδες Apc <emph>lacune</emph> CE</corr>
+                  <sic>Μεσσήνηι δὲ πελωριαδαῖς στενοπορθμίδαι</sic>
+               </choice> κόγχας </l>
             <l n="5"><choice>
                   <corr>A : ἐν EC</corr>
                   <sic>κὰν</sic>
@@ -1564,7 +1560,7 @@
          <div n="10" type="fragment">
             <head>Fragment 10 (Ath. 3. 111e-12b)</head>
             <l n="1">
-              <choice>
+               <choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>πρῶτα μὲν οὖν δώρων μεμνήσομαι ἠυκόμοιο</sic>
                </choice>
@@ -1652,9 +1648,9 @@
                </choice> ἡμιτάριχον.</l>
             <l n="8">ἂν δʹ ἀφίκηι κλεινοῦ Βυζαντίου εἰς πόλιν ἁγνήν,</l>
             <l n="9">ὡραίου φάγε μοι <choice>
-                <corr> A : τέμαχος πάνυ γὰρ ἔστιν ἐσθλόν CE>
-                <sic>τέμαχος πάλιν· ἔστι γὰρ ἐσθλὸν</sic>
-                </choice></l>
+                  <corr> A : τέμαχος πάνυ γὰρ ἔστιν ἐσθλόν CE</corr>
+                  <sic>τέμαχος πάλιν· ἔστι γὰρ ἐσθλὸν</sic>
+               </choice></l>
             <l n="10">καὶ μαλακόν.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
@@ -1664,14 +1660,13 @@
             <head>Fragment 13 (Ath. 4. 162b, 163c-e)</head>
             <l n="1">ἀλλʹ οὐ πολλοὶ ἴσασιν βροτῶν τόδε θεῖον ἔδεσμα,</l>
             <l n="2">οὐδʹ ἔσθειν ἐθέλουσ’ ὅσοι <choice>
-                <corr>A : κόυφαν τε λεβώδη CE</corr>
-                <sic>κόυφην τε λεβώδη</sic> 
-                </choice></l>
+                  <corr>A : κόυφαν τε λεβώδη CE</corr>
+                  <sic>κόυφην τε λεβώδη</sic>
+               </choice></l>
             <l n="3">ψυχὴν κέκτηνται θνητῶν <choice>
-                <corr>A : εἰσὶν CE</corr>
-                <sic>εἰσὶν δʹ</sic>
-            </choice>
-               ἀπόπληκτοι,</l>
+                  <corr>A : εἰσὶν CE</corr>
+                  <sic>εἰσὶν δʹ</sic>
+               </choice> ἀπόπληκτοι,</l>
             <l n="4">ὡς ἀνθρωποφάγου τοῦ θηρίου ὄντος. ἅπας δὲ</l>
             <l n="5">ἰχθὺς σάρκα φιλέεῖ βροτεάν, ἄν περ περικύρσηι.</l>
             <l n="6">ὥστε πρέπει καθαρῶς ὁπόσοι τάδε μωρολογοῦσι</l>
@@ -1693,7 +1688,7 @@
                   <sic>ἐπιθυμῆις</sic>
                </choice>.</l>
             <l n="4">εἰ <choice>
-                <corr>A : δὲ θέλεις CE</corr>
+                  <corr>A : δὲ θέλεις CE</corr>
                   <sic>δ' ἐθέλεις</sic>
                </choice> καὶ τοῦτο δαήμεναι, ὦ φίλε Μόσχε,</l>
             <l n="5">ὅντινα χρή σε τρόπον #κείνην διαθεῖναι ἄριστα,</l>
@@ -1747,7 +1742,7 @@
          <div n="16" type="fragment">
             <head>Fragment 16 (Ath. 7. 284e)</head>
             <l n="1"><choice>
-                  <corr>A : <emph>lacune<emph> CE</corr>
+                  <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>Βοσπόρου ἐκπλεύσαντα τὰ λευκότατʹ · ἀλλὰ</sic>
                </choice> προσέστω</l>
             <l n="2">μηδὲν ἐκεῖ στερεᾶς σαρκὸς Μαιώτιδι λίμνηι</l>
@@ -1964,11 +1959,10 @@
             xml:id="archestratus_ms_a_fr_28"/>
          <div n="27" type="fragment">
             <head>Fragment 27 (Ath. 7. 301c-d)</head>
-            <l n="1">καὶ <choice>
-                  <corr>λεβίαν <choice>
-                        <corr>A : λαβεῖν τὸν CE : λαβέ, Μόσχε, τὸν Valckenaer</corr>
-                        <sic>λαβεῖν οσχετον</sic>
-                     </choice>, ἥπατον, ἐν περικλύστωι</l>
+            <l n="1">καὶ λεβίαν <choice>
+                  <corr>A : λαβεῖν τὸν CE : λαβέ, Μόσχε, τὸν Valckenaer</corr>
+                  <sic>λαβεῖν οσχετον</sic>
+               </choice>, ἥπατον, ἐν περικλύστωι</l>
             <l n="2">Δήλωι καὶ Τήνωι.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
@@ -2006,7 +2000,7 @@
                   <sic>ἂν δὲ ποτʹ Ἰταλίας ἱερᾶς Εἰπώνιον ἔλθηις,</sic>
                </choice></l>
             <l n="9"><choice>
-                <corr>A : <emph>lacune</emph> CE</corr>
+                  <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>ἑρπετὸν εἰς ὕδατος στεφάνους· πολὺ δὴ</sic>
                </choice> πολὺ πάντων</l>
             <l n="10"><choice>
@@ -2148,10 +2142,11 @@
                   <sic>μηδὲν</sic>
                </choice> προσενέγκωις,</l>
             <l n="5">εἰ μὴ γλαυκὸν ἔλαιον. <choice>
-                <corr> A : <emph>lacune</emph> CE</corr>
-                <sic>ἐπειδὰν δʹ ὀπτὰ γένηται,</sic></choice></l>
+                  <corr> A : <emph>lacune</emph> CE</corr>
+                  <sic>ἐπειδὰν δʹ ὀπτὰ γένηται,</sic>
+               </choice></l>
             <l n="6"><choice>
-                <corr> A : <emph>lacune</emph> CE</corr>
+                  <corr> A : <emph>lacune</emph> CE</corr>
                   <sic>ἤδη τριμμάτιόν δέ φέρειν καὶ ἐκεῖνα μετʹ αὐτοῦ.</sic>
                </choice></l>
             <l n="7">ὅσσα δʹ ἂν ἐν λοπάδος κοίλης πληρώμασιν ἕψηις,</l>
@@ -2273,13 +2268,17 @@
             xml:id="archestratus_ms_a_fr_15"/>
          <div n="43" type="fragment">
             <head>Fragment 43 (Ath. 7. 315f-16a)</head>
-            <l n="1"><choice><corr>A : <emph>lacune</emph> CE</corr>
-                <sic>τὸν δʹὄνον</sic><choice> 
-                <corr>A : Ανθηδων Canter</corr>
-                <sic>ἀνοηδων</sic></choice>
-                <corr>A : <emph>lacune</emph> CE</corr>
-                <sic> τὸν καλλαρίαν καλέουσιν</sic>
-                     </choice> </l>
+            <l n="1"><choice>
+                  <corr>A : <emph>lacune</emph> CE</corr>
+                  <sic>τὸν δʹὄνον</sic>
+                  <choice>
+                     <corr>A : Ανθηδων Canter</corr>
+                     <sic>ἀνοηδων</sic>
+                  </choice>
+                  <corr>A : <emph>lacune</emph> CE</corr>
+                  <sic> τὸν καλλαρίαν καλέουσιν</sic>
+               </choice>
+            </l>
             <l n="2"><choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>ἐκτρέφη εὐμεγέθη,</sic>
@@ -2289,7 +2288,7 @@
                </choice> τινὰ σάρκα,</l>
             <l n="3">καλῶς οὐχ ἡδεῖαν ἔμοιγε, ἄλλʹ</l>
             <l n="4"><choice>
-                <corr>A : οἰδαίνουσαν CE</corr>
+                  <corr>A : οἰδαίνουσαν CE</corr>
                   <sic>ὑδαίνουσαν.</sic>
                </choice> χαίρει γὰρ ὁ μὲν τούτοις, ὁ δʹ ἐκείνοις.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
@@ -2334,7 +2333,7 @@
                </choice> δὲ τρίγλαν</l>
             <l n="2">ἔσθι’ ἐνὶ ψαφαρῆι ληφθέντα Τειχιοέσσηι,</l>
             <l n="3">Μιλήτου κώμηι Καρῶν πέλας <choice>
-                  <corr>A : ἀγκυλοκώλων  τόξ CE</corr>
+                  <corr>A : ἀγκυλοκώλων τόξ CE</corr>
                   <sic>ἀγκυλοκώλων</sic>
                </choice>.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
@@ -2441,12 +2440,13 @@
             <head>Fragment 53 (Ath. 7. 325d-e)</head>
             <l n="1">κἀν Θάσωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι</l>
             <l n="2">ταύτης· <choice>
-                <corr>A : <emph>lacune</emph> CE</corr>
-                <sic>ἐν δὲ</sic>
+                  <corr>A : <emph>lacune</emph> CE</corr>
+                  <sic>ἐν δὲ</sic>
                   <choice>
-                        <corr>A : Τέῳ Schneider</corr>
-                        <sic>τῶι</sic>
-                     </choice> <corr>A : <emph>lacune</emph> CE</corr>
+                     <corr>A : Τέῳ Schneider</corr>
+                     <sic>τῶι</sic>
+                  </choice>
+                  <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>χείρω, κεδνὴ δὲ καὶ αὐτὴ</sic>
                </choice>.</l>
             <l n="3">ἐν δʹ ̓Ερυθραῖς ἀγαθὴ θηρεύεται αἰγιαλῖτις.</l>
@@ -2559,8 +2559,9 @@
          <div n="61" type="fragment">
             <head>Fragment 61 (Ath. 9. 384b)</head>
             <l n="1">καὶ σιτευτοῦ χηνὸς ὁμοῦ <choice>
-                <corr> A : σκεύαζε CE</corr>
-                    <sic>σκευάζει</sic> νεοττόν,</l>
+                  <corr>A : σκεύαζε CE</corr>
+                  <sic>σκευάζει</sic>
+               </choice> νεοττόν,</l>
             <l n="2">ὀπτὸν ἁπλῶς καὶ τόνδε.</l>
             <p ana="source">Manuscrit(s) : A</p>
          </div>
@@ -2696,7 +2697,7 @@
                      « hérauts », Zeus</l>
                   <l n="7">les anéantira qu’ils soient nés en mer ou qu’ils fréquentent les
                      marchés,</l>
-                  <l n="8">à l’exception d’un seul homme, et celui-là est monami,</l>
+                  <l n="8">à l’exception d’un seul homme, et celui-là est mon ami,</l>
                   <l n="9">il habite <placeName ref="#Les">Lesbos</placeName>, fertile en vins, et
                      il se nomme Agathon.</l>
                </div>
