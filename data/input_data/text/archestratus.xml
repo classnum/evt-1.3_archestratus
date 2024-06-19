@@ -1795,7 +1795,6 @@
          </div>
          <pb n="18" facs="data/images/single/archestratus_ms_a_fr_22_debut.png"
             xml:id="archestratus_ms_a_fr_22_debut"/>
-         <!-- AB. Problème avec cette image en deux parties : il faut une image unique, avec un identifiant unique. -->
          <div n="18" type="fragment">
             <head>Fragment 18 (Ath. ACE 7. 285e-286a et A 7. 294f-5a)</head>
             <l n="1">ἐν <choice>
@@ -2340,8 +2339,8 @@
                </choice>.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
-         <pb n="47" facs="data/images/single/archestratus_ms_a_fr_14.png"
-            xml:id="archestratus_ms_a_fr_14"/>
+         <pb n="47" facs="data/images/single/archestratus_ms_a_fr_14_fin.png"
+            xml:id="archestratus_ms_a_fr_14_fin"/>
          <div n="47" type="fragment">
             <head>Fragment 47 (Ath. 7. 320a-b)</head>
             <l n="1">καὶ σκάρον ἐν παράλωι <choice>
