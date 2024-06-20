@@ -19,11 +19,13 @@
          <publicationStmt>
             <p/>
          </publicationStmt>
+
          <sourceDesc>
             <bibl>
                <title>Les Deipnosophistes</title>
                <author>Athénée de Naucratis</author>
             </bibl>
+
             <listWit>
                <witness xml:id="A">Manuscrit A, Venise, Bibliothèque Marciana, gr. Z. 447 (coll.
                   0820)</witness>
@@ -500,33 +502,25 @@
          <titlePage type="document_front">
 
             <pb n="Titre" xml:id="archestratus_front" facs="data/images/single/archestratus_front"/>
-
             <lb/>
             <lb/>
-
             <docTitle>
                <titlePart type="main">Archestrate de Géla, fragments</titlePart>
                <titlePart type="sub">Une édition numérique</titlePart>
             </docTitle>
-
             <lb/>
             <lb/>
             <lb/>
             <lb/>
-
             <byline>Transcription, encodage et traduction de<lb/><hi>Frédérique
                Maréchal</hi></byline>
-
             <lb/>
             <lb/>
-
             <byline>dans le cadre de son mémoire de master 1</byline>
             <byline>sous la direction d’<hi>Aurélien Berra</hi></byline>
-
             <lb/>
             <lb/>
             <lb/>
-
             <docImprint>
                <publisher>Université Paris-Nanterre</publisher>
                <lb/>
@@ -536,9 +530,7 @@
          </titlePage>
 
          <div>
-
             <head>Archestrate de Géla, fragments</head>
-
             <lb/>
 
             <div type="paratext" subtype="intro">
@@ -587,7 +579,6 @@
 
                <p><emph rend="italic">Les Deipnosophistes</emph> ont été composés vers l’an 200 de
                   notre ère et nous ont été transmis par trois manuscrits :</p>
-
                <p>Le manuscrit A, gr. Z. 447 (coll. 0820), se trouve à la Bibliothèque Nationale
                   Marciana de <placeName ref="#Ven">Venise</placeName>. Il nous est parvenu par
                   l’intermédiaire d’un manuscrit byzantin copié par <persName ref="#Jea">Jean Le
@@ -610,21 +601,17 @@
                   Enfin, les folios 370 à 372 ont été détériorés en raison de mauvaises conditions
                   de conservation, ce qui les rend difficiles à lire. On se sert des manuscrits C et
                   E pour combler ces lacunes.</p>
-
-
                <p>Les manuscrits C et E – version abrégée des <emph rend="italic"
                      >Deipnosophistes</emph> – s’inscrivent dans la tradition de l’Épitomé, travail
                   d’un érudit du XIIème siècle qui entreprit de résumer l’ouvrage d’<persName
                      ref="#Ath">Athénée</persName> en s’appuyant sur un manuscrit non mutilé. Ils
                   sont les seuls témoins de I a à 73 f. Leur grande proximité s’explique par un
                   modèle commun antérieur, un manuscrit perdu du Vatican.</p>
-
                <p>Le manuscrit C, supplément grec 841, se trouve à la Bibliothèque Nationale de
                   France. Il a été copié par <persName ref="#Dem">Démétrios Damilas</persName> entre
                   1476 et 1506. Il est d’un format moyen et comporte 203 folios. Il est rédigé en
                   écriture humaniste. C’est un manuscrit très lisible qui contient quelques
                   abréviations non usuelles.</p>
-
                <p> Le manuscrit E, Plutei LX. 2, se trouve quant à lui à la Bibliothèque
                   Laurentienne de Florence. Il a été copié par <persName ref="#Jac">Jacob
                      Questenberg</persName> vers 1490 à Rome et mesure 190*280 mm. Il est lui aussi
@@ -662,40 +649,39 @@
 
                <p> Dès la Renaissance, plusieurs éditions et traductions des <emph rend="italic"
                      >Deipnosophistes</emph> ont vu le jour :</p>
-               <p> 1. L’édition <emph rend="italic">princeps</emph> date de 1514. Elle est établie à
+               <p>1. L’édition <emph rend="italic">princeps</emph> date de 1514. Elle est établie à
                      <placeName ref="#Ven">Venise</placeName> par le crétois <persName ref="#Mus"
                      >Marcus Musurus</persName> qui travaillait pour l’imprimeur <persName
                      ref="#Muc">Alde Muce</persName>. Ce manuscrit qui se fondait sur le <emph
                      rend="italic">Marcianus</emph> disparaît dans les ateliers à la fin de
                   l’impression, ce qui était chose courante à cette époque.</p>
-               <p> 2. A Lyon, <persName ref="#Dal">Jacques Daléchamp</persName> fournit une
+               <p>2. A Lyon, <persName ref="#Dal">Jacques Daléchamp</persName> fournit une
                   traduction en latin des<emph rend="italic">Deipnosophistes</emph> en 1583 sans
                   accompagnement du texte.</p>
-               <p> 3. <persName ref="#Cas">Isaac Casaubon</persName> choisit la traduction de
+               <p>3. <persName ref="#Cas">Isaac Casaubon</persName> choisit la traduction de
                      <persName ref="#Dal">Daléchamp</persName> pour l’intégrer à son édition de
                   1598. A noter que la pagination de <persName ref="#Cas">Casaubon</persName> avec
                   ses divisions de dix lignes en dix lignes est fréquemment utilisée depuis le
                   XIXème siècle.</p>
-               <p> 4. Entre 1789 et 1791, l’œuvre est pour la première fois traduite en français par
+               <p>4. Entre 1789 et 1791, l’œuvre est pour la première fois traduite en français par
                      <persName ref="#Lef">Lefebvre de Villebrune</persName>.</p>
-
-               <p> 5. Au XIXème siècle, paraissent successivement trois nouvelles éditions du texte,
+               <p>5. Au XIXème siècle, paraissent successivement trois nouvelles éditions du texte,
                   celle du strasbourgeois <persName ref="#Sch">Jean Schweighäuser</persName>
                   (1801-1807), de <persName ref="#Din">Wilhelm Dindorf</persName> (1827) et
                      d’<persName ref="#Mei">August Meineke</persName> (1858-1859).</p>
-               <p> 6. Puis l’édition de <persName ref="#Kai">Georg Kaibel</persName> (1887-1890)
+               <p>6. Puis l’édition de <persName ref="#Kai">Georg Kaibel</persName> (1887-1890)
                   devient l’édition de référence.</p>
-               <p> 7. L’édition <persName ref="#Gul">Gulick</persName> (1927-1941) propose une
+               <p>7. L’édition <persName ref="#Gul">Gulick</persName> (1927-1941) propose une
                   nouvelle traduction en anglais.</p>
-               <p> 8. <persName ref="#Des">Alexandre-Marie Desrousseaux</persName> avec la
+               <p>8. <persName ref="#Des">Alexandre-Marie Desrousseaux</persName> avec la
                   collaboration de <persName ref="#Ast">Charles Astruc</persName> propose aux
                   éditions de la CUF (1956) une traduction en français des deux premiers livres des
                      <emph rend="italic">Deipnosophistes</emph>. Cette édition restera inachevée en
                   raison de la mort de son auteur en 1956. Il n’existe à ce jour aucune traduction
                   française complète des <emph rend="italic">Deipnosophistes</emph>.</p>
-               <p> 9. L’édition <persName ref="#Loe">Loeb</persName> (2006-2012) propose une
-                  nouvelle traduction en langue anglaise avec le texte grec en vis-à-vis.</p>
-               <p> 10. Il existe enfin une édition numérique des Deipnosophistes dirigée par
+               <p>9. L’édition <persName ref="#Loe">Loeb</persName> (2006-2012) propose une nouvelle
+                  traduction en langue anglaise avec le texte grec en vis-à-vis.</p>
+               <p>10. Il existe enfin une édition numérique des Deipnosophistes dirigée par
                      <persName ref="#Ber">Monica Berti</persName> de l’Université de <placeName
                      ref="#Lei">Leipzig</placeName> et hébergée par Github :
                   https://www.digitalathenaeus.org/ Cette édition a deux objectifs : faire
@@ -706,15 +692,14 @@
                      Kaibel</persName> sous format numérique. Nous avons aussi accès à celle
                      d’<persName ref="#Cas">Isaac Casaubon</persName>. Plusieurs outils sont mis à
                   notre disposition, notamment :</p>
-               <p> - Un récupérateur d’URN CTS qui permet de récupérer et de citer des paragraphes,
+               <p>- Un récupérateur d’URN CTS qui permet de récupérer et de citer des paragraphes,
                   des phrases et des mots dans les <emph rend="italic">Deipnosophistes</emph> ;</p>
-               <p> - Un convertisseur de références Casaubon – Kaibel ;</p>
-               <p> - Un alignement automatique des index d’Olson, Meineke et Kaibel.</p>
-               <p> - Un index d’auteurs, de personnes et de textes à partir du travail d’Olson qui
+               <p>- Un convertisseur de références Casaubon – Kaibel ;</p>
+               <p>- Un alignement automatique des index d’Olson, Meineke et Kaibel.</p>
+               <p>- Un index d’auteurs, de personnes et de textes à partir du travail d’Olson qui
                   permet d’obtenir des graphiques comme celui ci-dessous. On peut par exemple voir à
                   quels moments du texte <persName ref="#Arc">Archestrate de Géla</persName> est
                   cité.</p>
-
 
                <!--<pb n="3" facs="data/images/single/monicaberti.png" xml:id="monicaberti"/>-->
                <!--<figure>
@@ -737,7 +722,6 @@
                <p>À l’attique (premier dialecte utilisé dans le théâtre athénien). Nous trouvons
                   ainsi α long à la place de η après ι, ε, ρ, la conjonction εἶτα, et ου comme le
                   produit de la contraction ε + ο.</p>
-
                <p>Au dorique (dialecte parlé au temps d’<persName ref="#Arc">Archestrate</persName>
                   en Sicile). Nous avons trois exemples de génitifs en -α dans les fragments 34, 54
                   et 55, deux dans des noms de poissons et le dernier dans un nom propre : καρχαρία,
@@ -792,6 +776,7 @@
                   élogieux et faire d’<persName ref="#Arc">Archestrate</persName> une référence.
                   Enfin, <persName ref="#Ath">Athénée</persName> peut faire preuve d’ambivalence à
                   son égard et même se révéler hostile.</p>
+
                <div type="section" n="1">
                   <head>Quelques renseignements sur le poète et son œuvre</head>
 
@@ -814,7 +799,6 @@
                               >Syracuse</emph></placeName><emph rend="italic"> ou de
                               </emph><placeName ref="#Gé"><emph rend="italic"
                               >Géla</emph></placeName>.</l></p>
-
                      <p>Si<persName ref="#Arc">Archestrate</persName> fait mention à plusieurs
                         reprises de la ville de <placeName ref="#Syr">Syracuse</placeName> dans ses
                         fragments, jamais il n’est question de <placeName ref="#Gé"
@@ -856,7 +840,6 @@
                      <p><l>Ἀρχέστρατος δ´ ὀ πᾶσαν γῆν καὶ θάλασσαν [...] περιελθών (ap. Ath. 7.
                            326d) <lb/><emph rend="italic">Archestrate qui a parcouru toute la terre
                               et toute la mer.</emph></l></p>
-
                      <p><persName ref="#Arc">Archestrate de Géla</persName> a ainsi parcouru l’<emph
                            rend="italic">oikouménè</emph> c’est-à-dire l’ensemble des terres connues
                         et habitées de son époque. Cela nous est confirmé par les soixante-deux
@@ -905,7 +888,6 @@
                               J.-C.</note></persName>, <emph rend="italic">La science du
                               repas</emph>, selon d’autres la <emph rend="italic"
                            >Cuisine</emph>.</l></p>
-
                      <p>En 4. 162b et 7. 278a-d.,<persName ref="#Ath"
                            >Athénée</persName>cite<persName ref="#Lyc">Lycophron de
                               Chalcis<note>Lycophron de Chalcis, poète grec du IVème siècle av.
@@ -917,13 +899,11 @@
                         (ap. Ath. 7. 328b, 7. 310a, 7. 284e), ἱστορία (<emph rend="italic"
                            >Informations</emph>) (ap. Ath. 7. 298e, 7. 326b, 9. 383b), et de ἐν ταῖς
                         Γνώμαις (dans ses <emph rend="italic">Maximes</emph>) (ap. Ath. 7.286d).</p>
-
                      <p>Ainsi le poème d’<persName ref="#Arc">Archestrate</persName> est-il désigné
                         de huit façons différentes et parmi ses huit titres, il est impossible de
                         savoir lequel <persName ref="#Arc">Archestrate</persName> avait choisi, si
                         toutefois celui-ci figure bien parmi ces huit propositions. Nous n’en avons
                         en effet aucune mention dans aucun manuscrit.</p>
-
                      <p>Nous constatons tout d’abord que deux titres - <emph rend="italic"
                            >Gastrologia</emph> et <emph rend="italic">Gastronomia</emph> - sont
                         formés sur le radical <emph rend="italic">gastros</emph>. Dans le premier
@@ -973,6 +953,7 @@
                            <emph rend="italic">Deipnosophistes</emph> ?</p>
                   </div>
                </div>
+
                <div type="section" n="2">
                   <head>Du gastronome au glouton : le regard duel d’<persName ref="#Ath"
                         >Athénée</persName> sur <persName ref="#Arc">Archestrate</persName></head>
@@ -996,12 +977,10 @@
                            >Archestrate</persName> incarne l’idéal grec selon <persName ref="#Ath"
                            >Athénée</persName>.</p>
                      <p>L’adjectif καλὸς revient accompagné d’un substantif au fragment 20 :</p>
-
                      <p><l>Περὶ τῶν κατ´ Ἰταλίαν τόπων διεξιών [...] ὁ καλὸς οὗτος περιηγητής (ap.
                            Ath. 7. 294a)</l>
                         <l><emph rend="italic">Ce noble explorateur poursuivant sur les régions
                               d’Italie.</emph></l></p>
-
                      <p><persName ref="#Arc">Archestrate</persName> est désigné comme <emph
                            rend="italic">le guide sage</emph> qui a parcouru le monde méditerranéen,
                         mettant ainsi en valeur le choix sûr de ses destinations et sur sa façon de
@@ -1036,22 +1015,17 @@
                         <p><persName ref="#Ath">Athénée</persName> se moque volontiers d’<persName
                               ref="#Arc">Archestrate</persName>. À cinq reprises, Athénée fait en
                            effet un usage du superlatif pour le désigner :</p>
-
                         <p><l>ὁ πολυίστωρ Ἀρχέστρατος (ap. Ath. 7. 325d) :</l><l><emph rend="italic"
                                  >le très instruit</emph>
                               <persName ref="#Arc"><emph rend="italic"
                               >Archestrate</emph></persName></l></p>
-
                         <p><l>ὁ σοφώτατος Ἀρχέστρατος (ap. Ath. 7. 286c et 7. 286d)</l><l><emph
                                  rend="italic">le très sage </emph><persName ref="#Arc"><emph
                                     rend="italic">Archestrate</emph></persName></l></p>
-
-
                         <p><l>ὁ δὲ πολυμαθέστατος Ἀρχέστρατος (ap. Ath. 7. 324b et 9.
                                  384b)</l><l><emph rend="italic">le Très-Érudit</emph><persName
                                  ref="#Arc"><emph rend="italic"
                            >Archestrate</emph></persName></l></p>
-
                         <p>Le superlatif absolu indique qu’<persName ref="#Arc"
                               >Archestrate</persName> l’emporte sur tous ses contemporains en
                            sagesse et en connaissance, ce qui pourrait apparaître dans un premier
@@ -1297,12 +1271,11 @@
                            de paroles, les voix finissent par se confondre comme dans le brouhaha du
                            σύμποσιον.</p>
                      </div>
+
                   </div>
                </div>
             </div>
-
          </div>
-
       </front>
 
       <body>
@@ -2552,7 +2525,7 @@
             <head>Fragment 60 (Ath. 9. 383b)</head>
             <p>περίεργον δʹ ἐστὶν ὡς ἀληθῶς τὸ πολὺ τῶν μαγείρων γένος περί τε τὰς ἱστορίας καὶ τὰ
                ὀνόματα. λέγουσι γοῦν αὐτῶν οἱ λογιώτατοι « γόνυ κνήμης ἔγγιον » καὶ</p>
-            <l>✝ « περιῆλθον Ἀσίαν καὶ Εὐρώπην » ✝.</l>
+            <l>✝ « περιῆλθον Ἀσίαν καὶ Εὐρώπην » ✝.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
          <pb n="61" facs="data/images/single/archestratus_ms_a_fr_58.png"
@@ -2596,15 +2569,11 @@
                </choice>.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
-
-
-
       </body>
-
 
       <back>
          <div n="Archestrate de Géla" type="translation" xml:id="archestratus_fr" xml:lang="fr">
-            <div n="p1" type="page" corresp="#archestratus_ms_e_fr_1_debut">
+            <div n="p1" type="page" corresp="#archestratus_ms_e_fr_1_fin">
                <div n="1" type="fragment">
                   <l n="1">Faisant montre de mes recherches à la <placeName ref="#Gr"
                         >Grèce</placeName> entière,<note n="5">En principe, un poème épique commence
@@ -2627,7 +2596,7 @@
                   <l n="4">une tente de soldats mercenaires vivant de rapines.</l>
                </div>
             </div>
-            <div n="p3" type="page" corresp="#archestratus_ms_e_fr_59_debut">
+            <div n="p3" type="page" corresp="#archestratus_ms_e_fr_59_fin">
                <div n="3" type="fragment">
                   <l n="1">Puis, quand tu auras pris une pleine ration de Zeus le Sauveur,</l>
                   <l n="2">ce devrait être un vieux vin à la tête bien grise,</l>
@@ -2793,7 +2762,7 @@
                   <l n="3">chaque jour selon tes ordres.</l>
                </div>
             </div>
-            <div n="p12" type="page" corresp="#archestratus_ms_a_fr_39">
+            <div n="p12" type="page" corresp="#archestratus_ms_a_fr_39_fin">
                <div n="12" type="fragment">
                   <l n="1">Et une tranche de thon de <placeName ref="#Sic">Sicile</placeName>
                      est</l>
@@ -3025,7 +2994,7 @@
             </div>
             <div n="p29" type="page" corresp="#archestratus_ms_a_fr_38">
                <div n="29" type="fragment">
-                  <l n="1">>Achète une queue de thon femelle, je veux parler de la grande</l>
+                  <l n="1">Achète une queue de thon femelle, je veux parler de la grande</l>
                   <l n="2">thonne, dont la ville-mère est <placeName ref="#Byz"
                      >Byzance</placeName>.</l>
                   <l n="3">Puis, coupe-la correctement et rôtis-la entièrement,</l>
@@ -3168,12 +3137,12 @@
                   <l n="3">achète-la. Car c’est là-bas un mets exceptionnel.</l>
                </div>
             </div>
-            <div n="p39" type="page" corresp="#archestratus_ms_a_fr_53_debut">
+            <div n="p39" type="page" corresp="#archestratus_ms_a_fr_53_fin">
                <div n="39" type="fragment">
                   <l>Le mormyrus des rivages, un mauvais poisson et jamais bon.</l>
                </div>
             </div>
-            <div n="p40" type="page" corresp="#archestratus_ms_a_fr_45">
+            <div n="p40" type="page" corresp="#archestratus_ms_a_fr_45_fin">
                <div n="40" type="fragment">
                   <l>Le mulet est admirable quand l’hiver arrive.</l>
                </div>
@@ -3230,7 +3199,7 @@
                      membres tors.</l>
                </div>
             </div>
-            <div n="p47" type="page" corresp="#archestratus_ms_a_fr_14">
+            <div n="p47" type="page" corresp="#archestratus_ms_a_fr_14_fin">
                <div n="47" type="fragment">
                   <l n="1">Quant au grand scare des côtes de <placeName ref="#Cha"
                         >Chalcédoine</placeName>, rôtis-le</l>
@@ -3409,5 +3378,6 @@
             </div>
          </div>
       </back>
+
    </text>
 </TEI>
