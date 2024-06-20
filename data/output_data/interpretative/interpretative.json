@@ -115,7 +115,7 @@
 								
 									{
 										"line" : "no line info|no line info", 
-										"text" : "Manuscrit(s) : A",
+										"text" : "Manuscrit(s) : ACE",
 										"tags" : "archestratus|Archestrate de Géla",
 										"loc" : "archestratus_ms_a_fr_24_a|13",
 										"inFront": "false"
@@ -333,7 +333,7 @@
 										"line" : "no line info|no line info", 
 										"text" : "Manuscrit(s) : ACE",
 										"tags" : "archestratus|Archestrate de Géla",
-										"loc" : "archestratus_ms_a_fr_53_debut|39",
+										"loc" : "archestratus_ms_a_fr_53_fin|39",
 										"inFront": "false"
 									},
 								
