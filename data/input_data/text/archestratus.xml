@@ -1780,7 +1780,8 @@
             <l n="7">κνίδας ὀψωνεῖν, <choice>
                   <corr>A : τάς τ’ CE</corr>
                   <sic>τὰς</sic>
-               </choice> <choice>
+               </choice>
+               <choice>
                   <corr>AE : ἀφικομένους C</corr>
                   <sic>ἀμφικόμους</sic>
                </choice> ἀκαλήφας.</l>
@@ -1850,13 +1851,12 @@
                   <corr>ACE7.288 : βούγλωσσα A7.330</corr>
                   <sic>βούγλωσσον</sic>
                </choice>, <choice>
-                  <corr><choice>
-                        <corr>A7.288 : <emph>lacune</emph> ACE7.330</corr>
-                        <sic>ταύτην δὲ θερεὺς</sic>
-                     </choice><choice>
-                        <corr>ACE7.288 : περὶ Χαλκίδρα κεδνήν ACE7.330</corr>
-                        <sic>καὶ Χαλκίδρα κεδνήν </sic>
-                     </choice>.</l>
+                  <corr>A7.288 : <emph>lacune</emph> ACE7.330</corr>
+                  <sic>ταύτην δὲ θερεὺς</sic>
+               </choice><choice>
+                  <corr>ACE7.288 : περὶ Χαλκίδρα κεδνήν ACE7.330</corr>
+                  <sic>καὶ Χαλκίδρα κεδνήν </sic>
+               </choice>.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
          <pb n="22" facs="data/images/single/archestratus_ms_a_fr_19.png"
@@ -2269,12 +2269,12 @@
             <l n="1"><choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>τὸν δʹ ὄνον</sic>
-            </choice>
-                <choice>
-                   <corr>A : Ἀνθηδών Canter</corr>
-                     <sic>ἀνοηδων</sic>
-                  </choice>
-                <choice>
+               </choice>
+               <choice>
+                  <corr>A : Ἀνθηδών Canter</corr>
+                  <sic>ἀνοηδων</sic>
+               </choice>
+               <choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
                   <sic> τὸν καλλαρίαν καλέουσιν</sic>
                </choice>
