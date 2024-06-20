@@ -1853,7 +1853,7 @@
                </choice>, <choice>
                   <corr>A7.288 : <emph>lacune</emph> ACE7.330</corr>
                   <sic>ταύτην δὲ θερεὺς</sic>
-               </choice><choice>
+               </choice> <choice>
                   <corr>ACE7.288 : περὶ Χαλκίδρα κεδνήν ACE7.330</corr>
                   <sic>καὶ Χαλκίδρα κεδνήν </sic>
                </choice>.</l>
@@ -2434,8 +2434,8 @@
                </choice>.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
-         <pb n="53" facs="data/images/single/archestratus_ms_a_fr_42b.png"
-            xml:id="archestratus_ms_a_fr_42b"/>
+         <pb n="53" facs="data/images/single/archestratus_ms_a_fr_42.png"
+            xml:id="archestratus_ms_a_fr_42"/>
          <div n="53" type="fragment">
             <head>Fragment 53 (Ath. 7. 325d-e)</head>
             <l n="1">κἀν Θάσωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι</l>
@@ -3290,7 +3290,7 @@
                         <placeName ref="#Mar">Maronie</placeName>.</l>
                </div>
             </div>
-            <div n="p53" type="page" corresp="#archestratus_ms_a_fr_42b">
+            <div n="p53" type="page" corresp="#archestratus_ms_a_fr_42">
                <div n="53" type="fragment">
                   <l n="1">Et à <placeName ref="#Tha">Thasos</placeName>, achète un rouget et tu
                      n’en auras pas un pire</l>
