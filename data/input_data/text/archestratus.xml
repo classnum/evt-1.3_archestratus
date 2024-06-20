@@ -538,7 +538,7 @@
                <head rend="bold">Introduction</head>
                <p>Seuls subsistent aujourd’hui soixante-deux fragments<note n="1">Je remercie
                      vivement Aurélien Berra pour les pages de sa thèse qui m’ont aidée à enrichir
-                     mon introduction. </note>, soit environ 334 vers<note n="2">Soit environ 28% du
+                     mon introduction.</note>, soit environ 334 vers<note n="2">Soit environ 28% du
                      poème si l’on considère qu’un poème écrit sur un papyrus pouvait contenir 1200
                      vers (OLSON et SENS 2000).</note>, du poète <persName ref="#Arc"
                      >Archestrate</persName> de <placeName ref="#Gé">Géla</placeName> qui vécut au
@@ -553,16 +553,15 @@
                      <emph rend="italic">Les Deipnosophistes</emph> ou <emph rend="italic">Le
                      Banquet des savants</emph><note n="3">On attribue aussi à Athénée un traité
                      historique Sur les rois de Syrie et une monographie sur Les Poissons d’Archippe
-                     - deux ouvrages disparus. </note>. Venu à <placeName ref="#Ro"
-                  >Rome</placeName>, <persName ref="#Ath">Athénée</persName> rencontra vers 180-195
-                  le <rs ref="#P. Liv">riche </rs><persName ref="#P. Liv">P. Livius
-                     Larensis</persName>, <rs ref="#P. Liv">haut fonctionnaire</rs>,<rs
-                     ref="#P. Liv">bibliophile</rs> et <rs ref="#P. Liv">philhellène</rs>. Nous ne
-                  savons pas vraiment quels liens unirent <persName ref="#Ath">Athénée</persName> et
-                     <persName ref="#P. Liv">P. Livius Larensis</persName> mais il semblerait
-                     qu’<persName ref="#Ath">Athénée</persName> ait été <rs ref="#Ath">chargé
-                     d’enrichir de pièces rares la bibliothèque personnelle</rs> de <rs
-                     ref="#P. Liv">ce dernier</rs>.</p>
+                     - deux ouvrages disparus.</note>. Venu à <placeName ref="#Ro">Rome</placeName>,
+                     <persName ref="#Ath">Athénée</persName> rencontra vers 180-195 le <rs
+                     ref="#P. Liv">riche </rs><persName ref="#P. Liv">P. Livius Larensis</persName>,
+                     <rs ref="#P. Liv">haut fonctionnaire</rs>,<rs ref="#P. Liv">bibliophile</rs> et
+                     <rs ref="#P. Liv">philhellène</rs>. Nous ne savons pas vraiment quels liens
+                  unirent <persName ref="#Ath">Athénée</persName> et <persName ref="#P. Liv">P.
+                     Livius Larensis</persName> mais il semblerait qu’<persName ref="#Ath"
+                     >Athénée</persName> ait été <rs ref="#Ath">chargé d’enrichir de pièces rares la
+                     bibliothèque personnelle</rs> de <rs ref="#P. Liv">ce dernier</rs>.</p>
                <p>Dans <emph rend="italic">Les Deipnosophistes</emph>, <persName ref="#Ath"
                      >Athénée</persName> rapporte à son ami <persName ref="#Tim"
                      >Timocrate</persName> les propos de table tenus par une vingtaine d’érudits
@@ -3242,15 +3241,15 @@
                   <l n="1">Quant à moi, je considère</l>
                   <l n="2">toujours la saupe comme un mauvais poisson, mais elle est la plus
                      mangeable</l>
-                  <l n="3">au moment de la moisson du blé. Achète-la <lb/>à<placeName ref="#Myt"
+                  <l n="3">au moment de la moisson du blé. Achète-la <lb/>à <placeName ref="#Myt"
                         >Mytilène</placeName>.</l>
                </div>
             </div>
             <div n="p51" type="page" corresp="#archestratus_ms_a_fr_18">
                <div n="51" type="fragment">
                   <l n="1">Mais, quant au sinodon, recherche seulement celui qui est épais.</l>
-                  <l n="2">Essaie aussi de l’attraper dans le détroit, mon ami.<note n="20"> Il
-                        s’agit de Moschos.</note></l>
+                  <l n="2">Essaie aussi de l’attraper dans le détroit, mon ami<note n="20">Il s’agit
+                        de Moschos.</note>.</l>
                   <l n="3">Ce même conseil, il se trouve que je le donne à toi aussi, Cleaïnos.</l>
                </div>
             </div>
