@@ -1336,7 +1336,7 @@
 				
 					{ 
 						"line" : "no line info|no line info",
-						"text" : "  1  Quant à moi, je considère   2  toujours la saupe comme un mauvais poisson, mais elle est la plus mangeable   3  au moment de la moisson du blé. Achète-la àMytilène.",
+						"text" : "  1  Quant à moi, je considère   2  toujours la saupe comme un mauvais poisson, mais elle est la plus mangeable   3  au moment de la moisson du blé. Achète-la à Mytilène.",
 						"tags" : "archestratus|Archestrate de Géla",
 						"loc" : "archestratus_ms_a_fr_29|50",
 						"inFront": "",
@@ -1363,7 +1363,7 @@
 				
 					{ 
 						"line" : "no line info|no line info",
-						"text" : "  1  Mais, quant au sinodon, recherche seulement celui qui est épais.   2  Essaie aussi de l’attraper dans le détroit, mon ami. Il s’agit de Moschos.   3  Ce même conseil, il se trouve que je le donne à toi aussi, Cleaïnos.",
+						"text" : "  1  Mais, quant au sinodon, recherche seulement celui qui est épais.   2  Essaie aussi de l’attraper dans le détroit, mon amiIl s’agit de Moschos..   3  Ce même conseil, il se trouve que je le donne à toi aussi, Cleaïnos.",
 						"tags" : "archestratus|Archestrate de Géla",
 						"loc" : "archestratus_ms_a_fr_18|51",
 						"inFront": "",
