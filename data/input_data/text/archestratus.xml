@@ -653,7 +653,7 @@
                <p>2. Un deuxième groupe est convaincu de l’indépendance de l’Épitomé par rapport au
                   Manuscrit A dont <persName ref="#Kai">G. Kaibel</persName>, <persName ref="#Pep"
                      >S. Peppink</persName>et <persName ref="#Des">A.-M.
-                  Desrousseaux</persName> :</p>
+                  Desrousseaux</persName>.</p>
 
                <!--<pb n="2" facs="data/images/single/stemmab.png" xml:id="stemmab"/>-->
                <!--<figure>
@@ -1378,7 +1378,7 @@
             xml:id="archestratus_ms_e_fr_8"/>
          <div n="4" type="fragment">
             <head>Fragment 4 (Ath. 2. 56c)</head>
-            <l n="1">ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l>
+            <l n="1">ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι.</l>
             <p ana="source">Manuscrit(s) : CE</p>
          </div>
          <pb n="5" facs="data/images/single/archestratus_ms_e_fr_9.png"
@@ -1416,7 +1416,7 @@
                </choice></l>
             <l n="4">
                <choice>
-                  <corr>Aac : πελωριάδες Apc <emph>lacune</emph> CE</corr>
+                  <corr>Aac : πελωριάδεις Apc : <emph>lacune</emph> CE</corr>
                   <sic>Μεσσήνηι δὲ πελωριαδαῖς στενοπορθμίδαι</sic>
                </choice> κόγχας </l>
             <l n="5"><choice>
@@ -1570,7 +1570,7 @@
                   <sic>Δήμητρος, φίλε Μόσχε· σὺ δʹ ἐν φρεσὶ βάλλεο σηισιν.</sic>
                </choice></l>
             <l n="3"><choice>
-                  <corr>A : <emph>lacune</emph>CE</corr>
+                  <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>ἔστι γὰρ οὖν τὰ κράτιστα λαβεῖν βέλτιστά τε πάντων,</sic>
                </choice></l>
             <l n="4"><choice>
@@ -1612,7 +1612,7 @@
             xml:id="archestratus_ms_a_fr_6"/>
          <div n="11" type="fragment">
             <head>Fragment 11 (Ath. 3. 112b-c)</head>
-            <l n="1">ἔστω δʹἤ σοι ἀνὲρ Φοῖνιξ ἣ Λυδὸς ἐν οἴκωι,</l>
+            <l n="1">ἔστω δʹ ἤ σοι ἀνὲρ Φοῖνιξ ἣ Λυδὸς ἐν οἴκωι,</l>
             <l n="2">ὄστις ἐπιστήμων ἔσται σοι ὁ κατʹἦμαρ</l>
             <l n="3">παντοίας ἰδέας τεύκων ὡς ἂν σὺ κελεύης.</l>
             <p ana="source">Manuscrit(s) : A</p>
@@ -1672,13 +1672,13 @@
             <l n="6">ὥστε πρέπει καθαρῶς ὁπόσοι τάδε μωρολογοῦσι</l>
             <l n="7">τοῖς λαχάνοις προσάγειν καὶ πρὸς Διόδωρον ἰόντας</l>
             <l n="8">τὸν σοφὸν ἐγκρατέως μετʹ ἐκείνου πυθαγορίζειν.</l>
-            <p ana="source">Manuscrit(s) : A</p>
+            <p ana="source">Manuscrit(s) : ACE</p>
          </div>
          <pb n="14" facs="data/images/single/archestratus_ms_a_fr_36.png"
             xml:id="archestratus_ms_a_fr_36"/>
          <div n="14" type="fragment">
             <head>Fragment 14 (Ath. 7. 278a-d et 7. 313e-14a)</head>
-            <l n="1">τὴν<choice>
+            <l n="1">τὴν <choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>δʹ</sic>
                </choice> ἀμίαν φθινοπώρου, ὅταν Πλειὰς καταδύνηι,</l>
@@ -1705,8 +1705,8 @@
                   <sic>ἐρατεινοῦ</sic>
                </choice>,</l>
             <l n="12"><choice>
-                  <corr>εἴπερ ἔχειν ἀγαθὴν ἐθέλεις· κἂν ἐγγὺς ἁλωι που</corr>
-                  <sic><emph>lacune</emph></sic>
+                  <corr>A : <emph>lacune</emph> CE</corr>
+                  <sic>εἴπερ ἔχειν ἀγαθὴν ἐθέλεις· κἂν ἐγγὺς ἁλωι που</sic>
                </choice></l>
             <l n="13"><choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
@@ -1731,7 +1731,7 @@
          <div n="15" type="fragment">
             <head>Fragment 15 (Ath. 7. 278d-e)</head>
             <l n="1">ὅπου ἐστὶν ἕκαστον</l>
-            <l n="2">κάλλιστον βρωτόν.<choice>
+            <l n="2">κάλλιστον βρωτόν <choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
                   <sic>τε.</sic>
                </choice></l>
@@ -1780,7 +1780,7 @@
             <l n="7">κνίδας ὀψωνεῖν, <choice>
                   <corr>A : τάς τ’ CE</corr>
                   <sic>τὰς</sic>
-               </choice><choice>
+               </choice> <choice>
                   <corr>AE : ἀφικομένους C</corr>
                   <sic>ἀμφικόμους</sic>
                </choice> ἀκαλήφας.</l>
@@ -1856,9 +1856,7 @@
                      </choice><choice>
                         <corr>ACE7.288 : περὶ Χαλκίδρα κεδνήν ACE7.330</corr>
                         <sic>καὶ Χαλκίδρα κεδνήν </sic>
-                     </choice></corr>
-                  <sic><emph>lacune</emph></sic>
-               </choice>.</l>
+                     </choice>.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
          <pb n="22" facs="data/images/single/archestratus_ms_a_fr_19.png"
@@ -2227,8 +2225,8 @@
                </choice> ἐκεῖ θαυμαστὸν ἔδεσμα.</l>
             <p ana="source">Manuscrit(s) : ACE</p>
          </div>
-         <pb n="39" facs="data/images/single/archestratus_ms_a_fr_53_debut.png"
-            xml:id="archestratus_ms_a_fr_53_debut"/>
+         <pb n="39" facs="data/images/single/archestratus_ms_a_fr_53_fin.png"
+            xml:id="archestratus_ms_a_fr_53_fin"/>
          <div n="39" type="fragment">
             <head>Fragment 39 (Ath. 7. 313.e-14 a)</head>
             <l>μόρμυρος αἰγιαλεύς, κακὸς ἰχθὺς οὐδέ ποτʹ ἐσθλός.</l>
@@ -2270,11 +2268,13 @@
             <head>Fragment 43 (Ath. 7. 315f-16a)</head>
             <l n="1"><choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
-                  <sic>τὸν δʹὄνον</sic>
-                  <choice>
-                     <corr>A : Ανθηδων Canter</corr>
+                  <sic>τὸν δʹ ὄνον</sic>
+            </choice>
+                <choice>
+                <corr>A : Ἀνθηδών Canter>
                      <sic>ἀνοηδων</sic>
                   </choice>
+                <choice>
                   <corr>A : <emph>lacune</emph> CE</corr>
                   <sic> τὸν καλλαρίαν καλέουσιν</sic>
                </choice>
@@ -2470,7 +2470,7 @@
          <div n="55" type="fragment">
             <head>Fragment 55 (Ath. 7. 326d)</head>
             <l n="1">τευθίδες ἐν Δίωι τῶι <choice>
-                  <corr>Πιερικῷ</corr>
+                  <corr>A : Πιερικῷ CE</corr>
                   <sic>Πιερκῶι</sic>
                </choice> παρὰ χεῦμα</l>
             <l n="2"><choice>
@@ -2558,10 +2558,7 @@
             xml:id="archestratus_ms_a_fr_58"/>
          <div n="61" type="fragment">
             <head>Fragment 61 (Ath. 9. 384b)</head>
-            <l n="1">καὶ σιτευτοῦ χηνὸς ὁμοῦ <choice>
-                  <corr>A : σκεύαζε CE</corr>
-                  <sic>σκευάζει</sic>
-               </choice> νεοττόν,</l>
+            <l n="1">καὶ σιτευτοῦ χηνὸς ὁμοῦ σκευάζει νεοττόν,</l>
             <l n="2">ὀπτὸν ἁπλῶς καὶ τόνδε.</l>
             <p ana="source">Manuscrit(s) : A</p>
          </div>
